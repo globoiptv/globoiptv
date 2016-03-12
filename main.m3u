@@ -23,8 +23,6 @@ http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8
 #EXTINF:-1,H1
 http://91.103.26.50:1935/edge/smil:liveStream.smil/playlist.m3u8
 
-#EXTINF:0,LBC
-http://2.109.65.142/masa/14211.m3u8?v=1279345274
 
 #EXTINF:-1,MBC1
 http://2.109.65.247/masa/24742.m3u8?v=2955693415
@@ -47,3 +45,25 @@ http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+
+#EXTINF:0,Noursat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+ 
+#EXTINF:0,Noursat Mariam TV
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+ 
+#EXTINF:0,Noursat Music
+https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
+ 
+#EXTINF:0,Noursat Kids
+https://svs.itworkscdn.net/nour7satlive/livestream/playlist.m3u8
+ 
+#EXTINF:0,Noursat Spirit
+https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
+ 
+#EXTINF:0,Noursat Kodas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+ 
+#EXTINF:0,Noursat Alkalema
+https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
