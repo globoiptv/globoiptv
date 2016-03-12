@@ -23,6 +23,11 @@ http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8
 #EXTINF:-1,H1
 http://91.103.26.50:1935/edge/smil:liveStream.smil/playlist.m3u8
 
+#EXTINF:0,LBC
+http://2.109.65.142/masa/14211.m3u8?v=1279345274
+
+#EXTINF:-1,MBC1
+http://2.109.65.247/masa/24742.m3u8?v=2955693415
 #EXTINF:-1,MBC2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
 #EXTINF:-1,MBC Action
