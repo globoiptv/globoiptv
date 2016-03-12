@@ -43,27 +43,60 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 #EXTINF:-1,Dubai Drama
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 
+#EXTINF:0,RT Documentary
+http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 
+#EXTINF:0,Vevo1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:0,Vevo2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:0,Vevo3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+
+
 #EXTINF:0,Noursat
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
- 
 #EXTINF:0,Noursat Mariam TV
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
- 
 #EXTINF:0,Noursat Music
 https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
- 
 #EXTINF:0,Noursat Kids
 https://svs.itworkscdn.net/nour7satlive/livestream/playlist.m3u8
- 
 #EXTINF:0,Noursat Spirit
 https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
- 
 #EXTINF:0,Noursat Kodas
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
- 
 #EXTINF:0,Noursat Alkalema
 https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
+
+
+
+
+
+#EXTINF:0,NFL Now HD
+http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
+#EXTINF:0,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:0,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:0,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:0,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:0,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:0,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
