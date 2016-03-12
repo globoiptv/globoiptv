@@ -73,6 +73,10 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0,PBS
 http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/207/amlst:mainstream/demotiki207.m3u8?op_id=19&userId=0&channelId=41053&stime=1457798946&etime=1457885346&token=0041ab43f243d71cbccac
 
+
+#EXTINF:0,CosmoBody
+http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/494/amlst:mainstream/demotiki494.m3u8?op_id=19&userId=0&channelId=41405&stime=1457801877&etime=1457888277&token=06e4d8ba59decb05b398f
+
 #EXTINF:0,Food Newtwork
 http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
