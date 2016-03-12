@@ -46,12 +46,17 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 
 
-#EXTINF:0,Food Newtwork
-http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
-
-
 #EXTINF:0,CBS
 http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/63/amlst:mainstream/demotiki63.m3u8?op_id=19&userId=0&channelId=41251&stime=1457780018&etime=1457866418&token=0a63118bf017d6b0fd900
+
+#EXTINF:0,CW
+http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/65/amlst:mainstream/demotiki65.m3u8?op_id=19&userId=0&channelId=40638&stime=1457798414&etime=1457884814&token=0e0c1314790d1df5a722f
+
+#EXTINF:0,SESAME Street
+http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/76/amlst:mainstream/demotiki76.m3u8?op_id=19&userId=0&channelId=40655&stime=1457798463&etime=1457884863&token=0491361d23f1ef919030d
+
+#EXTINF:0,Top Gear
+http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/134/amlst:mainstream/demotiki134.m3u8?op_id=19&userId=0&channelId=40640&stime=1457798724&etime=1457885124&token=076b74cfcf2b03aaad625
 
 #EXTINF:0,Discovery
 http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/11/amlst:mainstream/demotiki11.m3u8?op_id=19&userId=0&channelId=40686&stime=1457780186&etime=1457866586&token=0798ea22e60ecb6ab9c9a
@@ -63,6 +68,13 @@ http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/405/amlst:mainstre
 http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+
+#EXTINF:0,PBS
+http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/207/amlst:mainstream/demotiki207.m3u8?op_id=19&userId=0&channelId=41053&stime=1457798946&etime=1457885346&token=0041ab43f243d71cbccac
+
+#EXTINF:0,Food Newtwork
+http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
 
 #EXTINF:0,Vevo1 HD
