@@ -8,17 +8,17 @@ http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
 
 #EXTINF:-1,Syria 1
-http://82.137.248.21:1935/Aloula/AloulaLive1/playlist.m3u8
+http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
 #EXTINF:-1,Syria SAT
-http://82.137.248.16:1935/Sat/SatLive1/playlist.m3u8
+http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
 #EXTINF:-1,Sama Syria
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:-1,Syrian Drama
-http://82.137.248.21:1935/Drama/DramaLive1/playlist.m3u8
+http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:-1,Syrian Talaqi
-http://82.137.248.20:1935/Talaqie/TalaqieLive1/playlist.m3u8
+http://82.137.248.20:1935/Talaqie/TalaqieLive3/playlist.m3u8
 #EXTINF:-1,Al Ikhbaria
-http://82.137.248.16:1935/Snews/SnewsLive1/playlist.m3u8
+http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
 
 #EXTINF:-1,H1
 http://91.103.26.50:1935/edge/smil:liveStream.smil/playlist.m3u8
