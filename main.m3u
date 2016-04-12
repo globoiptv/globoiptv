@@ -65,17 +65,12 @@ http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/11/amlst:mainstrea
 http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/405/amlst:mainstream/demotiki405.m3u8?op_id=19&userId=0&channelId=41598&stime=1458203029&etime=1458289429&token=0a0ff294cd0d886981fc4
 
 #EXTINF:0,RT Documentary
-http://rt.ashttp14.visionip.tv/live/rt-doc-live-HD/playlist.m3u8
+https://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
+
 #EXTINF:-1,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 
-#EXTINF:0,PBS
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/207/amlst:mainstream/demotiki207.m3u8?op_id=19&userId=0&channelId=41053&stime=1457798946&etime=1457885346&token=0041ab43f243d71cbccac
-
-
-#EXTINF:0,CosmoBody
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/494/amlst:mainstream/demotiki494.m3u8?op_id=19&userId=0&channelId=41405&stime=1457801877&etime=1457888277&token=06e4d8ba59decb05b398f
 
 #EXTINF:0,Food Newtwork
 http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
@@ -110,25 +105,3 @@ https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
 
 #EXTINF:0,NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-#EXTINF:0,PAC-12 Net. (Arizona)
-http://xrxs.net/video/live-p12ariz-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Bay Area)
-http://xrxs.net/video/live-p12baya-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Los Angeles)
-http://xrxs.net/video/live-p12losa-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Moutain)
-http://xrxs.net/video/live-p12moun-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Oregon)
-http://xrxs.net/video/live-p12oreg-4728.m3u8?
-#EXTINF:0,PAC-12 Net. (Washington)
-http://xrxs.net/video/live-p12wash-4728.m3u8?
-#EXTINF:0,USA-BASKET UNI.(Arizona)
-http://xrxs.net/video/live-p12ariz-1164.m3u8
-#EXTINF:0,USA-BASKET UNI.(Los Angeles)
-http://xrxs.net/video/live-p12losa-1164.m3u8
-#EXTINF:0,USA-BASKET UNI.(Moutain)
-http://xrxs.net/video/live-p12moun-1164.m3u8
-#EXTINF:0,USA-BASKET UNI.(Oregon)
-http://xrxs.net/video/live-p12oreg-1164.m3u8
-#EXTINF:0,USA-BASKET UNI.(Washington)
-http://xrxs.net/video/live-p12wash-2328.m3u8
