@@ -138,169 +138,52 @@ rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv5_480.stream
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream
 
 
-#EXTINF:0,ch_62_1
-http://94.158.80.110:9000/play/ch_62_1
-#EXTINF:0,ch_215_1
-http://94.158.80.110:9000/play/ch_215_1
-#EXTINF:0,ch_411_1
-http://94.158.80.110:9000/play/ch_411_1
-#EXTINF:0,ch_145_1
-http://94.158.80.110:9000/play/ch_145_1
-#EXTINF:0,ch_80_1
-http://94.158.80.110:9000/play/ch_80_1
-#EXTINF:0,ch_385_1
-http://94.158.80.110:9000/play/ch_385_1
-#EXTINF:0,ch_398_1
-http://94.158.80.110:9000/play/ch_398_1
-#EXTINF:0,ch_129_1
-http://94.158.80.110:9000/play/ch_129_1
-#EXTINF:0,ch_76_1
-http://94.158.80.110:9000/play/ch_76_1
-#EXTINF:0,ch_87_1
-http://94.158.80.110:9000/play/ch_87_1
-#EXTINF:0,ch_132_1
-http://94.158.80.110:9000/play/ch_132_1
-#EXTINF:0,ch_73_1
-http://94.158.80.110:9000/play/ch_73_1
-#EXTINF:0,ch_118_1
-http://94.158.80.110:9000/play/ch_118_1
-#EXTINF:0,ch_412_1
-http://94.158.80.110:9000/play/ch_412_1
-#EXTINF:0,ch_115_1
-http://94.158.80.110:9000/play/ch_115_1
-#EXTINF:0,ch_93_1
-http://94.158.80.110:9000/play/ch_93_1
-#EXTINF:0,ch_397_1
-http://94.158.80.110:9000/play/ch_397_1
-#EXTINF:0,ch_150_1
-http://94.158.80.110:9000/play/ch_150_1
-#EXTINF:0,ch_77_1
-http://94.158.80.110:9000/play/ch_77_1
-#EXTINF:0,ch_227_1
-http://94.158.80.110:9000/play/ch_227_1
-#EXTINF:0,ch_113_1
-http://94.158.80.110:9000/play/ch_113_1
-#EXTINF:0,ch_51_1
-http://94.158.80.110:9000/play/ch_51_1
-#EXTINF:0,ch_105_1
-http://94.158.80.110:9000/play/ch_105_1
-#EXTINF:0,ch_342_1
-http://94.158.80.110:9000/play/ch_342_1
-#EXTINF:0,ch_88_1
-http://94.158.80.110:9000/play/ch_88_1
-#EXTINF:0,ch_114_1
-http://94.158.80.110:9000/play/ch_114_1
-#EXTINF:0,ch_137_1
-http://94.158.80.110:9000/play/ch_137_1
-#EXTINF:0,ch_57_1
-http://94.158.80.110:9000/play/ch_57_1
-#EXTINF:0,ch_123_1
-http://94.158.80.110:9000/play/ch_123_1
-#EXTINF:0,ch_413_1
-http://94.158.80.110:9000/play/ch_413_1
-#EXTINF:0,ch_239_1
-http://94.158.80.110:9000/play/ch_239_1
-#EXTINF:0,ch_152_1
-http://94.158.80.110:9000/play/ch_152_1
-#EXTINF:0,ch_127_1
-http://94.158.80.110:9000/play/ch_127_1
-#EXTINF:0,ch_108_1
-http://94.158.80.110:9000/play/ch_108_1
-#EXTINF:0,ch_110_1
-http://94.158.80.110:9000/play/ch_110_1
-#EXTINF:0,ch_61_1
-http://94.158.80.110:9000/play/ch_61_1
-#EXTINF:0,ch_151_1
-http://94.158.80.122:9000/play/ch_151_1
-#EXTINF:0,ch_135_1
-http://94.158.80.122:9000/play/ch_135_1
-#EXTINF:0,ch_199_1
-http://94.158.80.122:9000/play/ch_199_1
-#EXTINF:0,ch_149_1
-http://94.158.80.122:9000/play/ch_149_1
-#EXTINF:0,ch_402_1
-http://94.158.80.122:9000/play/ch_402_1
-#EXTINF:0,ch_200_1
-http://94.158.80.122:9000/play/ch_200_1
-#EXTINF:0,ch_136_1
-http://94.158.80.122:9000/play/ch_136_1
-#EXTINF:0,ch_101_1
-http://94.158.80.122:9000/play/ch_101_1
-#EXTINF:0,ch_125_1
-http://94.158.80.122:9000/play/ch_125_1
-#EXTINF:0,ch_179_1
-http://94.158.80.122:9000/play/ch_179_1
-#EXTINF:0,ch_141_1
-http://94.158.80.122:9000/play/ch_141_1
-#EXTINF:0,ch_338_1
-http://94.158.80.122:9000/play/ch_338_1
-#EXTINF:0,ch_337_1
-http://94.158.80.122:9000/play/ch_337_1
-#EXTINF:0,ch_163_1
-http://94.158.80.122:9000/play/ch_163_1
-#EXTINF:0,ch_139_1
-http://94.158.80.122:9000/play/ch_139_1
-#EXTINF:0,ch_400_1
-http://94.158.80.122:9000/play/ch_400_1
-#EXTINF:0,ch_391_1
-http://94.158.80.122:9000/play/ch_391_1
-#EXTINF:0,ch_308_1
-http://94.158.80.122:9000/play/ch_308_1
-#EXTINF:0,ch_165_1
-http://94.158.80.122:9000/play/ch_165_1
-#EXTINF:0,ch_399_1
-http://94.158.80.122:9000/play/ch_399_1
-#EXTINF:0,ch_121_1
-http://94.158.80.122:9000/play/ch_121_1
-#EXTINF:0,ch_138_1
-http://94.158.80.122:9000/play/ch_138_1
-#EXTINF:0,ch_117_1
-http://94.158.80.122:9000/play/ch_117_1
-#EXTINF:0,ch_100_1
-http://94.158.80.122:9000/play/ch_100_1
-#EXTINF:0,ch_69_1
-http://94.158.80.122:9000/play/ch_69_1
-#EXTINF:0,ch_64_1
-http://94.158.80.122:9000/play/ch_64_1
-#EXTINF:0,ch_52_1
-http://94.158.80.122:9000/play/ch_52_1
-#EXTINF:0,ch_180_1
-http://94.158.80.122:9000/play/ch_180_1
-#EXTINF:0,ch_92_1
-http://94.158.80.122:9000/play/ch_92_1
-#EXTINF:0,ch_395_1
-http://94.158.80.122:9000/play/ch_395_1
-#EXTINF:0,ch_53_1
-http://94.158.80.122:9000/play/ch_53_1
-#EXTINF:0,ch_159_1
-http://94.158.80.122:9000/play/ch_159_1
-#EXTINF:0,ch_336_1
-http://94.158.80.122:9000/play/ch_336_1
-#EXTINF:0,ch_54_1
-http://94.158.80.122:9000/play/ch_54_1
-#EXTINF:0,ch_90_1
-http://94.158.80.122:9000/play/ch_90_1
-#EXTINF:0,ch_142_1
-http://94.158.80.122:9000/play/ch_142_1
-#EXTINF:0,ch_204_1
-http://94.158.80.122:9000/play/ch_204_1
-#EXTINF:0,ch_386_1
-http://94.158.80.122:9000/play/ch_386_1
-#EXTINF:0,ch_341_1
-http://94.158.80.122:9000/play/ch_341_1
-#EXTINF:0,ch_392_1
-http://94.158.80.122:9000/play/ch_392_1
-#EXTINF:0,ch_70_1
-http://94.158.80.122:9000/play/ch_70_1
-#EXTINF:0,ch_56_1
-http://94.158.80.122:9000/play/ch_56_1
-#EXTINF:0,ch_394_1
-http://94.158.80.122:9000/play/ch_394_1
-#EXTINF:0,ch_387_1
-http://94.158.80.122:9000/play/ch_387_1
-#EXTINF:0,ch_287_1
-http://94.158.80.122:9000/play/ch_287_1
-#EXTINF:0,ch_316_1
-http://94.158.80.122:9000/play/ch_316_1
-#EXTINF:0,ch_84_1
-http://94.158.80.122:9000/play/ch_84_1
+
+#EXTINF:-1,Sky Uno HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/27.ts
+#EXTINF:-1,Sky Uno +1 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/28.ts
+#EXTINF:-1,Sky Atlantic HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/29.ts
+#EXTINF:-1,Sky Atlantic +1 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/30.ts
+#EXTINF:-1,Fox Life HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/33.ts
+#EXTINF:-1,Fox life +1
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/34.ts
+#EXTINF:-1,Fox HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/31.ts
+#EXTINF:-1,Fox +1
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/32.ts
+#EXTINF:-1,Fox Crime HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/36.ts
+#EXTINF:-1,Fox Crime +1
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/37.ts
+#EXTINF:-1,Fox Comedy HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/35.ts
+#EXTINF:-1,Fox Animation HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/38.ts
+#EXTINF:-1,AXN Sci-FI
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/41.ts
+#EXTINF:-1,AXN HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/39.ts
+#EXTINF:-1,AXN +1
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/40.ts
+
+
+#EXTINF:-1,Rai 1 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/1.ts
+#EXTINF:-1,Rai 2 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/2.ts
+#EXTINF:-1,Rai 3 hd
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/3.ts
+#EXTINF:-1,Rete 4 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/4.ts
+#EXTINF:-1,Canale 5 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/5.ts
+#EXTINF:-1,Italia 1 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/6.ts
+#EXTINF:-1,Rsi LA2 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/11.ts
+#EXTINF:-1,Rsi LA1 HD
+http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/10.ts
