@@ -47,6 +47,9 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 #EXTINF:-1,Dubai Drama
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 
+#EXTINF:-1,Al Arabiya
+http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
+
 
 #EXTINF:0,CBS
 http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/63/amlst:mainstream/demotiki63.m3u8?op_id=19&userId=0&channelId=41251&stime=1457780018&etime=1457866418&token=0a63118bf017d6b0fd900
@@ -138,52 +141,3 @@ rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv5_480.stream
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream
 
 
-
-#EXTINF:-1,Sky Uno HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/27.ts
-#EXTINF:-1,Sky Uno +1 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/28.ts
-#EXTINF:-1,Sky Atlantic HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/29.ts
-#EXTINF:-1,Sky Atlantic +1 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/30.ts
-#EXTINF:-1,Fox Life HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/33.ts
-#EXTINF:-1,Fox life +1
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/34.ts
-#EXTINF:-1,Fox HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/31.ts
-#EXTINF:-1,Fox +1
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/32.ts
-#EXTINF:-1,Fox Crime HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/36.ts
-#EXTINF:-1,Fox Crime +1
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/37.ts
-#EXTINF:-1,Fox Comedy HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/35.ts
-#EXTINF:-1,Fox Animation HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/38.ts
-#EXTINF:-1,AXN Sci-FI
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/41.ts
-#EXTINF:-1,AXN HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/39.ts
-#EXTINF:-1,AXN +1
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/40.ts
-
-
-#EXTINF:-1,Rai 1 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/1.ts
-#EXTINF:-1,Rai 2 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/2.ts
-#EXTINF:-1,Rai 3 hd
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/3.ts
-#EXTINF:-1,Rete 4 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/4.ts
-#EXTINF:-1,Canale 5 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/5.ts
-#EXTINF:-1,Italia 1 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/6.ts
-#EXTINF:-1,Rsi LA2 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/11.ts
-#EXTINF:-1,Rsi LA1 HD
-http://ultra-iptv.best-tv.us:13884/live/sandro/sandro/10.ts
