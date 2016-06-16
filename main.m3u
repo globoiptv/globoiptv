@@ -51,24 +51,6 @@ http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 
 
-#EXTINF:0,CBS
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/63/amlst:mainstream/demotiki63.m3u8?op_id=19&userId=0&channelId=41251&stime=1457780018&etime=1457866418&token=0a63118bf017d6b0fd900
-
-#EXTINF:0,CW
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/65/amlst:mainstream/demotiki65.m3u8?op_id=19&userId=0&channelId=40638&stime=1457798414&etime=1457884814&token=0e0c1314790d1df5a722f
-
-#EXTINF:0,SESAME Street
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/76/amlst:mainstream/demotiki76.m3u8?op_id=19&userId=0&channelId=40655&stime=1457798463&etime=1457884863&token=0491361d23f1ef919030d
-
-#EXTINF:0,Top Gear
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/134/amlst:mainstream/demotiki134.m3u8?op_id=19&userId=0&channelId=40640&stime=1457798724&etime=1457885124&token=076b74cfcf2b03aaad625
-
-#EXTINF:0,Discovery
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/11/amlst:mainstream/demotiki11.m3u8?op_id=19&userId=0&channelId=40686&stime=1458203045&etime=1458289445&token=0fecb3d28f05fbdaef91c
-
-#EXTINF:0,Discovery Science
-http://tv-tikilive-live.hls.adaptive.level3.net/show_demotiki/405/amlst:mainstream/demotiki405.m3u8?op_id=19&userId=0&channelId=41598&stime=1458203029&etime=1458289429&token=0a0ff294cd0d886981fc4
-
 #EXTINF:0,RT Documentary
 https://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 
@@ -76,6 +58,8 @@ https://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 
+#EXTINF:-1,Eurosport
+http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
 
 #EXTINF:0,Food Newtwork
 http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
@@ -139,5 +123,39 @@ rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv5_480.stream
 #EXTINF:-1,KTV 6
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream
+
+
+#EXTINF:0, NASA TV
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Weather Channel US
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:0,PAC-12 Net. (Arizona)
+http://xrxs.net/video/live-p12ariz-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Bay Area)
+http://xrxs.net/video/live-p12baya-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Los Angeles)
+http://xrxs.net/video/live-p12losa-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Moutain)
+http://xrxs.net/video/live-p12moun-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Oregon)
+http://xrxs.net/video/live-p12oreg-4728.m3u8?
+#EXTINF:0,PAC-12 Net. (Washington)
+http://xrxs.net/video/live-p12wash-4728.m3u8?
+#EXTINF:0,USA-BASKET UNI.(Arizona)
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:0,USA-BASKET UNI.(Los Angeles)
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:0,USA-BASKET UNI.(Moutain)
+http://xrxs.net/video/live-p12moun-1164.m3u8
+#EXTINF:0,USA-BASKET UNI.(Oregon)
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:0,USA-BASKET UNI.(Washington)
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:0,
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:0,ABC News (stream 2)
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
 
