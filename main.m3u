@@ -1,60 +1,60 @@
-#EXTINF:-1,MTV Int
+#EXTINF:0,MTV Int
 http://livestreaming1.itworkscdn.net/mtvlive/smil:mtvmob.smil/playlist.m3u8
-#EXTINF:-1,AlJadeed
+#EXTINF:0,AlJadeed
 http://livestreaming.itworkscdn.net/aljadeedlive/aljadeed_360p/chunklist_w236136394.m3u8
-#EXTINF:-1,OTV
+#EXTINF:0,OTV
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
-#EXTINF:-1,Future
+#EXTINF:0,Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
 
 
-#EXTINF:-1,Syria 1
+#EXTINF:0,Syria 1
 http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
-#EXTINF:-1,Syria SAT
+#EXTINF:0,Syria SAT
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-#EXTINF:-1,Sama Syria
+#EXTINF:0,Sama Syria
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
-#EXTINF:-1,Syrian Drama
+#EXTINF:0,Syrian Drama
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-#EXTINF:-1,Syrian Talaqi
+#EXTINF:0,Syrian Talaqi
 http://82.137.248.20:1935/Talaqie/TalaqieLive3/playlist.m3u8
-#EXTINF:-1,Al Ikhbaria
+#EXTINF:0,Al Ikhbaria
 http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
 
-#EXTINF:-1,H1
+#EXTINF:0,H1
 http://91.103.26.50:1935/edge/smil:liveStream.smil/playlist.m3u8
-#EXTINF:-1,PanArmanian
+#EXTINF:0,PanArmanian
 http://38.140.60.26:17070/C279/index.m3u8?token=Ahswg12oi00094lksue
-#EXTINF:-1,USArmenia
+#EXTINF:0,USArmenia
 http://livestream.usatv.com:80/hls/master-iUSATVLIVENET.m3u8
 
-#EXTINF:-1,MBC1
+#EXTINF:0,MBC1
 http://2.109.65.247/masa/24742.m3u8?v=2955693415
-#EXTINF:-1,MBC2
+#EXTINF:0,MBC2
 http://63.237.48.23/ios/MBC2/MBC2.m3u8
-#EXTINF:-1,MBC Action
+#EXTINF:0,MBC Action
 http://63.237.48.23/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:-1,MBC Max
+#EXTINF:0,MBC Max
 http://63.237.48.23/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:-1,MBC4
+#EXTINF:0,MBC4
 http://63.237.48.23/ios/MBC_4/MBC_4.m3u8
-#EXTINF:-1,Dubai One
+#EXTINF:0,Dubai One
 http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:-1,Dubai
+#EXTINF:0,Dubai
 http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:-1,Sama Dubai
+#EXTINF:0,Sama Dubai
 http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:-1,Dubai Drama
+#EXTINF:0,Dubai Drama
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 
-#EXTINF:-1,Al Arabiya
+#EXTINF:0,Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 
 
 #EXTINF:0,RT Documentary
 https://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 
-#EXTINF:-1,ABC News
+#EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 
@@ -92,33 +92,33 @@ https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
 #EXTINF:0,NFL Now HD
 http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
 
-#EXTINF:-1,Bahrain TV
+#EXTINF:0,Bahrain TV
 http://iaa.flashmediacast.com:2387/live/International/chunklist_w405249386.m3u8
-#EXTINF:-1,Bahrain Int.
+#EXTINF:0,Bahrain Int.
 http://iaa.flashmediacast.com:2387/live/Channel-55/chunklist_w810367281.m3u8
-#EXTINF:-1,Bahrain Sports
+#EXTINF:0,Bahrain Sports
 http://iaa.flashmediacast.com:2387/live/Sports/chunklist_w314573105.m3u8
 
-#EXTINF:-1,Oman tv 1
+#EXTINF:0,Oman tv 1
 http://38.96.148.30:1935/live/omantv1/playlist.m3u8
-#EXTINF:-1,Oman tv 2
+#EXTINF:0,Oman tv 2
 http://38.96.148.30:1935/live/omantv2/playlist.m3u8
-#EXTINF:-1,Oman tv 3
+#EXTINF:0,Oman tv 3
 http://38.96.148.30:1935/live/omantv3/playlist.m3u8
-#EXTINF:-1,Oman tv 4
+#EXTINF:0,Oman tv 4
 http://38.96.148.30:1935/live/omantv4/playlist.m3u8
 
-#EXTINF:-1,KTV 1
+#EXTINF:0,KTV 1
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv1_480.stream
-#EXTINF:-1,KTV 2
+#EXTINF:0,KTV 2
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv2_480.stream
-#EXTINF:-1,KTV 3
+#EXTINF:0,KTV 3
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream
-#EXTINF:-1,KTV 4
+#EXTINF:0,KTV 4
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream
-#EXTINF:-1,KTV 5
+#EXTINF:0,KTV 5
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv5_480.stream
-#EXTINF:-1,KTV 6
+#EXTINF:0,KTV 6
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream
 
 
@@ -148,7 +148,7 @@ http://xrxs.net/video/live-p12moun-1164.m3u8
 http://xrxs.net/video/live-p12oreg-1164.m3u8
 #EXTINF:0,USA-BASKET UNI.(Washington)
 http://xrxs.net/video/live-p12wash-2328.m3u8
-#EXTINF:0,
+#EXTINF:0, Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
@@ -156,81 +156,81 @@ http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
 
-#EXTINF:-1,AR-Rotana-Aflem
+#EXTINF:0,AR-Rotana-Aflem
 http://195.12.170.154:8002/play/arrotanaaflem
-#EXTINF:-1,AR-Otv
+#EXTINF:0,AR-Otv
 http://195.12.170.154:8002/play/arotv
-#EXTINF:-1,AR-MBC1 HD
+#EXTINF:0,AR-MBC1 HD
 http://195.12.170.154:8002/play/armbc1hd
-#EXTINF:-1,AR-Melody-classic
+#EXTINF:0,AR-Melody-classic
 http://195.12.170.154:8002/play/armelodyclassic
-#EXTINF:-1,AR-Rotana
+#EXTINF:0,AR-Rotana
 http://195.12.170.154:8002/play/arrotana
-#EXTINF:-1,AR-Mbc-Drama
+#EXTINF:0,AR-Mbc-Drama
 http://195.12.170.154:8002/play/armbcdrama
-#EXTINF:-1,AR-algerya4
+#EXTINF:0,AR-algerya4
 http://195.12.170.154:8002/play/aralgerya4
-#EXTINF:-1,AR-NBN
+#EXTINF:0,AR-NBN
 http://195.12.170.154:8002/play/arnbn
-#EXTINF:-1,AR-Nile-family
+#EXTINF:0,AR-Nile-family
 http://195.12.170.154:8002/play/arnilefamily
-#EXTINF:-1,AR-Nile-Drama
+#EXTINF:0,AR-Nile-Drama
 http://195.12.170.154:8002/play/arniledrama
-#EXTINF:-1,AR-Rotana Massrya HD
+#EXTINF:0,AR-Rotana Massrya HD
 http://195.12.170.154:8002/play/arrotanamassryahd
-#EXTINF:-1,AR- Rotana Music HD
+#EXTINF:0,AR- Rotana Music HD
 http://195.12.170.154:8002/play/arrotanamusichd
-#EXTINF:-1,AR-Medi-1TV
+#EXTINF:0,AR-Medi-1TV
 http://195.12.170.154:8002/play/armedi1tv
-#EXTINF:-1,AR-Panorama-food
+#EXTINF:0,AR-Panorama-food
 http://195.12.170.154:8002/play/arpanoramafood
-#EXTINF:-1,AR-Mbc-Max HD
+#EXTINF:0,AR-Mbc-Max HD
 http://195.12.170.154:8002/play/armbcmaxhd
-#EXTINF:-1,AR-Mtv-lebanon
+#EXTINF:0,AR-Mtv-lebanon
 http://195.12.170.154:8002/play/armtvlebanon
-#EXTINF:-1,AR-Tamazight alg4
+#EXTINF:0,AR-Tamazight alg4
 http://195.12.170.154:8002/play/artamazightalg4
-#EXTINF:-1,AR-Nile-Comedy
+#EXTINF:0,AR-Nile-Comedy
 http://195.12.170.154:8002/play/arnilecomedy
-#EXTINF:-1,AR-toyour-aljennah
+#EXTINF:0,AR-toyour-aljennah
 http://195.12.170.154:8002/play/artoyouraljennah
-#EXTINF:-1,AR-RotanaKhaliji HD
+#EXTINF:0,AR-RotanaKhaliji HD
 http://195.12.170.154:8002/play/arrotanakhalijihd
-#EXTINF:-1,AR-Star Cin1
+#EXTINF:0,AR-Star Cin1
 http://195.12.170.154:8002/play/arstarcin1
-#EXTINF:-1,AR-Panorama action
+#EXTINF:0,AR-Panorama action
 http://195.12.170.154:8002/play/arpanoramaaction
-#EXTINF:-1,AR-AlJazeera-Mubasher
+#EXTINF:0,AR-AlJazeera-Mubasher
 http://195.12.170.154:8002/play/araljazeeramubasher
-#EXTINF:-1,AR-Panorama-Drama2
+#EXTINF:0,AR-Panorama-Drama2
 http://195.12.170.154:8002/play/arpanoramadrama2
-#EXTINF:-1,AR-Time Film
+#EXTINF:0,AR-Time Film
 http://195.12.170.154:8002/play/artimefilm
-#EXTINF:-1,AR-Samira-Tv
+#EXTINF:0,AR-Samira-Tv
 http://195.12.170.154:8002/play/arsamiratv
-#EXTINF:-1,AR-Mbc4 HD
+#EXTINF:0,AR-Mbc4 HD
 http://195.12.170.154:8002/play/armbc4hd
-#EXTINF:-1,AR-Mbc2HD
+#EXTINF:0,AR-Mbc2HD
 http://195.12.170.154:8002/play/armbc2hd
-#EXTINF:-1,AR-MBC-3 HD
+#EXTINF:0,AR-MBC-3 HD
 http://195.12.170.154:8002/play/armbc3hd
-#EXTINF:-1,Ar-ALBAGHDADIA2
+#EXTINF:0,Ar-ALBAGHDADIA2
 http://195.12.170.154:8002/play/aralbaghdadia2
-#EXTINF:-1,Rotana-classic HD
+#EXTINF:0,Rotana-classic HD
 http://195.12.170.154:8002/play/arrotanaclassichd
-#EXTINF:-1,AR-Panoram-Drama
+#EXTINF:0,AR-Panoram-Drama
 http://195.12.170.154:8002/play/arpanoramadrama
-#EXTINF:-1,AR-Tvtchad
+#EXTINF:0,AR-Tvtchad
 http://195.12.170.154:8002/play/artvtchad
-#EXTINF:-1,AR-Rotana CLIP
+#EXTINF:0,AR-Rotana CLIP
 http://195.12.170.154:8002/play/arrotanaclip
-#EXTINF:-1,AR-Time Taxi
+#EXTINF:0,AR-Time Taxi
 http://195.12.170.154:8002/play/artimetaxi
-#EXTINF:-1,AR-Syria Drama
+#EXTINF:0,AR-Syria Drama
 http://195.12.170.154:8002/play/arsyriadrama
-#EXTINF:-1,AR-Rotana-Cinema HD
+#EXTINF:0,AR-Rotana-Cinema HD
 http://195.12.170.154:8002/play/arrotanacinemahd
-#EXTINF:-1,AR-Time comedy
+#EXTINF:0,AR-Time comedy
 http://195.12.170.154:8002/play/artimecomedy
 
 
