@@ -58,9 +58,6 @@ https://rt-a.akamaihd.net/ch_05@325609/720p.m3u8
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 
 
-#EXTINF:-1,Eurosport
-http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist.m3u8
-
 #EXTINF:0,Food Newtwork
 http://llnw.live.simplestream.com/coder2/coder.channels.channel2/hls/3/playlist.m3u8
 
@@ -157,5 +154,83 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0,ABC News (stream 2)
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+
+#EXTINF:-1,AR-Rotana-Aflem
+http://195.12.170.154:8002/play/arrotanaaflem
+#EXTINF:-1,AR-Otv
+http://195.12.170.154:8002/play/arotv
+#EXTINF:-1,AR-MBC1 HD
+http://195.12.170.154:8002/play/armbc1hd
+#EXTINF:-1,AR-Melody-classic
+http://195.12.170.154:8002/play/armelodyclassic
+#EXTINF:-1,AR-Rotana
+http://195.12.170.154:8002/play/arrotana
+#EXTINF:-1,AR-Mbc-Drama
+http://195.12.170.154:8002/play/armbcdrama
+#EXTINF:-1,AR-algerya4
+http://195.12.170.154:8002/play/aralgerya4
+#EXTINF:-1,AR-NBN
+http://195.12.170.154:8002/play/arnbn
+#EXTINF:-1,AR-Nile-family
+http://195.12.170.154:8002/play/arnilefamily
+#EXTINF:-1,AR-Nile-Drama
+http://195.12.170.154:8002/play/arniledrama
+#EXTINF:-1,AR-Rotana Massrya HD
+http://195.12.170.154:8002/play/arrotanamassryahd
+#EXTINF:-1,AR- Rotana Music HD
+http://195.12.170.154:8002/play/arrotanamusichd
+#EXTINF:-1,AR-Medi-1TV
+http://195.12.170.154:8002/play/armedi1tv
+#EXTINF:-1,AR-Panorama-food
+http://195.12.170.154:8002/play/arpanoramafood
+#EXTINF:-1,AR-Mbc-Max HD
+http://195.12.170.154:8002/play/armbcmaxhd
+#EXTINF:-1,AR-Mtv-lebanon
+http://195.12.170.154:8002/play/armtvlebanon
+#EXTINF:-1,AR-Tamazight alg4
+http://195.12.170.154:8002/play/artamazightalg4
+#EXTINF:-1,AR-Nile-Comedy
+http://195.12.170.154:8002/play/arnilecomedy
+#EXTINF:-1,AR-toyour-aljennah
+http://195.12.170.154:8002/play/artoyouraljennah
+#EXTINF:-1,AR-RotanaKhaliji HD
+http://195.12.170.154:8002/play/arrotanakhalijihd
+#EXTINF:-1,AR-Star Cin1
+http://195.12.170.154:8002/play/arstarcin1
+#EXTINF:-1,AR-Panorama action
+http://195.12.170.154:8002/play/arpanoramaaction
+#EXTINF:-1,AR-AlJazeera-Mubasher
+http://195.12.170.154:8002/play/araljazeeramubasher
+#EXTINF:-1,AR-Panorama-Drama2
+http://195.12.170.154:8002/play/arpanoramadrama2
+#EXTINF:-1,AR-Time Film
+http://195.12.170.154:8002/play/artimefilm
+#EXTINF:-1,AR-Samira-Tv
+http://195.12.170.154:8002/play/arsamiratv
+#EXTINF:-1,AR-Mbc4 HD
+http://195.12.170.154:8002/play/armbc4hd
+#EXTINF:-1,AR-Mbc2HD
+http://195.12.170.154:8002/play/armbc2hd
+#EXTINF:-1,AR-MBC-3 HD
+http://195.12.170.154:8002/play/armbc3hd
+#EXTINF:-1,Ar-ALBAGHDADIA2
+http://195.12.170.154:8002/play/aralbaghdadia2
+#EXTINF:-1,Rotana-classic HD
+http://195.12.170.154:8002/play/arrotanaclassichd
+#EXTINF:-1,AR-Panoram-Drama
+http://195.12.170.154:8002/play/arpanoramadrama
+#EXTINF:-1,AR-Tvtchad
+http://195.12.170.154:8002/play/artvtchad
+#EXTINF:-1,AR-Rotana CLIP
+http://195.12.170.154:8002/play/arrotanaclip
+#EXTINF:-1,AR-Time Taxi
+http://195.12.170.154:8002/play/artimetaxi
+#EXTINF:-1,AR-Syria Drama
+http://195.12.170.154:8002/play/arsyriadrama
+#EXTINF:-1,AR-Rotana-Cinema HD
+http://195.12.170.154:8002/play/arrotanacinemahd
+#EXTINF:-1,AR-Time comedy
+http://195.12.170.154:8002/play/artimecomedy
 
 
