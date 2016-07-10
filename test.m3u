@@ -58,9 +58,9 @@ http://185.44.118.34:40555/udp/239.1.1.130:4000
 http://185.44.118.34:40555/udp/239.1.1.131:4000
 #EXTINF:-1,Discovery Channel
 http://185.44.118.34:40555/udp/239.1.1.132:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,Discovery World
 http://185.44.118.34:40555/udp/239.1.1.133:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,Discovery Science
 http://185.44.118.34:40555/udp/239.1.1.134:4000
 #EXTINF:-1,Animal Planet
 http://185.44.118.34:40555/udp/239.1.1.135:4000
@@ -82,11 +82,11 @@ http://185.44.118.34:40555/udp/239.1.1.143:4000
 http://185.44.118.34:40555/udp/239.1.1.144:4000
 #EXTINF:-1,FOX Crime
 http://185.44.118.34:40555/udp/239.1.1.148:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,Fox
 http://185.44.118.34:40555/udp/239.1.1.151:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,RT
 http://185.44.118.34:40555/udp/239.1.1.153:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,France 24
 http://185.44.118.34:40555/udp/239.1.1.154:4000
 #EXTINF:-1,Novi kanal
 http://185.44.118.34:40555/udp/239.1.1.155:4000
@@ -202,15 +202,15 @@ http://185.44.118.34:40555/udp/239.1.2.76:4000
 http://185.44.118.34:40555/udp/239.1.2.77:4000
 #EXTINF:-1,Novi kanal
 http://185.44.118.34:40555/udp/239.1.2.78:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,Red Light
 http://185.44.118.34:40555/udp/239.1.2.80:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,HBO2
 http://185.44.118.34:40555/udp/239.1.2.81:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,Mezzo HD
 http://185.44.118.34:40555/udp/239.1.2.82:4000
 #EXTINF:-1,Novi kanal
 http://185.44.118.34:40555/udp/239.1.2.83:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,RTG HD
 http://185.44.118.34:40555/udp/239.1.2.84:4000
 #EXTINF:-1,MagicTV
 http://185.44.118.34:40555/udp/239.1.2.200:4000
@@ -242,9 +242,9 @@ http://185.44.118.34:40555/udp/239.1.0.74:4000
 http://185.44.118.34:40555/udp/239.1.0.80:4000
 #EXTINF:-1,F Plus
 http://185.44.118.34:40555/udp/239.1.0.81:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,HBO
 http://185.44.118.34:40555/udp/239.1.0.82:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,HBO3
 http://185.44.118.34:40555/udp/239.1.0.83:4000
 #EXTINF:-1,Novi kanal
 http://185.44.118.34:40555/udp/239.1.0.85:4000
@@ -280,7 +280,7 @@ http://185.44.118.34:40555/udp/239.1.0.108:4000
 http://185.44.118.34:40555/udp/239.1.0.109:4000
 #EXTINF:-1,City TV
 http://185.44.118.34:40555/udp/239.1.0.110:4000
-#EXTINF:-1,Novi kanal
+#EXTINF:-1,XXX Stars
 http://185.44.118.34:40555/udp/239.1.0.112:4000
 #EXTINF:-1,VH1 Classic
 http://185.44.118.34:40555/udp/239.1.0.117:4000
