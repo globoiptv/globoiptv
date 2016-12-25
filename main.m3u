@@ -178,6 +178,10 @@ http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 
 #EXTINF:0,Rai 5
 http://stream12.rai.it/live/rai5.smil/master.m3u8
+#EXTINF:-1, Radio Montecarlo TV
+rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:-1, RTL 102.5 TV
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione_mobile/playlist.m3u8
 
 #EXTINF:0,Israeli Ch 10
 http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_%2C1000%2C1500%2C1800%2C/playlist.m3u8
