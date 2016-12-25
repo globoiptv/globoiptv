@@ -2,6 +2,9 @@
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:0,Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
+#EXTINF:-1,Almanar TV (Lebanon)
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+
 
 
 #EXTINF:0,Syria 1
@@ -31,6 +34,11 @@ http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0,MBC4
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 
+#EXTINF:0,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+#EXTINF:0,Create and Craft
+http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
+
 #EXTINF:0,Alaan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
 #EXTINF:0,Dubai One
@@ -41,7 +49,6 @@ http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
 http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 #EXTINF:0,Dubai Drama
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
-
 #EXTINF:0, Abu Dhabi
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula.m3u8
 
@@ -70,9 +77,6 @@ http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:-1,Jordan TV
 http://stream2.joinvisions.net:1935/jorlive//jrtv/playlist.m3u8
 
-#EXTINF:-1,Almanar TV (Lebanon)
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-
 
 #EXTINF:-1,El Mehwar
 http://38.111.46.40:8134/hls-live/MehwarTV/_definst_/liveevent/livestream.m3u8?v=1096642953
@@ -92,21 +96,13 @@ http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
 
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-
 #EXTINF:0,C-Span
 http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:0,CBSN
 http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-
-#EXTINF:0,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-
 #EXTINF:0,MSNBC
 http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 
-#EXTINF:0,Create and Craft
-http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
 
 #EXTINF:0,Al Hayat
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
@@ -132,8 +128,6 @@ https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
 #EXTINF:0,Noursat Alkalema
 https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
-
-
 
 
 
@@ -168,26 +162,17 @@ rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv5_480.stream
 #EXTINF:0,KTV 6
 rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream
-
-
 #EXTINF:0,AL Rai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
 
 #EXTINF:0, NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,Weather Channel US
-http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
 
 #EXTINF:0, Music
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
-#EXTINF:0,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0,ABC News (stream 2)
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
 
 #EXTINF:0,TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
-
 #EXTINF:0,Kanal D
 http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
 
