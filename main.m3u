@@ -1,5 +1,8 @@
-#EXTINF:-1, RMV
+#EXTINF:-1, RMC
 rtmp://fms.105.net:1935/live/rmc1
+#EXTINF:0,HIT TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+
 #EXTINF:0,OTV
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:0,Future
@@ -171,8 +174,6 @@ http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
 #EXTINF:0, NASA TV
 http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:0, Music
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
 
 #EXTINF:0,Kanal D
@@ -188,8 +189,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8
 #EXTINF:0,TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1,TGRT EU
-http://188.120.182.181:8888/play/a006
 
 #EXTINF:0,Rai 5
 http://stream12.rai.it/live/rai5.smil/master.m3u8
