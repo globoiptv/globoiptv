@@ -4,7 +4,7 @@ rtmp://fms.105.net:1935/live/rmc1
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:0,Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
-#EXTINF:-1,Almanar TV
+#EXTINF:-1,Almanar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
 
@@ -95,7 +95,6 @@ http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
 
 #EXTINF:-1,Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-
 #EXTINF:0,ABC News
 http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
 #EXTINF:0,C-Span
@@ -178,6 +177,8 @@ rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
 #EXTINF:0,Kanal D
 http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
+#EXTINF:0,FOX
+http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
 
 #EXTINF:0,TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
@@ -185,9 +186,10 @@ http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&re
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
 #EXTINF:0,TRT BELGESEL HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8
-#EXTINF:0,TRT ARAPçA
+#EXTINF:0,TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
+#EXTINF:-1,TGRT EU
+http://188.120.182.181:8888/play/a006
 
 #EXTINF:0,Rai 5
 http://stream12.rai.it/live/rai5.smil/master.m3u8
