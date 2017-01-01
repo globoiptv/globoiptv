@@ -204,4 +204,7 @@ http://nana10-hdl.ctedgecdn.net/Nana10-Live/amlst:hd_%2C1000%2C1500%2C1800%2C/pl
 #EXTINF:0,Israeli Ch 2 Reshet
 http://reshet207788-i.akamaihd.net/hls/live/207509/live/encoder_index.m3u8
 
-
+#EXTINF:0,PAC 12 Arizona
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:0,PAC 12 Bay
+http://xrxs.net/video/live-p12baya-2328.m3u8
