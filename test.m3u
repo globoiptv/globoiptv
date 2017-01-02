@@ -1,778 +1,337 @@
 #EXTM3U
-#EXTINF:0,=======   USA   =======
-http://185.2.83.253:6500/live/albanez/albanez/2892.ts
-#EXTINF:0,USA: TNT HD
-http://185.2.83.253:6500/live/albanez/albanez/13180.ts
-#EXTINF:0,USA: Sportsnet West HD
-http://185.2.83.253:6500/live/albanez/albanez/13232.ts
-#EXTINF:0,USA: Spike HD
-http://185.2.83.253:6500/live/albanez/albanez/13179.ts
-#EXTINF:0,USA: ESPN U HD
-http://185.2.83.253:6500/live/albanez/albanez/13229.ts
-#EXTINF:0,USA: ESPN 2 HD
-http://185.2.83.253:6500/live/albanez/albanez/13230.ts
-#EXTINF:0,USA: BeIN Sports USA HD
-http://185.2.83.253:6500/live/albanez/albanez/13227.ts
-#EXTINF:0,USA: StarzZ  Edge
-http://185.2.83.253:6500/live/albanez/albanez/10171.ts
-#EXTINF:0,USA: NHL Network
-http://185.2.83.253:6500/live/albanez/albanez/12479.ts
-#EXTINF:0,USA: Fox
-http://185.2.83.253:6500/live/albanez/albanez/10174.ts
-#EXTINF:0,USA: AFN SPECTRUM
-http://185.2.83.253:6500/live/albanez/albanez/10166.ts
-#EXTINF:0,USA: AFN Prime Atlantic
-http://185.2.83.253:6500/live/albanez/albanez/10167.ts
-#EXTINF:0,USA: Star Z Cinema
-http://185.2.83.253:6500/live/albanez/albanez/9832.ts
-#EXTINF:0,USA: PAC-12 Washington HD
-http://185.2.83.253:6500/live/albanez/albanez/10143.ts
-#EXTINF:0,USA: HBO Comedy
-http://185.2.83.253:6500/live/albanez/albanez/9831.ts
-#EXTINF:0,USA: DTX
-http://185.2.83.253:6500/live/albanez/albanez/9547.ts
-#EXTINF:0,USA: Discovery Science
-http://185.2.83.253:6500/live/albanez/albanez/9546.ts
-#EXTINF:0,USA: TBN
-http://185.2.83.253:6500/live/albanez/albanez/9542.ts
-#EXTINF:0,USA: Church Channel
-http://185.2.83.253:6500/live/albanez/albanez/9536.ts
-#EXTINF:0,USA: A&E
-http://185.2.83.253:6500/live/albanez/albanez/9315.ts
-#EXTINF:0,USA: AFN MOVIE
-http://185.2.83.253:6500/live/albanez/albanez/9488.ts
-#EXTINF:0,USA: AFN SPORTS
-http://185.2.83.253:6500/live/albanez/albanez/9516.ts
-#EXTINF:0,USA: AFN SPORTS 2
-http://185.2.83.253:6500/live/albanez/albanez/9517.ts
-#EXTINF:0,USA: AMG TV
-http://185.2.83.253:6500/live/albanez/albanez/9511.ts
-#EXTINF:0,USA: Astro SUPERSPORT 1
-http://185.2.83.253:6500/live/albanez/albanez/9518.ts
-#EXTINF:0,USA: Astro SUPERSPORT 2
-http://185.2.83.253:6500/live/albanez/albanez/9519.ts
-#EXTINF:0,USA: Astro SUPERSPORT 3
-http://185.2.83.253:6500/live/albanez/albanez/9520.ts
-#EXTINF:0,USA: Bloomberg
-http://185.2.83.253:6500/live/albanez/albanez/9510.ts
-#EXTINF:0,USA: Boston City TV
-http://185.2.83.253:6500/live/albanez/albanez/9509.ts
-#EXTINF:0,USA: BYU Sports TV HD
-http://185.2.83.253:6500/live/albanez/albanez/9529.ts
-#EXTINF:0,USA: CBS Action
-http://185.2.83.253:6500/live/albanez/albanez/9340.ts
-#EXTINF:0,USA: CBS DRAMA
-http://185.2.83.253:6500/live/albanez/albanez/9339.ts
-#EXTINF:0,USA: CBS News HD
-http://185.2.83.253:6500/live/albanez/albanez/9508.ts
-#EXTINF:0,USA: CBS Reality
-http://185.2.83.253:6500/live/albanez/albanez/9338.ts
-#EXTINF:0,USA: C-SPAN
-http://185.2.83.253:6500/live/albanez/albanez/9318.ts
-#EXTINF:0,USA: CSPAN 2
-http://185.2.83.253:6500/live/albanez/albanez/9319.ts
-#EXTINF:0,USA: C-SPAN 3
-http://185.2.83.253:6500/live/albanez/albanez/9320.ts
-#EXTINF:0,USA: E! Network HD
-http://185.2.83.253:6500/live/albanez/albanez/9321.ts
-#EXTINF:0,USA: Food Network
-http://185.2.83.253:6500/live/albanez/albanez/9337.ts
-#EXTINF:0,USA: Fox Sport 2
-http://185.2.83.253:6500/live/albanez/albanez/9391.ts
-#EXTINF:0,USA: Fox Sports 506 HD
-http://185.2.83.253:6500/live/albanez/albanez/9528.ts
-#EXTINF:0,USA: HSN 1
-http://185.2.83.253:6500/live/albanez/albanez/9512.ts
-#EXTINF:0,USA: HSN 2
-http://185.2.83.253:6500/live/albanez/albanez/9513.ts
-#EXTINF:0,USA: Mello TV
-http://185.2.83.253:6500/live/albanez/albanez/9502.ts
-#EXTINF:0,USA: Mute TV
-http://185.2.83.253:6500/live/albanez/albanez/9487.ts
-#EXTINF:0,USA: NASA TV
-http://185.2.83.253:6500/live/albanez/albanez/9324.ts
-#EXTINF:0,USA: Nasa TV HD
-http://185.2.83.253:6500/live/albanez/albanez/9499.ts
-#EXTINF:0,USA: NBC Golf HD
-http://185.2.83.253:6500/live/albanez/albanez/9526.ts
-#EXTINF:0,USA: NBC SN
-http://185.2.83.253:6500/live/albanez/albanez/9523.ts
-#EXTINF:0,USA: Nick
-http://185.2.83.253:6500/live/albanez/albanez/9333.ts
-#EXTINF:0,USA: Poker Central
-http://185.2.83.253:6500/live/albanez/albanez/9326.ts
-#EXTINF:0,USA: RT America HD
-http://185.2.83.253:6500/live/albanez/albanez/9498.ts
-#EXTINF:0,USA: RT Documentary
-http://185.2.83.253:6500/live/albanez/albanez/9497.ts
-#EXTINF:0,USA: The Florida Channel
-http://185.2.83.253:6500/live/albanez/albanez/9495.ts
-#EXTINF:0,USA: TLC HD
-http://185.2.83.253:6500/live/albanez/albanez/9480.ts
-#EXTINF:0,USA: Travel Channel HD
-http://185.2.83.253:6500/live/albanez/albanez/9476.ts
-#EXTINF:0,USA: Tru TV HD
-http://185.2.83.253:6500/live/albanez/albanez/9330.ts
-#EXTINF:0,USA: Twit TV
-http://185.2.83.253:6500/live/albanez/albanez/9485.ts
-#EXTINF:0,USA: UC TV
-http://185.2.83.253:6500/live/albanez/albanez/9492.ts
-#EXTINF:0,USA: USA Network HD
-http://185.2.83.253:6500/live/albanez/albanez/9329.ts
-#EXTINF:0,USA: Versus NBA HD
-http://185.2.83.253:6500/live/albanez/albanez/9524.ts
-#EXTINF:0,USA: WHDH
-http://185.2.83.253:6500/live/albanez/albanez/9491.ts
-#EXTINF:0,USA: Willow HD
-http://185.2.83.253:6500/live/albanez/albanez/9328.ts
-#EXTINF:0,USA: WWE
-http://185.2.83.253:6500/live/albanez/albanez/9530.ts
-#EXTINF:0,USA: BLOOMBERG U.S.A.
-http://185.2.83.253:6500/live/albanez/albanez/9472.ts
-#EXTINF:0,USA: DTX HD
-http://185.2.83.253:6500/live/albanez/albanez/9475.ts
-#EXTINF:0,USA: Bravo
-http://185.2.83.253:6500/live/albanez/albanez/8691.ts
-#EXTINF:0,USA: CNN HD
-http://185.2.83.253:6500/live/albanez/albanez/8692.ts
-#EXTINF:0,USA: FOX Sport 1
-http://185.2.83.253:6500/live/albanez/albanez/8681.ts
-#EXTINF:0,USA: LIFE TIME
-http://185.2.83.253:6500/live/albanez/albanez/8687.ts
-#EXTINF:0,USA: NFL Network HD
-http://185.2.83.253:6500/live/albanez/albanez/8693.ts
-#EXTINF:0,USA: TBS HD
-http://185.2.83.253:6500/live/albanez/albanez/8685.ts
-#EXTINF:0,USA: HBO ZONE
-http://185.2.83.253:6500/live/albanez/albanez/8412.ts
-#EXTINF:0,USA: HBO HD
-http://185.2.83.253:6500/live/albanez/albanez/8411.ts
-#EXTINF:0,USA: HBO FAMILY
-http://185.2.83.253:6500/live/albanez/albanez/8414.ts
-#EXTINF:0,USA: E!
-http://185.2.83.253:6500/live/albanez/albanez/8417.ts
-#EXTINF:0,USA: AMC HD
-http://185.2.83.253:6500/live/albanez/albanez/8415.ts
-#EXTINF:0,USA: Tsn Sport 1 HD
-http://185.2.83.253:6500/live/albanez/albanez/8293.ts
-#EXTINF:0,USA: Tsn Sport 2 HD
-http://185.2.83.253:6500/live/albanez/albanez/8292.ts
-#EXTINF:0,USA: Tsn Sport 3 HD
-http://185.2.83.253:6500/live/albanez/albanez/8291.ts
-#EXTINF:0,USA: Tsn Sport 4 HD
-http://185.2.83.253:6500/live/albanez/albanez/8290.ts
-#EXTINF:0,USA: Tsn-Sport 5 HD
-http://185.2.83.253:6500/live/albanez/albanez/8289.ts
-#EXTINF:0,USA: Tsn Sport 5 HD
-http://185.2.83.253:6500/live/albanez/albanez/12547.ts
-#EXTINF:0,USA: WWE Network
-http://185.2.83.253:6500/live/albanez/albanez/8410.ts
-#EXTINF:0,OSN: PPV WWE HD
-http://185.2.83.253:6500/live/albanez/albanez/9151.ts
-#EXTINF:0,USA: NBA TV
-http://185.2.83.253:6500/live/albanez/albanez/8309.ts
-#EXTINF:0,USA: Fight Sport
-http://185.2.83.253:6500/live/albanez/albanez/8308.ts
-#EXTINF:0,USA: UALR TV
-http://185.2.83.253:6500/live/albanez/albanez/3865.ts
-#EXTINF:0,USA: NBC
-http://185.2.83.253:6500/live/albanez/albanez/8393.ts
-#EXTINF:0,USA: Country Music Channel
-http://185.2.83.253:6500/live/albanez/albanez/3859.ts
-#EXTINF:0,USA: Channel 11
-http://185.2.83.253:6500/live/albanez/albanez/3860.ts
-#EXTINF:0,USA: CBN News
-http://185.2.83.253:6500/live/albanez/albanez/3872.ts
-#EXTINF:0,USA: ASD TV
-http://185.2.83.253:6500/live/albanez/albanez/3861.ts
-#EXTINF:0,USA: 360 North
-http://185.2.83.253:6500/live/albanez/albanez/3863.ts
-#EXTINF:0,USA: Versus
-http://185.2.83.253:6500/live/albanez/albanez/2904.ts
-#EXTINF:0,USA: ABC News
-http://185.2.83.253:6500/live/albanez/albanez/2931.ts
-
-#EXTINF:0,=======   UK:ENTERTAINMENT   =======
-http://185.2.83.253:6500/live/albanez/albanez/2615.ts
-#EXTINF:0,UK: BBC1 HD
-http://185.2.83.253:6500/live/albanez/albanez/6986.ts
-#EXTINF:0,UK: BBC One NI HD
-http://185.2.83.253:6500/live/albanez/albanez/13488.ts
-#EXTINF:0,UK: BBC RB 1
-http://185.2.83.253:6500/live/albanez/albanez/13487.ts
-#EXTINF:0,UK: BBC2 HD
-http://185.2.83.253:6500/live/albanez/albanez/8363.ts
-#EXTINF:0,UK: BBC2
-http://185.2.83.253:6500/live/albanez/albanez/6987.ts
-#EXTINF:0,UK: Channel 4 HD
-http://185.2.83.253:6500/live/albanez/albanez/13712.ts
-#EXTINF:0,UK: CHANNEL 4
-http://185.2.83.253:6500/live/albanez/albanez/6995.ts
-#EXTINF:0,UK: Channel 4 +1
-http://185.2.83.253:6500/live/albanez/albanez/13558.ts
-#EXTINF:0,UK: Channel 5 HD
-http://185.2.83.253:6500/live/albanez/albanez/6998.ts
-#EXTINF:0,UK: Channel 5 +1
-http://185.2.83.253:6500/live/albanez/albanez/13557.ts
-#EXTINF:0,UK: Channel 5Star
-http://185.2.83.253:6500/live/albanez/albanez/9560.ts
-#EXTINF:0,UK: Sky One
-http://185.2.83.253:6500/live/albanez/albanez/7365.ts
-#EXTINF:0,UK: Sky One +1
-http://185.2.83.253:6500/live/albanez/albanez/12365.ts
-#EXTINF:0,UK: Sky Two
-http://185.2.83.253:6500/live/albanez/albanez/7373.ts
-#EXTINF:0,UK: Pick
-http://185.2.83.253:6500/live/albanez/albanez/7054.ts
-#EXTINF:0,UK: Pick 1
-http://185.2.83.253:6500/live/albanez/albanez/13519.ts
-#EXTINF:0,UK: My5
-http://185.2.83.253:6500/live/albanez/albanez/13556.ts
-#EXTINF:0,UK: DAVE
-http://185.2.83.253:6500/live/albanez/albanez/7072.ts
-#EXTINF:0,UK: SKY LIVING
-http://185.2.83.253:6500/live/albanez/albanez/7024.ts
-#EXTINF:0,UK: SKY LIVING +1
-http://185.2.83.253:6500/live/albanez/albanez/12369.ts
-#EXTINF:0,UK: BBC3
-http://185.2.83.253:6500/live/albanez/albanez/7084.ts
-#EXTINF:0,UK: BBC4 HD
-http://185.2.83.253:6500/live/albanez/albanez/8364.ts
-#EXTINF:0,UK: ITV Encore
-http://185.2.83.253:6500/live/albanez/albanez/13532.ts
-#EXTINF:0,UK: ITV
-http://185.2.83.253:6500/live/albanez/albanez/6990.ts
-#EXTINF:0,UK: ITV +1
-http://185.2.83.253:6500/live/albanez/albanez/9550.ts
-#EXTINF:0,UK: ITV1 HD
-http://185.2.83.253:6500/live/albanez/albanez/8357.ts
-#EXTINF:0,UK: ITV2 HD
-http://185.2.83.253:6500/live/albanez/albanez/8356.ts
-#EXTINF:0,UK: ITV2
-http://185.2.83.253:6500/live/albanez/albanez/6991.ts
-#EXTINF:0,UK: ITV2 1
-http://185.2.83.253:6500/live/albanez/albanez/13531.ts
-#EXTINF:0,UK: ITV3 HD
-http://185.2.83.253:6500/live/albanez/albanez/8354.ts
-#EXTINF:0,UK: ITV3
-http://185.2.83.253:6500/live/albanez/albanez/6992.ts
-#EXTINF:0,UK: ITV4 HD
-http://185.2.83.253:6500/live/albanez/albanez/8355.ts
-#EXTINF:0,UK: ITV4
-http://185.2.83.253:6500/live/albanez/albanez/6993.ts
-#EXTINF:0,UK: ITV4 1
-http://185.2.83.253:6500/live/albanez/albanez/13530.ts
-#EXTINF:0,UK: Comedy Central
-http://185.2.83.253:6500/live/albanez/albanez/7033.ts
-#EXTINF:0,UK: Comedy Central +1
-http://185.2.83.253:6500/live/albanez/albanez/13591.ts
-#EXTINF:0,UK: Comedy Central Extra
-http://185.2.83.253:6500/live/albanez/albanez/8255.ts
-#EXTINF:0,UK: ComedyCentral Xtra +1
-http://185.2.83.253:6500/live/albanez/albanez/13590.ts
-#EXTINF:0,UK: Sci-Fi
-http://185.2.83.253:6500/live/albanez/albanez/7049.ts
-#EXTINF:0,UK: ALIBI
-http://185.2.83.253:6500/live/albanez/albanez/7085.ts
-#EXTINF:0,UK: Alibi +1
-http://185.2.83.253:6500/live/albanez/albanez/12364.ts
-#EXTINF:0,UK: E4
-http://185.2.83.253:6500/live/albanez/albanez/7068.ts
-#EXTINF:0,UK: S4C
-http://185.2.83.253:6500/live/albanez/albanez/13514.ts
-#EXTINF:0,UK: MORE4
-http://185.2.83.253:6500/live/albanez/albanez/7062.ts
-#EXTINF:0,UK: More4 +1
-http://185.2.83.253:6500/live/albanez/albanez/13583.ts
-#EXTINF:0,UK: CBS REALITY
-http://185.2.83.253:6500/live/albanez/albanez/7076.ts
-#EXTINF:0,UK: CBS REALITY +1
-http://185.2.83.253:6500/live/albanez/albanez/7075.ts
-#EXTINF:0,UK: CBS Action
-http://185.2.83.253:6500/live/albanez/albanez/7078.ts
-#EXTINF:0,UK: CBS DRAMA
-http://185.2.83.253:6500/live/albanez/albanez/7077.ts
-#EXTINF:0,UK: Sony Channel
-http://185.2.83.253:6500/live/albanez/albanez/13512.ts
-#EXTINF:0,UK: Sony Chnl 1
-http://185.2.83.253:6500/live/albanez/albanez/13511.ts
-#EXTINF:0,UK: Flava
-http://185.2.83.253:6500/live/albanez/albanez/13587.ts
-#EXTINF:0,UK: E!
-http://185.2.83.253:6500/live/albanez/albanez/7069.ts
-#EXTINF:0,UK: E! 1
-http://185.2.83.253:6500/live/albanez/albanez/13549.ts
-#EXTINF:0,UK: Quest
-http://185.2.83.253:6500/live/albanez/albanez/7053.ts
-#EXTINF:0,UK: QUEST 1
-http://185.2.83.253:6500/live/albanez/albanez/13518.ts
-#EXTINF:0,UK: SHOWCASE
-http://185.2.83.253:6500/live/albanez/albanez/7048.ts
-#EXTINF:0,UK: 3e
-http://185.2.83.253:6500/live/albanez/albanez/7372.ts
-#EXTINF:0,UK: UTV IE
-http://185.2.83.253:6500/live/albanez/albanez/6996.ts
-#EXTINF:0,UK: TV3 IE
-http://185.2.83.253:6500/live/albanez/albanez/6997.ts
-#EXTINF:0,UK: TV3
-http://185.2.83.253:6500/live/albanez/albanez/7001.ts
-#EXTINF:0,UK: TV3 1
-http://185.2.83.253:6500/live/albanez/albanez/13497.ts
-#EXTINF:0,UK: TLC
-http://185.2.83.253:6500/live/albanez/albanez/7003.ts
-#EXTINF:0,UK: TG4
-http://185.2.83.253:6500/live/albanez/albanez/7004.ts
-#EXTINF:0,UK: RTE One
-http://185.2.83.253:6500/live/albanez/albanez/7050.ts
-#EXTINF:0,UK: RTE Two
-http://185.2.83.253:6500/live/albanez/albanez/7051.ts
-#EXTINF:0,UK: ITVBE
-http://185.2.83.253:6500/live/albanez/albanez/6994.ts
-#EXTINF:0,UK: ITVBe 1
-http://185.2.83.253:6500/live/albanez/albanez/13529.ts
-#EXTINF:0,UK: Community Channel
-http://185.2.83.253:6500/live/albanez/albanez/13554.ts
-#EXTINF:0,UK: AMC From BT
-http://185.2.83.253:6500/live/albanez/albanez/13567.ts
-#EXTINF:0,UK: ID
-http://185.2.83.253:6500/live/albanez/albanez/7063.ts
-#EXTINF:0,UK: ID 1
-http://185.2.83.253:6500/live/albanez/albanez/13533.ts
-#EXTINF:0,UK: Horror Channel
-http://185.2.83.253:6500/live/albanez/albanez/13585.ts
-#EXTINF:0,UK: Horror Channel +1
-http://185.2.83.253:6500/live/albanez/albanez/13586.ts
-#EXTINF:0,UK: Fox
-http://185.2.83.253:6500/live/albanez/albanez/7089.ts
-#EXTINF:0,UK: Challenge
-http://185.2.83.253:6500/live/albanez/albanez/13560.ts
-#EXTINF:0,UK: Challenge +1
-http://185.2.83.253:6500/live/albanez/albanez/13559.ts
-#EXTINF:0,UK: 5USA
-http://185.2.83.253:6500/live/albanez/albanez/7071.ts
-#EXTINF:0,UK: 5 USA +1
-http://185.2.83.253:6500/live/albanez/albanez/13569.ts
-#EXTINF:0,UK: 5STAR
-http://185.2.83.253:6500/live/albanez/albanez/7086.ts
-#EXTINF:0,UK: 5STAR +1
-http://185.2.83.253:6500/live/albanez/albanez/13568.ts
-#EXTINF:0,UK: Lifetime
-http://185.2.83.253:6500/live/albanez/albanez/8256.ts
-#EXTINF:0,UK: Vintage TV
-http://185.2.83.253:6500/live/albanez/albanez/9552.ts
-#EXTINF:0,UK: FineLiving
-http://185.2.83.253:6500/live/albanez/albanez/9388.ts
-#EXTINF:0,UK: Gold
-http://185.2.83.253:6500/live/albanez/albanez/12371.ts
-#EXTINF:0,UK: GOLD 1
-http://185.2.83.253:6500/live/albanez/albanez/13543.ts
-#EXTINF:0,UK: Eden
-http://185.2.83.253:6500/live/albanez/albanez/12460.ts
-#EXTINF:0,UK: Eden +1
-http://185.2.83.253:6500/live/albanez/albanez/12366.ts
-#EXTINF:0,UK: True Drama
-http://185.2.83.253:6500/live/albanez/albanez/13574.ts
-#EXTINF:0,UK: True Crime 1
-http://185.2.83.253:6500/live/albanez/albanez/13498.ts
-#EXTINF:0,UK: tru TV
-http://185.2.83.253:6500/live/albanez/albanez/13500.ts
-#EXTINF:0,UK: tru TV 1
-http://185.2.83.253:6500/live/albanez/albanez/13499.ts
-#EXTINF:0,UK: TLC 1
-http://185.2.83.253:6500/live/albanez/albanez/13501.ts
-#EXTINF:0,UK: TLC 2
-http://185.2.83.253:6500/live/albanez/albanez/13502.ts
-#EXTINF:0,UK: Dunya News
-http://185.2.83.253:6500/live/albanez/albanez/13486.ts
-#EXTINF:0,UK: Drama
-http://185.2.83.253:6500/live/albanez/albanez/13550.ts
-#EXTINF:0,UK: Dmax
-http://185.2.83.253:6500/live/albanez/albanez/12458.ts
-#EXTINF:0,UK: Dmax +1
-http://185.2.83.253:6500/live/albanez/albanez/12459.ts
-#EXTINF:0,UK: De Ja Vu
-http://185.2.83.253:6500/live/albanez/albanez/11779.ts
-#EXTINF:0,UK: W 1
-http://185.2.83.253:6500/live/albanez/albanez/13494.ts
-#EXTINF:0,UK: W
-http://185.2.83.253:6500/live/albanez/albanez/13495.ts
-#EXTINF:0,UK: Universal +1
-http://185.2.83.253:6500/live/albanez/albanez/13571.ts
-#EXTINF:0,UK: Universal
-http://185.2.83.253:6500/live/albanez/albanez/13572.ts
-#EXTINF:0,UK: True Entertainment
-http://185.2.83.253:6500/live/albanez/albanez/13573.ts
-#EXTINF:0,UK: Sky News
-http://185.2.83.253:6500/live/albanez/albanez/9551.ts
-#EXTINF:0,UK: Real Lives 1
-http://185.2.83.253:6500/live/albanez/albanez/13516.ts
-#EXTINF:0,UK: Real Lives
-http://185.2.83.253:6500/live/albanez/albanez/13517.ts
-#EXTINF:0,UK: Tiny Pop +1
-http://185.2.83.253:6500/live/albanez/albanez/13575.ts
-#EXTINF:0,UK: Tiny Pop
-http://185.2.83.253:6500/live/albanez/albanez/13576.ts
-#EXTINF:0,UK: The Vault
-http://185.2.83.253:6500/live/albanez/albanez/13577.ts
-#EXTINF:0,UK: Spike
-http://185.2.83.253:6500/live/albanez/albanez/13508.ts
-#EXTINF:0,UK: RT. News Now
-http://185.2.83.253:6500/live/albanez/albanez/13515.ts
-#EXTINF:0,UK: PBS America
-http://185.2.83.253:6500/live/albanez/albanez/13520.ts
-#EXTINF:0,=======   UK:LIFESTYLE & CULTURE   =======
-http://185.2.83.253:6500/live/albanez/albanez/8250.ts
-#EXTINF:0,UK: Discovery Shed
-http://185.2.83.253:6500/live/albanez/albanez/6977.ts
-#EXTINF:0,UK: Travel Channel
-http://185.2.83.253:6500/live/albanez/albanez/7002.ts
-#EXTINF:0,UK: Travel Channel +1
-http://185.2.83.253:6500/live/albanez/albanez/10162.ts
-#EXTINF:0,UK: Really
-http://185.2.83.253:6500/live/albanez/albanez/7052.ts
-#EXTINF:0,UK: Home & Health
-http://185.2.83.253:6500/live/albanez/albanez/7369.ts
-#EXTINF:0,UK: Food Network
-http://185.2.83.253:6500/live/albanez/albanez/8392.ts
-#EXTINF:0,UK: SKY ARTS
-http://185.2.83.253:6500/live/albanez/albanez/7046.ts
-#EXTINF:0,UK: Good Food
-http://185.2.83.253:6500/live/albanez/albanez/13542.ts
-#EXTINF:0,UK: Good Food 1
-http://185.2.83.253:6500/live/albanez/albanez/13541.ts
-#EXTINF:0,UK: Food Netwrk 1
-http://185.2.83.253:6500/live/albanez/albanez/13547.ts
-#EXTINF:0,UK: Home&Health
-http://185.2.83.253:6500/live/albanez/albanez/13536.ts
-#EXTINF:0,UK: Home
-http://185.2.83.253:6500/live/albanez/albanez/13537.ts
-#EXTINF:0,UK: Home 1
-http://185.2.83.253:6500/live/albanez/albanez/13535.ts
-#EXTINF:0,=======   UK:MOVIES   =======
-http://185.2.83.253:6500/live/albanez/albanez/8252.ts
-#EXTINF:0,UK: Sky Cinema Premiere HD
-http://185.2.83.253:6500/live/albanez/albanez/7008.ts
-#EXTINF:0,UK: Sky Cinema Premiere
-http://185.2.83.253:6500/live/albanez/albanez/7007.ts
-#EXTINF:0,UK: Sky Cinema Premier +1
-http://185.2.83.253:6500/live/albanez/albanez/9557.ts
-#EXTINF:0,UK: Sky Movies Comedy
-http://185.2.83.253:6500/live/albanez/albanez/7012.ts
-#EXTINF:0,UK: Sky Cinema Action & Adventure
-http://185.2.83.253:6500/live/albanez/albanez/7013.ts
-#EXTINF:0,UK: Sky Cinema Family
-http://185.2.83.253:6500/live/albanez/albanez/7009.ts
-#EXTINF:0,UK: Sky Cinema Drama & Romance
-http://185.2.83.253:6500/live/albanez/albanez/7011.ts
-#EXTINF:0,UK: Sky Movies Sci-Fi Horror HD
-http://185.2.83.253:6500/live/albanez/albanez/7015.ts
-#EXTINF:0,UK: Sky Movies ScFi-Horror
-http://185.2.83.253:6500/live/albanez/albanez/6975.ts
-#EXTINF:0,UK: Sky Film 4 HD
-http://185.2.83.253:6500/live/albanez/albanez/7030.ts
-#EXTINF:0,UK: Film4 +1
-http://185.2.83.253:6500/live/albanez/albanez/13588.ts
-#EXTINF:0,UK: Sky Cinema Select
-http://185.2.83.253:6500/live/albanez/albanez/7014.ts
-#EXTINF:0,UK: Sky Cinema Disney
-http://185.2.83.253:6500/live/albanez/albanez/7017.ts
-#EXTINF:0,UK: Sky Universal +1
-http://185.2.83.253:6500/live/albanez/albanez/9559.ts
-#EXTINF:0,UK: Sony Movies
-http://185.2.83.253:6500/live/albanez/albanez/13510.ts
-#EXTINF:0,UK: Sony Movies 1
-http://185.2.83.253:6500/live/albanez/albanez/13509.ts
-#EXTINF:0,UK: TCM
-http://185.2.83.253:6500/live/albanez/albanez/7006.ts
-#EXTINF:0,UK: Starz TV
-http://185.2.83.253:6500/live/albanez/albanez/13578.ts
-#EXTINF:0,UK: Star Life OK
-http://185.2.83.253:6500/live/albanez/albanez/13505.ts
-#EXTINF:0,UK: Star Jalsha
-http://185.2.83.253:6500/live/albanez/albanez/13506.ts
-#EXTINF:0,UK: Star GOLD
-http://185.2.83.253:6500/live/albanez/albanez/13507.ts
-#EXTINF:0,UK: TCM 1
-http://185.2.83.253:6500/live/albanez/albanez/13504.ts
-#EXTINF:0,UK: FILM 4
-http://185.2.83.253:6500/live/albanez/albanez/7066.ts
-#EXTINF:0,UK: True Movies 1
-http://185.2.83.253:6500/live/albanez/albanez/6976.ts
-#EXTINF:0,UK: True Movies 2
-http://185.2.83.253:6500/live/albanez/albanez/7375.ts
-#EXTINF:0,UK: Movies4Men
-http://185.2.83.253:6500/live/albanez/albanez/8258.ts
-#EXTINF:0,UK: Movies 24
-http://185.2.83.253:6500/live/albanez/albanez/13525.ts
-#EXTINF:0,UK: mov4men 1
-http://185.2.83.253:6500/live/albanez/albanez/13526.ts
-#EXTINF:0,UK: MOVIES CRIME & THRILLER
-http://185.2.83.253:6500/live/albanez/albanez/7019.ts
-#EXTINF:0,UK: MOVIES DISNEY
-http://185.2.83.253:6500/live/albanez/albanez/7021.ts
-#EXTINF:0,UK: MOVIES COMEDY
-http://185.2.83.253:6500/live/albanez/albanez/7022.ts
-#EXTINF:0,UK:  Sky Cinema Action & Adventure
-http://185.2.83.253:6500/live/albanez/albanez/7023.ts
-#EXTINF:0,UK: Syfy
-http://185.2.83.253:6500/live/albanez/albanez/7005.ts
-#EXTINF:0,UK: Syfy +1
-http://185.2.83.253:6500/live/albanez/albanez/9556.ts
-#EXTINF:0,UK: Sky Atlantic
-http://185.2.83.253:6500/live/albanez/albanez/7045.ts
-#EXTINF:0,UK: Sky Atlantic +1
-http://185.2.83.253:6500/live/albanez/albanez/9558.ts
-#EXTINF:0,=======   UK:SPORT   =======
-http://185.2.83.253:6500/live/albanez/albanez/8244.ts
-#EXTINF:0,UK: SKY SPORTS NEWS HQ HD
-http://185.2.83.253:6500/live/albanez/albanez/6981.ts
-#EXTINF:0,UK: Sky Sports News HQ
-http://185.2.83.253:6500/live/albanez/albanez/8391.ts
-#EXTINF:0,UK: Sky Sports Mix HD
-http://185.2.83.253:6500/live/albanez/albanez/13713.ts
-#EXTINF:0,UK: Sky Sports 1 HD
-http://185.2.83.253:6500/live/albanez/albanez/8352.ts
-#EXTINF:0,UK: Sky Sports 1
-http://185.2.83.253:6500/live/albanez/albanez/7035.ts
-#EXTINF:0,UK: Sky Sports 2 HD
-http://185.2.83.253:6500/live/albanez/albanez/8351.ts
-#EXTINF:0,UK: Sky Sports 2
-http://185.2.83.253:6500/live/albanez/albanez/7036.ts
-#EXTINF:0,UK: Sky Sports 3 HD
-http://185.2.83.253:6500/live/albanez/albanez/8350.ts
-#EXTINF:0,UK: Sky Sports 3
-http://185.2.83.253:6500/live/albanez/albanez/7037.ts
-#EXTINF:0,UK: Sky Sports 4 HD
-http://185.2.83.253:6500/live/albanez/albanez/9549.ts
-#EXTINF:0,UK: Sky Sports 4
-http://185.2.83.253:6500/live/albanez/albanez/7038.ts
-#EXTINF:0,UK: Sky Sports 5 HD
-http://185.2.83.253:6500/live/albanez/albanez/8349.ts
-#EXTINF:0,UK: Sky Sports 5
-http://185.2.83.253:6500/live/albanez/albanez/7039.ts
-#EXTINF:0,UK: Sky Sports F1 HD
-http://185.2.83.253:6500/live/albanez/albanez/7987.ts
-#EXTINF:0,UK: SKY SPORTS  F1
-http://185.2.83.253:6500/live/albanez/albanez/7067.ts
-#EXTINF:0,UK: Eurosport 1
-http://185.2.83.253:6500/live/albanez/albanez/7031.ts
-#EXTINF:0,UK: Eurosport 2
-http://185.2.83.253:6500/live/albanez/albanez/7374.ts
-#EXTINF:0,UK: Premier Sports
-http://185.2.83.253:6500/live/albanez/albanez/10163.ts
-#EXTINF:0,UK: Premier Sport
-http://185.2.83.253:6500/live/albanez/albanez/12498.ts
-#EXTINF:0,UK: Motors TV
-http://185.2.83.253:6500/live/albanez/albanez/8257.ts
-#EXTINF:0,UK: Horse & Country
-http://185.2.83.253:6500/live/albanez/albanez/13534.ts
-#EXTINF:0,UK: AT THE RACES
-http://185.2.83.253:6500/live/albanez/albanez/6984.ts
-#EXTINF:0,UK: Racing UK
-http://185.2.83.253:6500/live/albanez/albanez/7376.ts
-#EXTINF:0,UK: Bike
-http://185.2.83.253:6500/live/albanez/albanez/13599.ts
-#EXTINF:0,UK: BT Sport Mosaic HD
-http://185.2.83.253:6500/live/albanez/albanez/9149.ts
-#EXTINF:0,UK: BT SPORTS MOSAIC 2
-http://185.2.83.253:6500/live/albanez/albanez/12531.ts
-#EXTINF:0,UK: BT Sport 1 HD
-http://185.2.83.253:6500/live/albanez/albanez/7041.ts
-#EXTINF:0,UK: BT Sport 2 HD
-http://185.2.83.253:6500/live/albanez/albanez/7042.ts
-#EXTINF:0,UK: BT Sport/ESPN HD
-http://185.2.83.253:6500/live/albanez/albanez/8358.ts
-#EXTINF:0,UK: BT Sport ESPN
-http://185.2.83.253:6500/live/albanez/albanez/6985.ts
-#EXTINF:0,UK: BT Sport 2
-http://185.2.83.253:6500/live/albanez/albanez/8361.ts
-#EXTINF:0,UK: BT Sport Europe/3 HD
-http://185.2.83.253:6500/live/albanez/albanez/8360.ts
-#EXTINF:0,UK: BT SPORTS EUROPE
-http://185.2.83.253:6500/live/albanez/albanez/7081.ts
-#EXTINF:0,UK: BT Sports Extra 1
-http://185.2.83.253:6500/live/albanez/albanez/7370.ts
-#EXTINF:0,UK: BT Sport Extra 2
-http://185.2.83.253:6500/live/albanez/albanez/13565.ts
-#EXTINF:0,UK: BT Sport Extra 3
-http://185.2.83.253:6500/live/albanez/albanez/13564.ts
-#EXTINF:0,UK: BT Sport Extra 4
-http://185.2.83.253:6500/live/albanez/albanez/13563.ts
-#EXTINF:0,UK: BT Sport Extra 5
-http://185.2.83.253:6500/live/albanez/albanez/13562.ts
-#EXTINF:0,UK: BT Sport Extra 6
-http://185.2.83.253:6500/live/albanez/albanez/13561.ts
-#EXTINF:0,UK: BET
-http://185.2.83.253:6500/live/albanez/albanez/9148.ts
-#EXTINF:0,UK: Setanta HD
-http://185.2.83.253:6500/live/albanez/albanez/8241.ts
-#EXTINF:0,UK: Sky Setanta Sports
-http://185.2.83.253:6500/live/albanez/albanez/7040.ts
-#EXTINF:0,UK: BOX NATION
-http://185.2.83.253:6500/live/albanez/albanez/7082.ts
-#EXTINF:0,UK: Sky BoxOff (PPV Events Only)
-http://185.2.83.253:6500/live/albanez/albanez/7979.ts
-#EXTINF:0,UK: MUTV
-http://185.2.83.253:6500/live/albanez/albanez/7043.ts
-#EXTINF:0,UK: Chelsea TV HD
-http://185.2.83.253:6500/live/albanez/albanez/7044.ts
-#EXTINF:0,UK: Chelsea TV
-http://185.2.83.253:6500/live/albanez/albanez/8359.ts
-#EXTINF:0,UK: Liverpool LFCTV
-http://185.2.83.253:6500/live/albanez/albanez/9553.ts
-#EXTINF:0,UK: Rangers TV
-http://185.2.83.253:6500/live/albanez/albanez/12482.ts
-#EXTINF:0,UK: Everton FC TV
-http://185.2.83.253:6500/live/albanez/albanez/12484.ts
-#EXTINF:0,UK: Celtic FC TV (Live for Matches )
-http://185.2.83.253:6500/live/albanez/albanez/12457.ts
-#EXTINF:0,UK: MIO SPORTS 1
-http://185.2.83.253:6500/live/albanez/albanez/9299.ts
-#EXTINF:0,UK: Mio Sports 2
-http://185.2.83.253:6500/live/albanez/albanez/9300.ts
-#EXTINF:0,UK: Mio Sports 3 (Eleven Plus)
-http://185.2.83.253:6500/live/albanez/albanez/9301.ts
-#EXTINF:0,UK: Mio Sports 4
-http://185.2.83.253:6500/live/albanez/albanez/9302.ts
-#EXTINF:0,UK: Mio Sports 5
-http://185.2.83.253:6500/live/albanez/albanez/9303.ts
-#EXTINF:0,UK: Mio Sports 6
-http://185.2.83.253:6500/live/albanez/albanez/9304.ts
-#EXTINF:0,UK: Mio Sports 7
-http://185.2.83.253:6500/live/albanez/albanez/9305.ts
-#EXTINF:0,UK: Mio Sports 8
-http://185.2.83.253:6500/live/albanez/albanez/9306.ts
-#EXTINF:0,=======   UK:NEWS   =======
-http://185.2.83.253:6500/live/albanez/albanez/8246.ts
-#EXTINF:0,UK: BBC News HD
-http://185.2.83.253:6500/live/albanez/albanez/8362.ts
-#EXTINF:0,UK: BBC News
-http://185.2.83.253:6500/live/albanez/albanez/7371.ts
-#EXTINF:0,UK: NHK World Ja EN
-http://185.2.83.253:6500/live/albanez/albanez/2900.ts
-#EXTINF:0,=======   UK:DOCUMENTARIES   =======
-http://185.2.83.253:6500/live/albanez/albanez/8247.ts
-#EXTINF:0,UK: Discovery Channel
-http://185.2.83.253:6500/live/albanez/albanez/7026.ts
-#EXTINF:0,Uk: Discovery Channel +1
-http://185.2.83.253:6500/live/albanez/albanez/10161.ts
-#EXTINF:0,UK: Discovery Turbo
-http://185.2.83.253:6500/live/albanez/albanez/6979.ts
-#EXTINF:0,UK: Discovery Science
-http://185.2.83.253:6500/live/albanez/albanez/7028.ts
-#EXTINF:0,UK: Disc.Sci 1
-http://185.2.83.253:6500/live/albanez/albanez/13551.ts
-#EXTINF:0,UK: Animal Planet
-http://185.2.83.253:6500/live/albanez/albanez/7047.ts
-#EXTINF:0,UK: Animal Planet +1
-http://185.2.83.253:6500/live/albanez/albanez/13566.ts
-#EXTINF:0,UK: Nat Geo
-http://185.2.83.253:6500/live/albanez/albanez/7367.ts
-#EXTINF:0,UK: Nat Geo Wild
-http://185.2.83.253:6500/live/albanez/albanez/7025.ts
-#EXTINF:0,UK: Discovery History HD
-http://185.2.83.253:6500/live/albanez/albanez/7029.ts
-#EXTINF:0,UK: Disc.History 1
-http://185.2.83.253:6500/live/albanez/albanez/13552.ts
-#EXTINF:0,UK: YESTERDAY
-http://185.2.83.253:6500/live/albanez/albanez/6999.ts
-#EXTINF:0,UK: Yesterday +1
-http://185.2.83.253:6500/live/albanez/albanez/12375.ts
-#EXTINF:0,UK: Investigation Discovery
-http://185.2.83.253:6500/live/albanez/albanez/7368.ts
-#EXTINF:0,UK: CRIME & THRILLER
-http://185.2.83.253:6500/live/albanez/albanez/7073.ts
-#EXTINF:0,UK: Crime & Investigation
-http://185.2.83.253:6500/live/albanez/albanez/7074.ts
-#EXTINF:0,UK: Crime Inv  1
-http://185.2.83.253:6500/live/albanez/albanez/13553.ts
-#EXTINF:0,UK: H2
-http://185.2.83.253:6500/live/albanez/albanez/13540.ts
-#EXTINF:0,UK: History
-http://185.2.83.253:6500/live/albanez/albanez/13539.ts
-#EXTINF:0,UK: History 1 hour
-http://185.2.83.253:6500/live/albanez/albanez/13538.ts
-#EXTINF:0,UK: GEO TV
-http://185.2.83.253:6500/live/albanez/albanez/13544.ts
-#EXTINF:0,=======   UK:CHILDREN’S   =======
-http://185.2.83.253:6500/live/albanez/albanez/8251.ts
-#EXTINF:0,UK: Nickelodeon 1
-http://185.2.83.253:6500/live/albanez/albanez/13521.ts
-#EXTINF:0,UK: Baby TV
-http://185.2.83.253:6500/live/albanez/albanez/11778.ts
-#EXTINF:0,UK: Kix
-http://185.2.83.253:6500/live/albanez/albanez/11469.ts
-#EXTINF:0,UK: Kix +1
-http://185.2.83.253:6500/live/albanez/albanez/13584.ts
-#EXTINF:0,UK: Cartoon Network
-http://185.2.83.253:6500/live/albanez/albanez/7034.ts
-#EXTINF:0,UK: NickJr Too
-http://185.2.83.253:6500/live/albanez/albanez/7543.ts
-#EXTINF:0,UK: Nick Jr  +1
-http://185.2.83.253:6500/live/albanez/albanez/7544.ts
-#EXTINF:0,UK: Nicktoons
-http://185.2.83.253:6500/live/albanez/albanez/7055.ts
-#EXTINF:0,UK: Disney Junior
-http://185.2.83.253:6500/live/albanez/albanez/7542.ts
-#EXTINF:0,UK: Disney Channel
-http://185.2.83.253:6500/live/albanez/albanez/7032.ts
-#EXTINF:0,UK: Disney Channel +1
-http://185.2.83.253:6500/live/albanez/albanez/9555.ts
-#EXTINF:0,UK: Nickelodeon
-http://185.2.83.253:6500/live/albanez/albanez/7366.ts
-#EXTINF:0,UK: Nickelodeon +1
-http://185.2.83.253:6500/live/albanez/albanez/12368.ts
-#EXTINF:0,UK: DISNEY XD
-http://185.2.83.253:6500/live/albanez/albanez/7070.ts
-#EXTINF:0,UK: DISNEY XD +1
-http://185.2.83.253:6500/live/albanez/albanez/12370.ts
-#EXTINF:0,UK: CBEEBIES
-http://185.2.83.253:6500/live/albanez/albanez/7079.ts
-#EXTINF:0,UK: CBBC
-http://185.2.83.253:6500/live/albanez/albanez/7080.ts
-#EXTINF:0,UK: Cartoonito
-http://185.2.83.253:6500/live/albanez/albanez/8254.ts
-#EXTINF:0,UK: Boomerang +1
-http://185.2.83.253:6500/live/albanez/albanez/13597.ts
-#EXTINF:0,UK: Boomerang
-http://185.2.83.253:6500/live/albanez/albanez/13598.ts
-#EXTINF:0,=======   UK:MUSIC  =======
-http://185.2.83.253:6500/live/albanez/albanez/8253.ts
-#EXTINF:0,UK: MTV Music
-http://185.2.83.253:6500/live/albanez/albanez/13582.ts
-#EXTINF:0,UK: MTV 90s
-http://185.2.83.253:6500/live/albanez/albanez/13485.ts
-#EXTINF:0,UK: MTV
-http://185.2.83.253:6500/live/albanez/albanez/7061.ts
-#EXTINF:0,UK: MTV +1
-http://185.2.83.253:6500/live/albanez/albanez/13523.ts
-#EXTINF:0,UK: MTV Base
-http://185.2.83.253:6500/live/albanez/albanez/7060.ts
-#EXTINF:0,UK: MTV Hits
-http://185.2.83.253:6500/live/albanez/albanez/7057.ts
-#EXTINF:0,UK: MTV Dance
-http://185.2.83.253:6500/live/albanez/albanez/7058.ts
-#EXTINF:0,UK: MTV Rocks
-http://185.2.83.253:6500/live/albanez/albanez/7056.ts
-#EXTINF:0,UK: MTV Classic
-http://185.2.83.253:6500/live/albanez/albanez/7059.ts
-#EXTINF:0,UK: VH1
-http://185.2.83.253:6500/live/albanez/albanez/7000.ts
-#EXTINF:0,UK: VIVA
-http://185.2.83.253:6500/live/albanez/albanez/8259.ts
-#EXTINF:0,UK: Scuzz
-http://185.2.83.253:6500/live/albanez/albanez/13579.ts
-#EXTINF:0,UK: 4Music
-http://185.2.83.253:6500/live/albanez/albanez/13570.ts
-#EXTINF:0,UK: POP +1
-http://185.2.83.253:6500/live/albanez/albanez/13580.ts
-#EXTINF:0,UK: POP
-http://185.2.83.253:6500/live/albanez/albanez/13581.ts
-#EXTINF:0,=======   UK:FOREIGN LANGUAGE   =======
-http://185.2.83.253:6500/live/albanez/albanez/8245.ts
-#EXTINF:0,UK: BBC Persian
-http://185.2.83.253:6500/live/albanez/albanez/2129.ts
-#EXTINF:0,UK: BBC Arabic
-http://185.2.83.253:6500/live/albanez/albanez/2122.ts
-#EXTINF:0,UK: London Live
-http://185.2.83.253:6500/live/albanez/albanez/2927.ts
+#EXTINF:-1,卫视中文台
+http://150.107.28.90/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+#EXTINF:-1,卫视卡式台
+http://150.107.28.90/stream/totnew.php?channel_id=c8233976dbba4a06a101780907447375
+#EXTINF:-1,天映经典频道
+http://150.107.28.90/stream/totnew.php?channel_id=1c2276a2f1884b269ce281c3334e8f85
+#EXTINF:-1,卫视电影台
+http://150.107.28.90/stream/totnew.php?channel_id=31ce436d1729484082fbe6aec6603f56
+#EXTINF:-1,CCTV 9 记录
+http://150.107.28.90/stream/totnew.php?channel_id=b08a8052e6724bedba5399f662715ad1
+#EXTINF:-1,CCTV 4 国际
+http://150.107.28.90/stream/totnew.php?channel_id=5289381709e64f8db14a4ed75ab2b59f
+#EXTINF:-1,MTV
+http://150.107.28.90/stream/totnew.php?channel_id=deb56e700dbc4d9ea5af08e9d300a675
+#EXTINF:-1,CHANNEL V
+http://150.107.28.90/stream/totnew.php?channel_id=9102f3553f3246ecbbc9738dd4803344
+#EXTINF:-1,Thrill
+http://150.107.28.90/stream/totnew.php?channel_id=c316ed9333e54442b25077f0bb3cc269
+#EXTINF:-1,Fox Crime HD
+http://150.107.28.90/stream/totnew.php?channel_id=5028f7ff1d1b4d5f8189690233364737
+#EXTINF:-1,Universal Channel
+http://150.107.28.90/stream/totnew.php?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
+#EXTINF:-1,Syfy
+http://150.107.28.90/stream/totnew.php?channel_id=71f197de056e499a85265c03b44bdab1
+#EXTINF:-1,FX HD
+http://150.107.28.90/stream/totnew.php?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+#EXTINF:-1,WBTV
+http://150.107.28.90/stream/totnew.php?channel_id=06e717f5ec0c4657a8c76c4dfcf9449b
+#EXTINF:-1,STAR WOLRD HD
+http://150.107.28.90/stream/totnew.php?channel_id=65f7358b813048a0898f5677e1793cf9
+#EXTINF:-1,Biography Channel HD
+http://150.107.28.90/stream/totnew.php?channel_id=8c49d827190b4b29a9d5e3be92e5054c
+#EXTINF:-1,Fashion TV
+http://150.107.28.90/stream/totnew.php?channel_id=df468a12ae6547de9637486bdc2025aa
+#EXTINF:-1,Euronews
+http://150.107.28.90/stream/totnew.php?channel_id=3f35c4428a0d4004a38ff0adba7664f4
+#EXTINF:-1,Al-Jazeera News
+http://150.107.28.90/stream/totnew.php?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
+#EXTINF:-1,Sky News HD
+http://150.107.28.90/stream/totnew.php?channel_id=31b003ab7e7749a798fe00424e3dd9ff
+#EXTINF:-1,Deutsche Welle
+http://150.107.28.90/stream/totnew.php?channel_id=6de1e752a9974a5980166483c8ed6bb8
+#EXTINF:-1,Fox News
+http://150.107.28.90/stream/totnew.php?channel_id=1e2041858ca543fa90ec95d28197e907
+#EXTINF:-1,MSNBC HD
+http://150.107.28.90/stream/totnew.php?channel_id=7f2989e3f87e4efdb36bac56b64dca62
+#EXTINF:-1,France 24
+http://150.107.28.90/stream/totnew.php?channel_id=82c764aa2d7f42579348b8717cb5b9a4
+#EXTINF:-1,ASTV
+http://150.107.28.90/stream/totnew.php?channel_id=31dbe17e0c1b4c8684200f83b85b007b
+#EXTINF:-1,CCTV News
+http://150.107.28.90/stream/totnew.php?channel_id=0ed1c715dc864ab3912d4015903a3d85
+#EXTINF:-1,Edge HD
+http://150.107.28.90/stream/totnew.php?channel_id=3764586b28544a0fa379b1d4e400c100
+#EXTINF:-1,Outdoor Channel HD
+http://150.107.28.90/stream/totnew.php?channel_id=1c551f42019d40e8acf32e8218ef8703
+#EXTINF:-1,FightBox HD
+http://150.107.28.90/stream/totnew.php?channel_id=0d01fdc1362f427ca5527c645f5f908f
+#EXTINF:-1,Matial Arts Channel
+http://150.107.28.90/stream/totnew.php?channel_id=0d9fc0134f2143148e57461d69180d13
+#EXTINF:-1,KidsCo
+http://150.107.28.90/stream/totnew.php?channel_id=fdaede40b27445ac893189bc6332c914
+#EXTINF:-1,Kix
+http://150.107.28.90/stream/totnew.php?channel_id=e584e0adae6440eab366f5fe3a824f91
+#EXTINF:-1,Biography Channel HD
+http://150.107.28.90/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
+#EXTINF:-1,Crime and Investigation (CI) HD
+http://150.107.28.90/stream/totnew.php?channel_id=9961a963920f45f4bc0d81c3e478b334
+#EXTINF:-1,Travel Channel International
+http://150.107.28.90/stream/totnew.php?channel_id=4c136f4cb1fd4f62a583a029c2eb6c77
+#EXTINF:-1,Channel V International
+http://150.107.28.90/stream/totnew.php?channel_id=9e38a0084e6d45d080139a166c60a102
+#EXTINF:-1,Nat Geo Music HD
+http://150.107.28.90/stream/totnew.php?channel_id=69c2eab6794344619a049c5dea60ca22
+#EXTINF:-1,MTV Asia
+http://150.107.28.90/stream/totnew.php?channel_id=ebce2f5139c54eda8b111e5923af9c9e
+#EXTINF:-1,Choice Preview
+http://150.107.28.90/stream/totnew.php?channel_id=efe6b8c411e845efbecf3ee4bef41f8b
+#EXTINF:-1,Channel 3
+http://150.107.28.90/stream/totnew.php?channel_id=8bad9f20ff2246b894eddced10dcfdeb
+#EXTINF:-1,Channel 5
+http://150.107.28.90/stream/totnew.php?channel_id=1d92193b11fe490b8c67d0a88bee3fd6
+#EXTINF:-1,Channel 7
+http://150.107.28.90/stream/totnew.php?channel_id=ddfa47e726444446864b14e0e819fdde
+#EXTINF:-1,Modern 9
+http://150.107.28.90/stream/totnew.php?channel_id=3ae2fd6ccaf6499e898de377ed74ea12
+#EXTINF:-1,NBT1
+http://150.107.28.90/stream/totnew.php?channel_id=47105f5b5acc488fb43354f6fa3142c1
+#EXTINF:-1,Thai PBS
+http://150.107.28.90/stream/totnew.php?channel_id=d7182fae6e9f4d929bdb5ae06059bda8
+#EXTINF:-1,Nation Channel
+http://150.107.28.90/stream/totnew.php?channel_id=a5b25476119b46f5b5a34d56f7d1156c
+#EXTINF:-1,Bangkok Channel
+http://150.107.28.90/stream/totnew.php?channel_id=26fe491f794f4497ac96bc1571a705bc
+#EXTINF:-1,Modern India TV
+http://150.107.28.90/stream/totnew.php?channel_id=c9551ca2c2284826b6aeb398824f3a18
+#EXTINF:-1,TOT Channel
+http://150.107.28.90/stream/totnew.php?channel_id=360304543ea24956a78f9ba83edba1c0
+#EXTINF:-1,Spring News
+http://150.107.28.90/stream/totnew.php?channel_id=1ae0f87662c248d693d2eed30b698760
+#EXTINF:-1,N/A
+http://150.107.28.90/stream/totnew.php?channel_id=b29f0e7ada6348c6851bad32728a6ddb
+#EXTINF:-1,Asia Update
+http://150.107.28.90/stream/totnew.php?channel_id=6d5587cf7ce94cd8a7477775b7ddc253
+#EXTINF:-1,Bluesky Channel
+http://150.107.28.90/stream/totnew.php?channel_id=76221348029846b6a86cce2f76e60f82
+#EXTINF:-1,NEWS1
+http://150.107.28.90/stream/totnew.php?channel_id=31dbe17e0c1b4c8684200f83b85b007b
+#EXTINF:-1,GMM Music HD
+http://150.107.28.90/stream/totnew.php?channel_id=6419c83b42934de3a333c5a32737b559
+#EXTINF:-1,Green Channel
+http://150.107.28.90/stream/totnew.php?channel_id=7454994cef7f464f9bf8e4331ee83902
+#EXTINF:-1,You Channel
+http://150.107.28.90/stream/totnew.php?channel_id=8e959f5d739d497c95faa31b3a810dd6
+#EXTINF:-1,POP
+http://150.107.28.90/stream/totnew.php?channel_id=5389167315dc4a619ed5bc72f66a1c4f
+#EXTINF:-1,STAR MAX Channel
+http://150.107.28.90/stream/totnew.php?channel_id=4e38ed2fa4dd43999828eab81196deff
+#EXTINF:-1,Saranair Channel
+http://150.107.28.90/stream/totnew.php?channel_id=bb8f0deba37f4f3a8d0bd0de1656852f
+#EXTINF:-1,AMARIN activ TV
+http://150.107.28.90/stream/totnew.php?channel_id=5a84db6569ab4edd9ced59e0d3a620e5
+#EXTINF:-1,Dude TV
+http://150.107.28.90/stream/totnew.php?channel_id=2ee9e13bb4e442d29f7e3e858e8222e7
+#EXTINF:-1,You2Play
+http://150.107.28.90/stream/totnew.php?channel_id=2abfe809bf0448e08159ef7057ca00d4
+#EXTINF:-1,Fan TV HD
+http://150.107.28.90/stream/totnew.php?channel_id=345a4277dd864037b6b4fb5a562af59c
+#EXTINF:-1,Sabaidee TV
+http://150.107.28.90/stream/totnew.php?channel_id=b9bedb1b0539456dbc84542cf2ebca7b
+#EXTINF:-1,TV Pool Music Channel
+http://150.107.28.90/stream/totnew.php?channel_id=80aad4dd6e424c14921832300c74a202
+#EXTINF:-1,Thai Chaiyo
+http://150.107.28.90/stream/totnew.php?channel_id=a2ca06da9478412e9501d968e31bbf75
+#EXTINF:-1,Bang Channel
+http://150.107.28.90/stream/totnew.php?channel_id=45607bb280464483896716f7fa17b4d
+#EXTINF:-1,Miti4
+http://150.107.28.90/stream/totnew.php?channel_id=d2dc7d7f3d234b5a9ef526e2fc16fb7b
+#EXTINF:-1,Miracle TV
+http://150.107.28.90/stream/totnew.php?channel_id=25713d0629f148adbfedbdf4284afb09
+#EXTINF:-1,VARIETY NEWS CHANNEL
+http://150.107.28.90/stream/totnew.php?channel_id=cf984f0c8b6444b49c9c05273a59cfe4
+#EXTINF:-1,IN TV
+http://150.107.28.90/stream/totnew.php?channel_id=a5e2f72ac54e4c3489ae8f272f044999
+#EXTINF:-1,Farm Channel
+http://150.107.28.90/stream/totnew.php?channel_id=817c9a06488c4ff7bc8d505038a7652a
+#EXTINF:-1,ITV Choice
+http://150.107.28.90/stream/totnew.php?channel_id=e36b99bcd26648af9db2261785c77b7a
+#EXTINF:-1,WeTV HD
+http://150.107.28.90/stream/totnew.php?channel_id=dea34fa045074639b3a18123d4b4eda0
+#EXTINF:-1,Zee TV
+http://150.107.28.90/stream/totnew.php?channel_id=8be5e8787848472089925a7bb7f43ef1
+#EXTINF:-1,TV Pool Channel
+http://150.107.28.90/stream/totnew.php?channel_id=bfee35dc7917423eb68fc3e5edaaae64
+#EXTINF:-1,Vetee Thai
+http://150.107.28.90/stream/totnew.php?channel_id=768ab5caf16e44689c3a75e6a3f57b5c
+#EXTINF:-1,N/A
+http://150.107.28.90/stream/totnew.php?channel_id=1e2b9312fc384567ac6a12e650d8796a
+#EXTINF:-1,ThaiCH8
+http://150.107.28.90/stream/totnew.php?channel_id=15c52eeb21b748319771eb794a6cf242
+#EXTINF:-1,K-Channel
+http://150.107.28.90/stream/totnew.php?channel_id=e779ab60cd294e9ca2f3661b7709a286
+#EXTINF:-1,Workpoint TV
+http://150.107.28.90/stream/totnew.php?channel_id=a9a68ab5471d4d39ba25695a66957067
+#EXTINF:-1,Cartoon Club
+http://150.107.28.90/stream/totnew.php?channel_id=860605f7e16d4c6cacef72ef02ffa2c1
+#EXTINF:-1,Nick Jr
+http://150.107.28.90/stream/totnew.php?channel_id=2b72986be9314c139db95f6098d1c413
+#EXTINF:-1,Cartoonito HD
+http://150.107.28.90/stream/totnew.php?channel_id=dff1502eb25c4912aea009df5d0fde9b
+#EXTINF:-1,Jimjam
+http://150.107.28.90/stream/totnew.php?channel_id=1c660656441b4aa3b57bd1d80c7d14fa
+#EXTINF:-1,Animax
+http://150.107.28.90/stream/totnew.php?channel_id=d3edb48a8bb847c78432270e23ddca73
+#EXTINF:-1,Gang Cartoon
+http://150.107.28.90/stream/totnew.php?channel_id=7299670a140849a9aaf946b0302ad886
+#EXTINF:-1,B4U Music India
+http://150.107.28.90/stream/totnew.php?channel_id=81ff107849124ff389814b0b8816b1ba
+#EXTINF:-1,Channel V India
+http://150.107.28.90/stream/totnew.php?channel_id=09cac500285d42ec97465b2219db5f53
+#EXTINF:-1,Nat Geo Wild HD
+http://150.107.28.90/stream/totnew.php?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
+#EXTINF:-1,Travel Channel International
+http://150.107.28.90/stream/totnew.php?channel_id=4c136f4cb1fd4f62a583a029c2eb6c77
+#EXTINF:-1,WealthTV HD
+http://150.107.28.90/stream/totnew.php?channel_id=ce9a1585f45d4379970b95308df3f879
+#EXTINF:-1,Nat Geo Adventure HD
+http://150.107.28.90/stream/totnew.php?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
+#EXTINF:-1,Biography Channel
+http://150.107.28.90/stream/totnew.php?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
+#EXTINF:-1,DocuBox HD
+http://150.107.28.90/stream/totnew.php?channel_id=77774220bb8e40aa94e549e29ff3ed8a
+#EXTINF:-1,Motorvision HD
+http://150.107.28.90/stream/totnew.php?channel_id=4c2ebe80b19049deac5ad59b478a79ac
+#EXTINF:-1,The Africa Channel
+http://150.107.28.90/stream/totnew.php?channel_id=eea31a4e48aa4d51a4ce8cdaa1c3a957
+#EXTINF:-1,ANIPLUS HD
+http://150.107.28.90/stream/totnew.php?channel_id=cb2e38c2422b462c8ad1741299d541bb
+#EXTINF:-1,Baby TV HD
+http://150.107.28.90/stream/totnew.php?channel_id=7773f3cef0334a28ad248552ea63d9e7
+#EXTINF:-1,Zaa
+http://150.107.28.90/stream/totnew.php?channel_id=9623847065ba466e90632cf686fade0b
+#EXTINF:-1,BEARTAI HD
+http://150.107.28.90/stream/totnew.php?channel_id=7b7eeecd93ae4364932a8dbc59cb6865
+#EXTINF:-1,Star Chinese Channel
+http://150.107.28.90/stream/totnew.php?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+#EXTINF:-1,FASHION TV HD
+http://150.107.28.90/stream/totnew.php?channel_id=91fbba1d5af544ac92a2c64e5d177e9d
+#EXTINF:-1,Kix
+http://150.107.28.90/stream/totnew.php?channel_id=e584e0adae6440eab366f5fe3a824f91
+#EXTINF:-1,Comedy Central HD
+http://150.107.28.90/stream/totnew.php?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+#EXTINF:-1,Ginx TV
+http://150.107.28.90/stream/totnew.php?channel_id=7e069540a35942e89245865a84add64a
+#EXTINF:-1,SET
+http://150.107.28.90/stream/totnew.php?channel_id=bd30e27f1c48430ba2104548a1b124ca
+#EXTINF:-1,K-Boom HD
+http://150.107.28.90/stream/totnew.php?channel_id=5193bc925612420d849fbce61203e785
+#EXTINF:-1,ACTS Channel
+http://150.107.28.90/stream/totnew.php?channel_id=7afa3e0a91bf4cdca51c0a5344fd99dc
+#EXTINF:-1,Play
+http://150.107.28.90/stream/totnew.php?channel_id=7ffd465083064140836e6e8b2415ad19
+#EXTINF:-1,JKN
+http://150.107.28.90/stream/totnew.php?channel_id=fc8195dc989240348772d00dd9eba3d0
+#EXTINF:-1,Monl
+http://150.107.28.90/stream/totnew.php?channel_id=fcc2f9d7000747d5a55680d8eba2b3ef
+#EXTINF:-1,Major MIX
+http://150.107.28.90/stream/totnew.php?channel_id=ab6acb38607a4aff9dc773a6772c91fc
+#EXTINF:-1,Asia
+http://150.107.28.90/stream/totnew.php?channel_id=99db2add23b447f696b0effd5ee4ebf4
+#EXTINF:-1,MGTV
+http://150.107.28.90/stream/totnew.php?channel_id=0518392dc56246e1808c211c796d5e84
+#EXTINF:-1,ETC
+http://150.107.28.90/stream/totnew.php?channel_id=dcf0d550815947f3bacaf3521e118124
+#EXTINF:-1,M Channel
+http://150.107.28.90/stream/totnew.php?channel_id=97f3052bec96482584c5de84dda0d745
+#EXTINF:-1,M channel HD
+http://150.107.28.90/stream/totnew.php?channel_id=8237601ce3ea4bae8332ebb0d88dba87
+#EXTINF:-1,Star Plus
+http://150.107.28.90/stream/totnew.php?channel_id=7c75ad89c1cc417aa0f066133c0a2333
+#EXTINF:-1,Star Gold
+http://150.107.28.90/stream/totnew.php?channel_id=53c2bf7e52a44fd8b6df7f9e83891bbc
+#EXTINF:-1,Zing
+http://150.107.28.90/stream/totnew.php?channel_id=3e30590edd7940e29335d243342fc6b0
+#EXTINF:-1,Zee Cinema
+http://150.107.28.90/stream/totnew.php?channel_id=18560c96b9f446bb87acb8981a2fe9c5
+#EXTINF:-1,Zee Classic
+http://150.107.28.90/stream/totnew.php?channel_id=e2f5c5390bbb4e2781454f3f32add81c
+#EXTINF:-1,T Sports Channel
+http://150.107.28.90/stream/totnew.php?channel_id=3ee1e656d6ae417a914743328d44f20f
+#EXTINF:-1,SUN CHANNEL HD
+http://150.107.28.90/stream/totnew.php?channel_id=ce4efc6a833f424f8d6cdcad5573f369
+#EXTINF:-1,Choice Sport 1 HD
+http://150.107.28.90/stream/totnew.php?channel_id=614b0a940fa0486e8c4ad00e51ae22ff
+#EXTINF:-1,Choice Sport 2 HD
+http://150.107.28.90/stream/totnew.php?channel_id=3e169d2e76cb46c9b3702e34e51ecdba
+#EXTINF:-1,Ten Cricket
+http://150.107.28.90/stream/totnew.php?channel_id=07febaf06cea4afeba557b3836d959d6
+#EXTINF:-1,Trace Urban TV HD
+http://150.107.28.90/stream/totnew.php?channel_id=69ebf00065494dc39a3911c7d1eb9d71
+#EXTINF:-1,Havoc 247 HD
+http://150.107.28.90/stream/totnew.php?channel_id=1cc4029ae4ab4a27881f2e83db3fde08
+#EXTINF:-1,MTV Live HD
+http://150.107.28.90/stream/totnew.php?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
+#EXTINF:-1,ETV
+http://150.107.28.90/stream/totnew.php?channel_id=dbab2fe24ce643689045d3c81e1954d6
+#EXTINF:-1,DLTV 1
+http://150.107.28.90/stream/totnew.php?channel_id=f128d0ea3136406d9c1cc7db91db03da
+#EXTINF:-1,DLTV 2
+http://150.107.28.90/stream/totnew.php?channel_id=8b4d5e8c92d44caf8ee144ce5cc5cd80
+#EXTINF:-1,DLTV 3
+http://150.107.28.90/stream/totnew.php?channel_id=cf271364f6a64785932af875007bc0f7
+#EXTINF:-1,DLTV 4
+http://150.107.28.90/stream/totnew.php?channel_id=2b73e3b7fe1d4c7c885881b122288d9c
+#EXTINF:-1,Channel 138
+http://150.107.28.90/stream/totnew.php?channel_id=ab578d13d39d41b8b23dfda094550165
+#EXTINF:-1,DLTV 6
+http://150.107.28.90/stream/totnew.php?channel_id=c8634a9ba7db4580bf486cad2efdba5c
+#EXTINF:-1,DLTV 7
+http://150.107.28.90/stream/totnew.php?channel_id=eeeb920c736845dfbf79b5d6f39efbec
+#EXTINF:-1,DLTV 8
+http://150.107.28.90/stream/totnew.php?channel_id=cd5f167f6d7041b295f8173323f9b332
+#EXTINF:-1,DLTV 9
+http://150.107.28.90/stream/totnew.php?channel_id=3b1edacbb4194fd4ae7c787fffddeceb
+#EXTINF:-1,DLTV 10
+http://150.107.28.90/stream/totnew.php?channel_id=54841b55e45546b6b4ba4cc3ba4b5440
+#EXTINF:-1,DLTV 11
+http://150.107.28.90/stream/totnew.php?channel_id=659562d7cd394e06bf5a2cd2e743bcf5
+#EXTINF:-1,DLTV 12
+http://150.107.28.90/stream/totnew.php?channel_id=62a16d17536546629b1daa819e43470e
+#EXTINF:-1,DLTV 13
+http://150.107.28.90/stream/totnew.php?channel_id=a358daf318cf46a2aeafa01a3644f5f0
+#EXTINF:-1,DLTV 14
+http://150.107.28.90/stream/totnew.php?channel_id=8b3884226a024af4ba6d89d10afb2194
+#EXTINF:-1,DLTV 15
+http://150.107.28.90/stream/totnew.php?channel_id=f9603f5472034de7b897f30f1c687b84
+#EXTINF:-1,RUTV1
+http://150.107.28.90/stream/totnew.php?channel_id=775457ad94714d54bb7b065a46722a10
+#EXTINF:-1,RUTV2
+http://150.107.28.90/stream/totnew.php?channel_id=a14c037d82434032ad04fec7e6743961
+#EXTINF:-1,DMC
+http://150.107.28.90/stream/totnew.php?channel_id=326a1bc675a843488b0b4d69b4f75246
+#EXTINF:-1,TV Muslim
+http://150.107.28.90/stream/totnew.php?channel_id=59b6733e43ba4f93aa90a2b58fd77705
+#EXTINF:-1,White Channel
+http://150.107.28.90/stream/totnew.php?channel_id=d0a4c5741f014d0481accc31aeb33baa
+#EXTINF:-1,YATEEM TV
+http://150.107.28.90/stream/totnew.php?channel_id=7d11f01b76514ef199d4974e0a14194c
+#EXTINF:-1,Zee News
+http://150.107.28.90/stream/totnew.php?channel_id=7d1847a9b91246b8af20629bfc24d9da
+#EXTINF:-1,Zee Business
+http://150.107.28.90/stream/totnew.php?channel_id=04c8c255153b4272a1a0ef19ff3236f1
+#EXTINF:-1,SML Channel
+http://150.107.28.90/stream/totnew.php?channel_id=16d5c505a447440c820d7927f76dcde0
+#EXTINF:-1,MOPH-TV
+http://150.107.28.90/stream/totnew.php?channel_id=22aa27a56d9244539a3b7db29cf097f1
+#EXTINF:-1,OTPC Channel HD
+http://150.107.28.90/stream/totnew.php?channel_id=766fa98adc10468dbbff7a893c93053e
+#EXTINF:-1,Channel NewsAsia
+http://150.107.28.90/stream/totnew.php?channel_id=018d9f65365a4744b2c8222ca1d54be9
+#EXTINF:-1,Money Channel
+http://150.107.28.90/stream/totnew.php?channel_id=f902199d513449e6a51ce477508b1246
+#EXTINF:-1,TNews Channel
+http://150.107.28.90/stream/totnew.php?channel_id=bcc7d0600c9943f2a1114f5749d180e8
+#EXTINF:-1,TCI Channel
+http://150.107.28.90/stream/totnew.php?channel_id=a33106cbe30f442085591987900f2a94
+#EXTINF:-1,GMM One
+http://150.107.28.90/stream/totnew.php?channel_id=de69a2a9c42e4e5d8a80f81950a274d5
+#EXTINF:-1,Matial Arts Channel
+http://150.107.28.90/stream/totnew.php?channel_id=703e307db6aa47628e4847f85e9d6af3
+#EXTINF:-1,N/A
+http://150.107.28.90/stream/totnew.php?channel_id=48cac6380caf4f078eafccc63804ac23
+#EXTINF:-1,GMM Channel
+http://150.107.28.90/stream/totnew.php?channel_id=45607bb280464483896716f7fa17b4d2
+#EXTINF:-1,SAHARA SAMAY
+http://150.107.28.90/stream/totnew.php?channel_id=ef46ba5648314d5c9979db03a5307a50″
