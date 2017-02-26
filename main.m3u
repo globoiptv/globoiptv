@@ -3,6 +3,17 @@ rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:0,HIT TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 
+#EXTINF:-1,MTV
+http://95.213.150.98:8889/MTV
+#EXTINF:-1,MTV Dance
+http://95.213.150.98:8889/MTVDance
+#EXTINF:-1,MTV Hits
+http://95.213.150.98:8889/MTVHits
+#EXTINF:-1,MTV Rocks
+http://95.213.150.98:8889/MTVRocks
+#EXTINF:-1,MCM Top
+http://95.213.150.98:8889/MCMTop
+
 #EXTINF:0,OTV
 http://livestreaming.itworkscdn.net/otvmobile/otvlive_1/playlist.m3u8
 #EXTINF:0,Future
