@@ -278,63 +278,119 @@ http://150.107.28.90/stream/totnew.php?channel_id=ab578d13d39d41b8b23dfda0945501
 #EXTINF:-1,DLTV 6
 http://150.107.28.90/stream/totnew.php?channel_id=c8634a9ba7db4580bf486cad2efdba5c
 #EXTINF:-1,DLTV 7
-http://150.107.28.90/stream/totnew.php?channel_id=eeeb920c736845dfbf79b5d6f39efbec
-#EXTINF:-1,DLTV 8
-http://150.107.28.90/stream/totnew.php?channel_id=cd5f167f6d7041b295f8173323f9b332
-#EXTINF:-1,DLTV 9
-http://150.107.28.90/stream/totnew.php?channel_id=3b1edacbb4194fd4ae7c787fffddeceb
-#EXTINF:-1,DLTV 10
-http://150.107.28.90/stream/totnew.php?channel_id=54841b55e45546b6b4ba4cc3ba4b5440
-#EXTINF:-1,DLTV 11
-http://150.107.28.90/stream/totnew.php?channel_id=659562d7cd394e06bf5a2cd2e743bcf5
-#EXTINF:-1,DLTV 12
-http://150.107.28.90/stream/totnew.php?channel_id=62a16d17536546629b1daa819e43470e
-#EXTINF:-1,DLTV 13
-http://150.107.28.90/stream/totnew.php?channel_id=a358daf318cf46a2aeafa01a3644f5f0
-#EXTINF:-1,DLTV 14
-http://150.107.28.90/stream/totnew.php?channel_id=8b3884226a024af4ba6d89d10afb2194
-#EXTINF:-1,DLTV 15
-http://150.107.28.90/stream/totnew.php?channel_id=f9603f5472034de7b897f30f1c687b84
-#EXTINF:-1,RUTV1
-http://150.107.28.90/stream/totnew.php?channel_id=775457ad94714d54bb7b065a46722a10
-#EXTINF:-1,RUTV2
-http://150.107.28.90/stream/totnew.php?channel_id=a14c037d82434032ad04fec7e6743961
-#EXTINF:-1,DMC
-http://150.107.28.90/stream/totnew.php?channel_id=326a1bc675a843488b0b4d69b4f75246
-#EXTINF:-1,TV Muslim
-http://150.107.28.90/stream/totnew.php?channel_id=59b6733e43ba4f93aa90a2b58fd77705
-#EXTINF:-1,White Channel
-http://150.107.28.90/stream/totnew.php?channel_id=d0a4c5741f014d0481accc31aeb33baa
-#EXTINF:-1,YATEEM TV
-http://150.107.28.90/stream/totnew.php?channel_id=7d11f01b76514ef199d4974e0a14194c
-#EXTINF:-1,Zee News
-http://150.107.28.90/stream/totnew.php?channel_id=7d1847a9b91246b8af20629bfc24d9da
-#EXTINF:-1,Zee Business
-http://150.107.28.90/stream/totnew.php?channel_id=04c8c255153b4272a1a0ef19ff3236f1
-#EXTINF:-1,SML Channel
-http://150.107.28.90/stream/totnew.php?channel_id=16d5c505a447440c820d7927f76dcde0
-#EXTINF:-1,MOPH-TV
-http://150.107.28.90/stream/totnew.php?channel_id=22aa27a56d9244539a3b7db29cf097f1
-#EXTINF:-1,OTPC Channel HD
-http://150.107.28.90/stream/totnew.php?channel_id=766fa98adc10468dbbff7a893c93053e
-#EXTINF:-1,Channel NewsAsia
-http://150.107.28.90/stream/totnew.php?channel_id=018d9f65365a4744b2c8222ca1d54be9
-#EXTINF:-1,Money Channel
-http://150.107.28.90/stream/totnew.php?channel_id=f902199d513449e6a51ce477508b1246
-#EXTINF:-1,TNews Channel
-http://150.107.28.90/stream/totnew.php?channel_id=bcc7d0600c9943f2a1114f5749d180e8
-#EXTINF:-1,TCI Channel
-http://150.107.28.90/stream/totnew.php?channel_id=a33106cbe30f442085591987900f2a94
-#EXTINF:-1,GMM One
-http://150.107.28.90/stream/totnew.php?channel_id=de69a2a9c42e4e5d8a80f81950a274d5
-#EXTINF:-1,Matial Arts Channel
-http://150.107.28.90/stream/totnew.php?channel_id=703e307db6aa47628e4847f85e9d6af3
-#EXTINF:-1,N/A
-http://150.107.28.90/stream/totnew.php?channel_id=48cac6380caf4f078eafccc63804ac23
-#EXTINF:-1,GMM Channel
-http://150.107.28.90/stream/totnew.php?channel_id=45607bb280464483896716f7fa17b4d2
-#EXTINF:-1,SAHARA SAMAY
-http://150.107.28.90/stream/totnew.php?channel_id=ef46ba5648314d5c9979db03a5307a50″
-
-#EXTINF:-1,LBC
-https://svs.itworkscdn.net/lbcivod/smil:itwfcdn/lbci/233422.smil/playlist.m3u8
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1, FOX NEWS
+http://iphone-streaming.ustream.tv:80/uhls/4381960/streams/live/playlist.m3u8
+#EXTINF:-1, CBS NEWS HD
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_700_av-p.m3u8
+#EXTINF:-1, CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1, BLOOMBERG HD
+http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M24K.m3u8
+#EXTINF:-1, BBC WORLD NEWS
+http://lcdn.une.net.co:80/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:-1, TRU TV
+http://dwun498y9o8lf.cloudfront.net:80/coder5/coder.channels.channel2/hls/5/playlist.m3u8
+#EXTINF:-1, H2
+http://fluvod1.giniko.com/all-documentaries/all-documentaries/tracks-5,6/index.m3u8
+#EXTINF:-1, DISCOVERY CHANNEL HD
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1, ANIMAL PLANET HD
+http://iphone-streaming.ustream.tv/uhls/12762028/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, NASA TV HD
+http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
+#EXTINF:-1, NHK WORLD HD
+https://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
+#EXTINF:-1, Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1, MBC
+http://119.202.61.202:1935/live/livetv/playlist.m3u8
+#EXTINF:-1, RT DOCUMENTARY CHANNEL
+http://rt.ashttp.visionip.tv:1935/live/RT_Doc-SD/livestream.m3u8
+#EXTINF:-1, RAI NEWS
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1200_av-p.m3u8
+#EXTINF:-1, HISTORY LAB – ITÁLIA
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+#EXTINF:-1, DW HD
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/master.m3u8
+#EXTINF:-1, FRANCE 24
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,TV5 MONDE
+http://hlslive.lcdn.une.net.co:80/v1/AUTH_HLSLIVE/TV5/tu1_manifest.m3u8
+#EXTINF:-1,USA
+http://208.86.19.123:8080/live/11.stream/index.m3u8
+#EXTINF:-1,Nicktoons
+http://208.86.19.13:8080/live/15.stream/index.m3u8
+#EXTINF:-1,TNT
+http://208.86.19.13:8080/live/16.stream/index.m3u8
+#EXTINF:-1,CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1,Freeform
+http://208.86.19.13:8080/live/27.stream/index.m3u8
+#EXTINF:-1,Discovery
+http://208.86.19.13:8080/live/31.stream/index.m3u8
+#EXTINF:-1,BBC America
+http://208.86.19.13:8080/live/34.stream/index.m3u8
+#EXTINF:-1,CBS 2
+http://208.86.19.13:8080/live/101.stream/index.m3u8
+#EXTINF:-1,NBC 4
+http://208.86.19.123:8080/live/102.stream/index.m3u8
+#EXTINF:-1,Fox 5
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+#EXTINF:-1,ABC 7
+http://208.86.19.123:8080/live/104.stream/index.m3u8
+#EXTINF:-1,My 9
+http://208.86.19.13:8080/live/105.stream/index.m3u8
+#EXTINF:-1,PIX 11
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,PBS THIRTEEN
+http://208.86.19.123:8080/live/107.stream/index.m3u8
+#EXTINF:-1,WLIW 21
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,ION
+http://208.86.19.123:8080/live/109.stream/index.m3u8
+#EXTINF:-1,USA: CNN
+http://208.86.19.13:8080/live/20.stream/index.m3u8
+#EXTINF:-1,ME TV
+http://208.86.19.13:8080/live/32.stream/index.m3u8
+#EXTINF:-1,FILM ASIA
+http://208.86.19.13:8080/live/835.stream/index.m3u8
+#EXTINF:-1,PLUS TV
+http://208.86.19.13:8080/live/837.stream/index.m3u8
+#EXTINF:-1,BTV WORLD
+http://208.86.19.13:8080/live/836.stream/index.m3u8
+#EXTINF:-1,CINEMA-1 TV
+http://208.86.19.13:8080/live/840.stream/index.m3u8
+#EXTINF:-1,OZTV
+http://208.86.19.13:8080/live/103.stream/index.m3u8
+#EXTINF:-1,PIX2
+http://208.86.19.13:8080/live/106.stream/index.m3u8
+#EXTINF:-1,EI
+http://208.86.19.13:8080/live/108.stream/index.m3u8
+#EXTINF:-1,DISH TV
+http://208.86.19.13:8080/live/628.stream/index.m3u8
+#EXTINF:-1,DUNYA TV
+http://208.86.19.13:8080/live/629.stream/index.m3u8
+#EXTINF:-1,DWV
+http://208.86.19.13:8080/live/630.stream/index.m3u8
+#EXTINF:-1,EXNEWS
+http://208.86.19.13:8080/live/631.stream/index.m3u8
+#EXTINF:-1,NATIONAL
+http://208.86.19.13:8080/live/632.stream/index.m3u8
+#EXTINF:-1,9 KANAL
+http://208.86.19.13:8080/live/803.stream/index.m3u8
+#EXTINF:-1,ETV
+http://208.86.19.13:8080/live/804.stream/index.m3u8
+#EXTINF:-1,JAMUNA TV
+http://208.86.19.13:8080/live/805.stream/index.m3u8
+#EXTINF:-1,ATN
+http://208.86.19.13:8080/live/806.stream/index.m3u8
+#EXTINF:-1,A PLUS
+http://208.86.19.13:8080/live/831.stream/index.m3u8
+#EXTINF:-1,TV
+http://208.86.19.13:8080/live/832.stream/index.m3u8
+#EXTINF:-1,STAR LITE
+http://208.86.19.13:8080/live/834.stream/index.m3u8
+#EXTINF:-1,Fox 5
+http://208.86.19.13:8080/live/103.stream/index.m3u8
