@@ -22,7 +22,7 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w3540005
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 
 #EXTINF:-1,LBC
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/chunklist_b625000.m3u8?nimblesessionid=11860766&wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDE3IDc6NDM6NTIgUE0maGFzaF92YWx1ZT1pOTF6MlFYaHlkQTV5Ly92bUU5NnhBPT0mdmFsaWRtaW51dGVzPTEwJmlkPTE4Mg==&time=1489779874469
+https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8xNy8yMDE3IDc6NDY6NTggUE0maGFzaF92YWx1ZT1rYkxXU3VCbVZpTDlIVklkSEVZVExnPT0mdmFsaWRtaW51dGVzPTEwJmlkPTc4
 
 #EXTINF:0,Syria 1
 http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
