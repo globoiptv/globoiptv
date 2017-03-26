@@ -62,18 +62,8 @@ http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
 #EXTINF:-1,Sharjah
 http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
 
-#EXTINF:-1,Al Nahar Alyoum (Egypt)
-http://stream138.n-stream.tv:1935/naharch/nahar_youmprofile2.stream/index.m3u8
-#EXTINF:-1,Al Nahar Cinema (Egypt)
-http://stream138.n-stream.tv:1935/naharch/nahar_sportprofile2.stream/index.m3u8
-#EXTINF:-1,Al Nahar Drama (Egypt)
-http://stream138.n-stream.tv:1935/naharch/nahar_dramaprofile2.stream/index.m3u8
-
-
-
 #EXTINF:-1,TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
 
 #EXTINF:-1,BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
