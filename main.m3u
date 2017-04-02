@@ -10,8 +10,11 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1,MTV
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8?thereislveendtime=1489787347&thereislvewowzastarttime=0&thereislvewowzastcustom=1489780305&thereislvehash=uxD6iV5F4YNB00j_5mPC31eUSJU9N93tzvvv0zOK5IU=
 
-#EXTINF:0,Syria 1
-http://82.137.248.21:1935/Aloula/AloulaLive3/playlist.m3u8
+#EXTINF:0,LDC
+http://plu10.stariptv.co:8888/16138_LDC/index.m3u8
+#EXTINF:0,ALJADEED
+http://plu10.stariptv.co:8888/16338_ALJADEED/index.m3u8
+
 #EXTINF:0,Syria SAT
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
 #EXTINF:0,Sama Syria
