@@ -2,6 +2,8 @@
 rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:0,HIT TV
 rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:0,NRJ
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 
 #EXTINF:0,Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
