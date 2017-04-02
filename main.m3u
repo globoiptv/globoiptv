@@ -52,9 +52,6 @@ http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oul
 #EXTINF:0,Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
 
-
-#EXTINF:0,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:0,Create and Craft
 http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
 
@@ -70,6 +67,9 @@ http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
 #EXTINF:-1,DW Arabic
 http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
+
+#EXTINF:-1,CBS
+http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/1864k/prog.m3u8
 
 #EXTINF:-1,Bloomberg
 http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
