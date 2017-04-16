@@ -187,11 +187,12 @@ http://www.xrxs.net/video/live-p12ariz-4728.m3u8
 #EXTINF:0,PAC 12 Bay
 http://xrxs.net/video/live-p12baya-2328.m3u8
 
-
 #EXTINF:0,MBC 2
+http://plu10.stariptv.co:8888/16199_Boomerang/index.m3u8
+#EXTINF:0,Multfilm
 http://198.144.156.57:8080/AR_MBC_2/index.m3u8
 
-#EXTINF:0,MBC Action
+#EXTINF:0,MBC Bollywood
 http://198.144.156.57:8080/AR_MBC_BOLLYWOOD_HD/index.m3u8
 #EXTINF:0,MBC MAX
 http://198.144.156.57:8080/AR_MBC_MAX/index.m3u8
