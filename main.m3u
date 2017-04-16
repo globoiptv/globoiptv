@@ -16,6 +16,12 @@ https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8?therei
 http://plu10.stariptv.co:8888/16138_LDC/index.m3u8
 #EXTINF:0,ALJADEED
 http://plu10.stariptv.co:8888/16338_ALJADEED/index.m3u8
+#EXTINF:0,Tele Liban
+http://plu10.stariptv.co:8888/16171_LebanonTV/index.m3u8
+#EXTINF:0,NBN
+http://plu10.stariptv.co:8888/16345_NBN/index.m3u8
+#EXTINF:0,HeyaTV
+http://plu10.stariptv.co:8888/16174_HeyaTV/index.m3u8
 
 #EXTINF:0,Syria SAT
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
@@ -40,6 +46,8 @@ http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0,MBC4
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 
+#EXTINF:0,LBC SAT
+http://plu10.stariptv.co:8888/16130_LBCSAT/index.m3u8
 
 #EXTINF:0,Alaan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
