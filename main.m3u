@@ -62,6 +62,11 @@ http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
 http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
 #EXTINF:0, Abu Dhabi
 http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula.m3u8
+#EXTINF:0, Abu Dhabi
+http://plu10.stariptv.co:8888/16158_AbuDhabitv/index.m3u8
+#EXTINF:0, Abu Dhabi Drama
+http://plu10.stariptv.co:8888/16188_Abudhabidrama/index.m3u8
+
 
 #EXTINF:0,Al Arabiya
 http://alarabiya-geo-live.hls.adaptive.level3.net/hls-live/alarabiya-channel01/_definst_/live/stream1.m3u8
@@ -188,12 +193,17 @@ http://www.xrxs.net/video/live-p12ariz-4728.m3u8
 #EXTINF:0,PAC 12 Bay
 http://xrxs.net/video/live-p12baya-2328.m3u8
 
-#EXTINF:0,MBC 2
-http://plu10.stariptv.co:8888/16199_Boomerang/index.m3u8
-#EXTINF:0,Multfilm
+
+#EXTINF:0,MBC 
 http://198.144.156.57:8080/AR_MBC_2/index.m3u8
+
+#EXTINF:0,MBC Masr
+http://plu10.stariptv.co:8888/16119_MBCMasr2/index.m3u8
 
 #EXTINF:0,MBC Bollywood
 http://198.144.156.57:8080/AR_MBC_BOLLYWOOD_HD/index.m3u8
 #EXTINF:0,MBC MAX
 http://198.144.156.57:8080/AR_MBC_MAX/index.m3u8
+
+#EXTINF:0,MBC 2
+http://plu10.stariptv.co:8888/16199_Boomerang/index.m3u8
