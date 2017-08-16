@@ -13,19 +13,11 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1,MTV
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8?thereislveendtime=1489787347&thereislvewowzastarttime=0&thereislvewowzastcustom=1489780305&thereislvehash=uxD6iV5F4YNB00j_5mPC31eUSJU9N93tzvvv0zOK5IU=
 
-#EXTINF:0,LDC
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/chunklist_b625000.m3u8?nimblesessionid=189654&wmsAuthSign=c2VydmVyX3RpbWU9NC8xNi8yMDE3IDI6MjE6MzYgUE0maGFzaF92YWx1ZT1qOGsyYXUrd1hhcFNSOFYxVnRRdC93PT0mdmFsaWRtaW51dGVzPTEwJmlkPTg2
-#EXTINF:0,OTV
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/chunklist_b1025000_t64SFE=.m3u8?nimblesessionid=6893985&wmsAuthSign=c2VydmVyX3RpbWU9NS8yMi8yMDE3IDExOjM2OjQyIFBNJmhhc2hfdmFsdWU9VVZGeDdJVmhURXVzWldiV1E1UTdPUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNjk=
+#EXTINF:0,LBC
+https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/chunklist_b625000.m3u8?nimblesessionid=55838831&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDE3IDc6MDU6MTMgUE0maGFzaF92YWx1ZT1VVHczMGxPdnIvZlk4Y3hTZnRSdTF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTIwOQ==
 
 #EXTINF:0,ALJADEED
 https://www.youtube.com/watch?v=4FVPhnIJKTY
-#EXTINF:0,Tele Liban
-http://plu10.stariptv.co:8888/16171_LebanonTV/index.m3u8
-#EXTINF:0,NBN
-http://plu10.stariptv.co:8888/16345_NBN/index.m3u8
-#EXTINF:0,HeyaTV
-http://plu10.stariptv.co:8888/16174_HeyaTV/index.m3u8
 
 #EXTINF:0,Syria SAT
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
