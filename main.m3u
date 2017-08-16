@@ -17,7 +17,7 @@ https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8?therei
 https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/chunklist_b625000.m3u8?nimblesessionid=55838831&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDE3IDc6MDU6MTMgUE0maGFzaF92YWx1ZT1VVHczMGxPdnIvZlk4Y3hTZnRSdTF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTIwOQ==
 
 #EXTINF:0,ALJADEED
-https://www.youtube.com/watch?v=4FVPhnIJKTY
+https://www.youtube.com/watch?v=kDcHeW39uJ0
 
 #EXTINF:0,Syria SAT
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
@@ -35,11 +35,11 @@ https://www.youtube.com/watch?v=bi4OC-qOzQk
 http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
 
 #EXTINF:0,DMC
-https://www.youtube.com/watch?v=-H63nc5GwSE
+https://www.youtube.com/watch?v=vrvg2PJ6qLo
 #EXTINF:0,DMC Drama
-https://www.youtube.com/watch?v=cy5V1LBlCOE
+https://www.youtube.com/watch?v=Me9YYy7Z_7s
 #EXTINF:0,DMC Sports
-https://www.youtube.com/watch?v=9k6nUeDrybA
+https://www.youtube.com/watch?v=_KOZFIPMDGs
 #EXTINF:0,CBC
 https://www.youtube.com/watch?v=B9OdxhDNJVY
 #EXTINF:0,CBC Drama
