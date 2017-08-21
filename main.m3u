@@ -9,9 +9,12 @@ http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:0,KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
+#EXTINF:0,Virgin Radio
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+
 
 #EXTINF:0,Test
-blob:http://www.cxtvlive.com/10a91775-b0f8-4e5a-9b75-0940aa3a4bbf
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 
 #EXTINF:0,Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
@@ -144,7 +147,9 @@ http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
 #EXTINF:0,BYU
 http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
 #EXTINF:0, ARD 	
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8 		
+http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8 	
+#EXTINF:0,London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
 #EXTINF:0, Al Jazeera International
 https://www.youtube.com/watch?v=dp6W0ZcYwE4 	
 #EXTINF:0,Sky News
@@ -236,16 +241,6 @@ http://www.xrxs.net/video/live-p12ariz-4728.m3u8
 http://xrxs.net/video/live-p12baya-2328.m3u8
 
 
-#EXTINF:0,MBC 
-http://198.144.156.57:8080/AR_MBC_2/index.m3u8
+#EXTINF:0,Eurosports 
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
 
-#EXTINF:0,MBC Masr
-http://plu10.stariptv.co:8888/16119_MBCMasr2/index.m3u8
-
-#EXTINF:0,MBC Bollywood
-http://198.144.156.57:8080/AR_MBC_BOLLYWOOD_HD/index.m3u8
-#EXTINF:0,MBC MAX
-http://198.144.156.57:8080/AR_MBC_MAX/index.m3u8
-
-#EXTINF:0,MBC 2
-http://plu10.stariptv.co:8888/16199_Boomerang/index.m3u8
