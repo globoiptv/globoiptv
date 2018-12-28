@@ -22,11 +22,6 @@ http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
 #EXTINF:0,Al Ikhbaria
 http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
 
-#EXTINF:0,PanArmanian
-http://38.140.60.26:17070/C279/index.m3u8?token=Ahswg12oi00094lksue
-#EXTINF:0,USArmenia
-http://livestream.usatv.com/hls/m3u8/iUSATV720.m3u8
-
 #EXTINF:0,MBC2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
 #EXTINF:0,MBC Action
@@ -36,8 +31,6 @@ http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0,MBC4
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 
-#EXTINF:0,Roya TV
-https://www.youtube.com/watch?v=aKoPEXROhVE
 
 #EXTINF:0,Alaan
 http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
@@ -56,21 +49,6 @@ http://plu10.stariptv.co:8888/16158_AbuDhabitv/index.m3u8
 #EXTINF:0, Abu Dhabi Drama
 http://plu10.stariptv.co:8888/16188_Abudhabidrama/index.m3u8
 
-#EXTINF:0,Bein Sports
-https://www.youtube.com/watch?v=wjZsWw4x3iU
-
-#EXTINF:0,Al Arabiya
-https://www.youtube.com/watch?v=b0a5goFlN38
-#EXTINF:0,RT Arabic
-https://www.youtube.com/watch?v=Jgb6V8ahsHo
-#EXTINF:0,Al Mayyadeen
-https://www.youtube.com/watch?v=vV04TDhU-Lg
-#EXTINF:0,Al Jazeera
-https://www.youtube.com/watch?v=3LSC_9euRxk
-#EXTINF:0,France 24
-https://www.youtube.com/watch?v=M0XbDbxBlJo
-#EXTINF:0,DW Arabic
-https://www.youtube.com/watch?v=6a2gfGyhY4s
 
 #EXTINF:0,Create and Craft
 http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
