@@ -1,20 +1,10 @@
 #EXTM3U
 #EXTINF:-1, RMC
 rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:0,HIT TV
-rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
 #EXTINF:0,NRJ
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
-
 #EXTINF:0,KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
-
-#EXTINF:0,Virgin Radio
-http://wow01.105.net/live/virgin1/chunklist.m3u8
-
-
-#EXTINF:0,Heart TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8
 
 #EXTINF:0,Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
@@ -23,41 +13,14 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 #EXTINF:-1,MTV
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8?thereislveendtime=1489787347&thereislvewowzastarttime=0&thereislvewowzastcustom=1489780305&thereislvehash=uxD6iV5F4YNB00j_5mPC31eUSJU9N93tzvvv0zOK5IU=
 
-#EXTINF:0,LBC
-https://svs.itworkscdn.net/lbcgrouplive/smil:lbclive.smil/chunklist_b625000.m3u8?nimblesessionid=55838831&wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDE3IDc6MDU6MTMgUE0maGFzaF92YWx1ZT1VVHczMGxPdnIvZlk4Y3hTZnRSdTF3PT0mdmFsaWRtaW51dGVzPTEwJmlkPTIwOQ==
-
-#EXTINF:0,ALJADEED
-https://www.youtube.com/watch?v=kDcHeW39uJ0
-
 #EXTINF:0,Syria SAT
 http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
-#EXTINF:0,Syria SAT
-https://www.youtube.com/watch?v=BsJ7iZ7bRxA
 #EXTINF:0,Sama Syria
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
-#EXTINF:0,Sama Syria
-https://www.youtube.com/watch?v=OM-U9JSzE7Q
 #EXTINF:0,Syrian Drama
 http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
-#EXTINF:0,Syrian Drama
-https://www.youtube.com/watch?v=bi4OC-qOzQk
 #EXTINF:0,Al Ikhbaria
 http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
-
-#EXTINF:0,DMC
-https://www.youtube.com/watch?v=vrvg2PJ6qLo
-#EXTINF:0,DMC Drama
-https://www.youtube.com/watch?v=Me9YYy7Z_7s
-#EXTINF:0,DMC Sports
-https://www.youtube.com/watch?v=_KOZFIPMDGs
-#EXTINF:0,CBC
-https://www.youtube.com/watch?v=B9OdxhDNJVY
-#EXTINF:0,CBC Drama
-https://www.youtube.com/watch?v=ru9woOHHEUc
-#EXTINF:0,CBC Sofra
-https://www.youtube.com/watch?v=OsGTO242TDE
-#EXTINF:0,Alhayah 1
-https://www.youtube.com/watch?v=Et7PcAbTmVw
 
 #EXTINF:0,PanArmanian
 http://38.140.60.26:17070/C279/index.m3u8?token=Ahswg12oi00094lksue
