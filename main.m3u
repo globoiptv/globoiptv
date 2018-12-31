@@ -33,34 +33,6 @@ http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
 #EXTINF:0,MBC4
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 
-
-#EXTINF:0,Alaan
-http://alaan.cdn.mangomolo.com/alaantv/smil:switch.smil/playlist.m3u8
-#EXTINF:0,Dubai One
-http://dmivll.mangomolo.com/dubaione/smil:dubaione.smil/playlist.m3u8
-#EXTINF:0,Dubai
-http://dmivll.mangomolo.com/dubaitv/smil:dubaitv.smil/playlist.m3u8
-#EXTINF:0,Sama Dubai
-http://dmivll.mangomolo.com/samadubai/smil:samadubai.smil/playlist.m3u8
-#EXTINF:0,Dubai Drama
-http://dmivll.mangomolo.com/dubaidrama/smil:dubaidrama.stream.smil/playlist.m3u8
-#EXTINF:0, Abu Dhabi
-http://cdn-hls.globecast.tv/live/ramdisk/abu_dhabi_al_oula/hls1/abu_dhabi_al_oula.m3u8
-#EXTINF:0, Abu Dhabi
-http://plu10.stariptv.co:8888/16158_AbuDhabitv/index.m3u8
-#EXTINF:0, Abu Dhabi Drama
-http://plu10.stariptv.co:8888/16188_Abudhabidrama/index.m3u8
-
-
-#EXTINF:0,Create and Craft
-http://live.ccus.simplestreamcdn.com/live/isd_sdi4/bitrate1.isml/playlist.m3u8
-
-
-#EXTINF:-1,Sharjah
-http://livestreaming.itworkscdn.net/smc1live/smc1tv/playlist.m3u8
-
-#EXTINF:0,sharjahsport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b625000.m3u8
 #EXTINF:0,sharqyia
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist_b625000.m3u8
 
@@ -70,33 +42,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 
 #EXTINF:-1,BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-#EXTINF:-1,DW Arabic
-http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8
-
-#EXTINF:-1,CBS
-http://cmghlslive-i.akamaihd.net/hls/live/224714/WJAX/1864k/prog.m3u8
-
-#EXTINF:-1,Bloomberg
-http://cdn3.videos.bloomberg.com/btv/us/master.m3u8
-#EXTINF:0,ABC News
-http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
-#EXTINF:0,C-Span
-http://cspan1-lh.akamaihd.net/i/cspan1_1@304727/index_1000_av-p.m3u8?sd=10&rebase=on
-#EXTINF:0,CBSN
-http://cbsnews-linear.mdialog.com/video_assets/cbsnews.m3u8?api_key=563b80c1ae4ce359830f572d2496a947&iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-#EXTINF:0,MSNBC
-http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
-#EXTINF:0,BYU
-http://byuhd2-lh.akamaihd.net/i/byutvglobalhd2_live@103134/master.m3u8
-#EXTINF:0, ARD 	
-http://daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8 	
-#EXTINF:0,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
-#EXTINF:0, Al Jazeera International
-https://www.youtube.com/watch?v=dp6W0ZcYwE4 	
-#EXTINF:0,Sky News
-https://www.youtube.com/watch?v=y60wDzZt8yg
 
 #EXTINF:-1,Al Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
