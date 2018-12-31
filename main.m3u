@@ -14,13 +14,15 @@ http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8?thereislveendtime=1489787347&thereislvewowzastarttime=0&thereislvewowzastcustom=1489780305&thereislvehash=uxD6iV5F4YNB00j_5mPC31eUSJU9N93tzvvv0zOK5IU=
 
 #EXTINF:0,Syria SAT
-http://82.137.248.16:1935/Sat/SatLive3/playlist.m3u8
+http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8?DVR
 #EXTINF:0,Sama Syria
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:0,Syrian Drama
-http://82.137.248.21:1935/Drama/DramaLive3/playlist.m3u8
+http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
 #EXTINF:0,Al Ikhbaria
-http://82.137.248.16:1935/Snews/SnewsLive3/playlist.m3u8
+http://82.137.248.16:1935/Snews/stream20112018/playlist.m3u8?DVR
+#EXTINF:0,Ogarit
+http://82.137.248.16:1935/Ugarit/stream20112018/playlist.m3u8?DVR
 
 #EXTINF:0,MBC2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
