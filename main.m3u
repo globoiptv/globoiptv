@@ -36,10 +36,6 @@ http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 #EXTINF:0,sharqyia
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist_b625000.m3u8
 
-
-#EXTINF:-1,TRT Arabic
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
 #EXTINF:-1,BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
@@ -97,66 +93,18 @@ https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:0,Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
-#EXTINF:0,EWTN
-http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlist.m3u8
 
-
-#EXTINF:0,NFL Now HD
-http://nflioslivesvg2-i.akamaihd.net/hls/live/221521/nflioslive/2015HackerNow_w99d9_g.m3u8
-
-#EXTINF:0,Oman tv 1
-http://38.96.148.30:1935/live/omantv1/gmswf.m3u8?v=1053886998
-#EXTINF:0,Oman tv 2
-http://38.96.148.30:1935/live/omantv2/gmswf.m3u8?v=1053886998
-#EXTINF:0,Oman tv 3
-http://38.96.148.30:1935/live/omantv3/gmswf.m3u8?v=1053886998
-#EXTINF:0,Oman tv 4
-http://38.96.148.30:1935/live/omantv4/gmswf.m3u8?v=1053886998
-
-#EXTINF:0,KTV 1
-rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv1_480.stream
-#EXTINF:0,KTV 2
-rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv2_480.stream
-#EXTINF:0,KTV 3
-rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv3_480.stream
-#EXTINF:0,KTV 4
-rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv4_480.stream
-#EXTINF:0,KTV 5
-rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv5_480.stream
-#EXTINF:0,KTV 6
-rtmp://stream03.fasttelco.net:1935/live/_definst_/ktv6_480.stream
 #EXTINF:0,AL Rai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
-
-#EXTINF:0, NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/index_1000_av-p.m3u8?sd=10&rebase=on
-
-
-
-#EXTINF:0,Kanal D
-http://212.224.108.80/S1/HLS_LIVE/kanald/1000/prog_index.m3u8
-#EXTINF:0,FOX
-http://foxtv-i.mncdn.com/foxtv/foxtv3/playlist.m3u8
 
 #EXTINF:0,TRT 1
 http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
 #EXTINF:0,TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:0,TRT BELGESEL HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTBELGESEL_1@182145/index_1500_av-b.m3u8
-#EXTINF:0,TRT Arabic
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-
-#EXTINF:0,Rai 5
-http://stream12.rai.it/live/rai5.smil/master.m3u8
 
 #EXTINF:0,Sat 2000
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 
-#EXTINF:0,PAC 12 Arizona
-http://www.xrxs.net/video/live-p12ariz-4728.m3u8
-#EXTINF:0,PAC 12 Bay
-http://xrxs.net/video/live-p12baya-2328.m3u8
 
 
 #EXTINF:0,Eurosports 
