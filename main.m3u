@@ -1,72 +1,539 @@
 #EXTM3U
 #EXTINF:-1, group-title="Music", RMC
 rtmp://fms.105.net:1935/live/rmc1
-#EXTINF:0, group-title="Music", NRJ
-http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+
 #EXTINF:0, group-title="Music",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:0, group-title="Arabic",Future
-http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
-#EXTINF:-1, group-title="Arabic",Almanar
-http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1, group-title="Arabic",MTV
-https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8?thereislveendtime=1489787347&thereislvewowzastarttime=0&thereislvewowzastcustom=1489780305&thereislvehash=uxD6iV5F4YNB00j_5mPC31eUSJU9N93tzvvv0zOK5IU=
 
-#EXTINF:0, group-title="Arabic",Syria SAT
-http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8?DVR
-#EXTINF:0, group-title="Arabic",Sama Syria
-http://sama-tv.net:1935/live/samatv/playlist.m3u8
-#EXTINF:0, group-title="Arabic",Syrian Drama
-http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
-#EXTINF:0, group-title="News",Al Ikhbaria
-http://82.137.248.16:1935/Snews/stream20112018/playlist.m3u8?DVR
-#EXTINF:0, group-title="Arabic",Ogarit
-http://82.137.248.16:1935/Ugarit/stream20112018/playlist.m3u8?DVR
-
-#EXTINF:0, group-title="Arabic",MBC2
-http://63.237.48.28/ios/MBC2/MBC2.m3u8
-#EXTINF:0, group-title="Arabic",MBC Action
-http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:0, group-title="Arabic",MBC Max
-http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:0, group-title="Arabic",MBC4
-http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
-
-#EXTINF:0, group-title="Arabic",sharqyia
-https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist_b625000.m3u8
-
-#EXTINF:-1,sharqyia, group-title="News",BBC News
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
-
-#EXTINF:-1, group-title="News",Al Arabiya
-http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1, group-title="Arabic",Emarat TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1, group-title="Arabic",Dubai TV
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1, group-title="Arabic",Dubai One
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1, group-title="Arabic",Dubai Zaman
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1, group-title="Arabic",Sama Dubai
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1, group-title="Arabic",Abu Dhabi TV
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1, group-title="Arabic",Abu Dhabi Drama
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 2
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 5
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 6
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
+#EXTINF:-1,AR : BBC Arabic
+http://force102.com:8080/abdullahu/uabdullah/20695
+#EXTINF:-1,AR:  AL JAZEERA
+http://force102.com:8080/abdullahu/uabdullah/20694
+#EXTINF:-1,AR:  AL SHARQIA NEWS
+http://force102.com:8080/abdullahu/uabdullah/20693
+#EXTINF:-1,AR:  Alkass 1 HD
+http://force102.com:8080/abdullahu/uabdullah/20692
+#EXTINF:-1,AR:  MASRAWIA AFLAM
+http://force102.com:8080/abdullahu/uabdullah/20691
+#EXTINF:-1,AR:  Sama TV
+http://force102.com:8080/abdullahu/uabdullah/20690
+#EXTINF:-1,AR: Abu Dhabi Drama
+http://force102.com:8080/abdullahu/uabdullah/20689
+#EXTINF:-1,AR: ABU DHABI NAT GEO
+http://force102.com:8080/abdullahu/uabdullah/20688
+#EXTINF:-1,AR: AbuDhabi TV
+http://force102.com:8080/abdullahu/uabdullah/20687
+#EXTINF:-1,AR: AD Sport 1
+http://force102.com:8080/abdullahu/uabdullah/20686
+#EXTINF:-1,AR: AD Sport 2
+http://force102.com:8080/abdullahu/uabdullah/20685
+#EXTINF:-1,AR: AD Sport 3
+http://force102.com:8080/abdullahu/uabdullah/20684
+#EXTINF:-1,AR: AD Sport 4
+http://force102.com:8080/abdullahu/uabdullah/20683
+#EXTINF:-1,AR: AD Sport 5
+http://force102.com:8080/abdullahu/uabdullah/20682
+#EXTINF:-1,AR: ADEN TV
+http://force102.com:8080/abdullahu/uabdullah/20681
+#EXTINF:-1,AR: AFRAH
+http://force102.com:8080/abdullahu/uabdullah/20680
+#EXTINF:-1,AR: Aghani
+http://force102.com:8080/abdullahu/uabdullah/20679
+#EXTINF:-1,AR: AHWAZNA TV
+http://force102.com:8080/abdullahu/uabdullah/20678
+#EXTINF:-1,AR: Ajyal
+http://force102.com:8080/abdullahu/uabdullah/20677
+#EXTINF:-1,AR: AL ALAM
+http://force102.com:8080/abdullahu/uabdullah/20676
+#EXTINF:-1,AR: AL ARABIYA
+http://force102.com:8080/abdullahu/uabdullah/20675
+#EXTINF:-1,AR: AL EKhbaria
+http://force102.com:8080/abdullahu/uabdullah/20674
+#EXTINF:-1,AR: Al Hadath
+http://force102.com:8080/abdullahu/uabdullah/20673
+#EXTINF:-1,AR: AL HAYAT DZ
+http://force102.com:8080/abdullahu/uabdullah/20672
+#EXTINF:-1,AR: AL Hilal
+http://force102.com:8080/abdullahu/uabdullah/20671
+#EXTINF:-1,AR: AL JAMAHIRIA
+http://force102.com:8080/abdullahu/uabdullah/20670
+#EXTINF:-1,AR: Al JAMELA
+http://force102.com:8080/abdullahu/uabdullah/20669
+#EXTINF:-1,AR: AL JAZEERA MUBASHER
+http://force102.com:8080/abdullahu/uabdullah/20668
+#EXTINF:-1,AR: AL MAAREF
+http://force102.com:8080/abdullahu/uabdullah/20667
+#EXTINF:-1,AR: AL MAJD
+http://force102.com:8080/abdullahu/uabdullah/20666
+#EXTINF:-1,AR: AL MANAR
+http://force102.com:8080/abdullahu/uabdullah/20665
+#EXTINF:-1,AR: Al Mayadeen
+http://force102.com:8080/abdullahu/uabdullah/20664
+#EXTINF:-1,AR: AL Minbar
+http://force102.com:8080/abdullahu/uabdullah/20663
+#EXTINF:-1,AR: Al Nahar Drama
+http://force102.com:8080/abdullahu/uabdullah/20662
+#EXTINF:-1,AR: AL Nahar One
+http://force102.com:8080/abdullahu/uabdullah/20661
+#EXTINF:-1,AR: AL OSTORA
+http://force102.com:8080/abdullahu/uabdullah/20660
+#EXTINF:-1,AR: AL QUDS
+http://force102.com:8080/abdullahu/uabdullah/20659
+#EXTINF:-1,AR: AL RAHMA
+http://force102.com:8080/abdullahu/uabdullah/20658
+#EXTINF:-1,AR: AL Resala
+http://force102.com:8080/abdullahu/uabdullah/20657
+#EXTINF:-1,AR: AL SAAA COMEDY
+http://force102.com:8080/abdullahu/uabdullah/20656
+#EXTINF:-1,AR: AL Sahraa
+http://force102.com:8080/abdullahu/uabdullah/20655
+#EXTINF:-1,AR: AL SERAJ
+http://force102.com:8080/abdullahu/uabdullah/20654
+#EXTINF:-1,AR: AL SHALLAL
+http://force102.com:8080/abdullahu/uabdullah/20653
+#EXTINF:-1,AR: AL SHARQIYA HD
+http://force102.com:8080/abdullahu/uabdullah/20652
+#EXTINF:-1,AR: AL SIRAT
+http://force102.com:8080/abdullahu/uabdullah/20651
+#EXTINF:-1,AR: AL TALEAA TV
+http://force102.com:8080/abdullahu/uabdullah/20650
+#EXTINF:-1,AR: Al Thanya
+http://force102.com:8080/abdullahu/uabdullah/20649
+#EXTINF:-1,AR: Al Waad Channel
+http://force102.com:8080/abdullahu/uabdullah/20648
+#EXTINF:-1,AR: AL WAHA
+http://force102.com:8080/abdullahu/uabdullah/20647
+#EXTINF:-1,AR: AL Yawm
+http://force102.com:8080/abdullahu/uabdullah/20646
+#EXTINF:-1,AR: AL-SHAREYYAH CHANNEL
+http://force102.com:8080/abdullahu/uabdullah/20645
+#EXTINF:-1,AR: ALAAN TV
+http://force102.com:8080/abdullahu/uabdullah/20644
+#EXTINF:-1,AR: ALDAWAA ALSHAFY
+http://force102.com:8080/abdullahu/uabdullah/20642
+#EXTINF:-1,AR: ALGERIA  3
+http://force102.com:8080/abdullahu/uabdullah/20641
+#EXTINF:-1,AR: AlGhad AlMushreq
+http://force102.com:8080/abdullahu/uabdullah/20640
+#EXTINF:-1,AR: ALHAYAT
+http://force102.com:8080/abdullahu/uabdullah/20639
+#EXTINF:-1,AR: ALHAYAT ALAAN
+http://force102.com:8080/abdullahu/uabdullah/20638
+#EXTINF:-1,AR: ALHAYAT MUSALSALAT
+http://force102.com:8080/abdullahu/uabdullah/20637
+#EXTINF:-1,AR: Alhurra
+http://force102.com:8080/abdullahu/uabdullah/20636
+#EXTINF:-1,AR: aljadeed
+http://force102.com:8080/abdullahu/uabdullah/20635
+#EXTINF:-1,AR: ALJANOUBIA
+http://force102.com:8080/abdullahu/uabdullah/20634
+#EXTINF:-1,AR: Aljazeera Documentaire
+http://force102.com:8080/abdullahu/uabdullah/20633
+#EXTINF:-1,AR: Alkass 2 HD
+http://force102.com:8080/abdullahu/uabdullah/20632
+#EXTINF:-1,AR: Alkass 3
+http://force102.com:8080/abdullahu/uabdullah/20631
+#EXTINF:-1,AR: Alkass 4 HD
+http://force102.com:8080/abdullahu/uabdullah/20630
+#EXTINF:-1,AR: Alkass 5 HD
+http://force102.com:8080/abdullahu/uabdullah/20629
+#EXTINF:-1,AR: Alkass Online
+http://force102.com:8080/abdullahu/uabdullah/20628
+#EXTINF:-1,AR: ALMAGHARABIA
+http://force102.com:8080/abdullahu/uabdullah/20627
+#EXTINF:-1,AR: ALMAGHARABIA 2
+http://force102.com:8080/abdullahu/uabdullah/20626
+#EXTINF:-1,AR: AlMajd Quran
+http://force102.com:8080/abdullahu/uabdullah/20625
+#EXTINF:-1,AR: ALMASSAR AL OULA
+http://force102.com:8080/abdullahu/uabdullah/20624
+#EXTINF:-1,AR | ALAnwar
+http://force102.com:8080/abdullahu/uabdullah/10651
+#EXTINF:-1,AR: ALNABAA HD
+http://force102.com:8080/abdullahu/uabdullah/20623
+#EXTINF:-1,AR: ALOULA MARROCO
+http://force102.com:8080/abdullahu/uabdullah/20622
+#EXTINF:-1,AR: Alqanat 9
+http://force102.com:8080/abdullahu/uabdullah/20621
+#EXTINF:-1,AR: ANN
+http://force102.com:8080/abdullahu/uabdullah/20620
+#EXTINF:-1,AR: ARABICA TV
+http://force102.com:8080/abdullahu/uabdullah/20613
+#EXTINF:-1,AR: ART AFLAM 1
+http://force102.com:8080/abdullahu/uabdullah/20612
+#EXTINF:-1,AR: ART AFLAM 2
+http://force102.com:8080/abdullahu/uabdullah/20611
+#EXTINF:-1,AR: ART HEKAYAT 1
+http://force102.com:8080/abdullahu/uabdullah/20609
+#EXTINF:-1,AR: ART HEKAYAT 2
+http://force102.com:8080/abdullahu/uabdullah/20608
+#EXTINF:-1,AR: Attessia
+http://force102.com:8080/abdullahu/uabdullah/20607
+#EXTINF:-1,AR: B4U AFLAM
+http://force102.com:8080/abdullahu/uabdullah/20606
+#EXTINF:-1,AR: Bahia
+http://force102.com:8080/abdullahu/uabdullah/20605
+#EXTINF:-1,AR: BAHRAIN SPORT
+http://force102.com:8080/abdullahu/uabdullah/20604
+#EXTINF:-1,AR: Baraem
+http://force102.com:8080/abdullahu/uabdullah/20603
+#EXTINF:-1,AR: BELODY AFLAM
+http://force102.com:8080/abdullahu/uabdullah/20602
+#EXTINF:-1,AR: Belqees
+http://force102.com:8080/abdullahu/uabdullah/20601
+#EXTINF:-1,AR: Beur
+http://force102.com:8080/abdullahu/uabdullah/20600
+#EXTINF:-1,AR: Carthage TV
+http://force102.com:8080/abdullahu/uabdullah/20599
+#EXTINF:-1,AR: Cbc
+http://force102.com:8080/abdullahu/uabdullah/20597
+#EXTINF:-1,AR: CBC DRAMA
+http://force102.com:8080/abdullahu/uabdullah/20596
+#EXTINF:-1,AR: CBC EXTRA
+http://force102.com:8080/abdullahu/uabdullah/20595
+#EXTINF:-1,AR: CBC SOFRA
+http://force102.com:8080/abdullahu/uabdullah/20594
+#EXTINF:-1,AR: CHADA TV
+http://force102.com:8080/abdullahu/uabdullah/20593
+#EXTINF:-1,AR: CHAMS TV loacl
+http://force102.com:8080/abdullahu/uabdullah/20592
+#EXTINF:-1,AR: CIMA ALIBABA
+http://force102.com:8080/abdullahu/uabdullah/20591
+#EXTINF:-1,AR: CINEMA2
+http://force102.com:8080/abdullahu/uabdullah/20590
+#EXTINF:-1,AR: CITRUSS TV
+http://force102.com:8080/abdullahu/uabdullah/20589
+#EXTINF:-1,AR: Direct
+http://force102.com:8080/abdullahu/uabdullah/20588
+#EXTINF:-1,AR: Djazairia
+http://force102.com:8080/abdullahu/uabdullah/20587
+#EXTINF:-1,AR: DMC
+http://force102.com:8080/abdullahu/uabdullah/20586
+#EXTINF:-1,AR: DMC Drama
+http://force102.com:8080/abdullahu/uabdullah/20585
+#EXTINF:-1,AR: DOLLY MOSALSALAT
+http://force102.com:8080/abdullahu/uabdullah/20584
+#EXTINF:-1,AR: DR. ABO ELNASR
+http://force102.com:8080/abdullahu/uabdullah/20583
+#EXTINF:-1,AR: DREAM 2
+http://force102.com:8080/abdullahu/uabdullah/20582
+#EXTINF:-1,AR: DREAM TV
+http://force102.com:8080/abdullahu/uabdullah/20581
+#EXTINF:-1,AR: DUBAI
+http://force102.com:8080/abdullahu/uabdullah/20580
+#EXTINF:-1,AR: Dubai Drama
+http://force102.com:8080/abdullahu/uabdullah/20579
+#EXTINF:-1,AR: DUBAI ONE
+http://force102.com:8080/abdullahu/uabdullah/20578
+#EXTINF:-1,AR: Dubai Racing
+http://force102.com:8080/abdullahu/uabdullah/20577
+#EXTINF:-1,AR: Dubai Sport 2
+http://force102.com:8080/abdullahu/uabdullah/20576
+#EXTINF:-1,AR: Dubai Sports 1
+http://force102.com:8080/abdullahu/uabdullah/20575
+#EXTINF:-1,AR: Dubai Zaman
+http://force102.com:8080/abdullahu/uabdullah/20574
+#EXTINF:-1,AR: DubaiSport 3
+http://force102.com:8080/abdullahu/uabdullah/20573
+#EXTINF:-1,AR: Dzair
+http://force102.com:8080/abdullahu/uabdullah/20572
+#EXTINF:-1,AR: Echorouk
+http://force102.com:8080/abdullahu/uabdullah/20571
+#EXTINF:-1,AR: Echorouk Benna
+http://force102.com:8080/abdullahu/uabdullah/20570
+#EXTINF:-1,AR: Echorouk News
+http://force102.com:8080/abdullahu/uabdullah/20569
+#EXTINF:-1,AR: El Bilad
+http://force102.com:8080/abdullahu/uabdullah/20568
+#EXTINF:-1,AR: El Fadjr
+http://force102.com:8080/abdullahu/uabdullah/20567
+#EXTINF:-1,AR: El Haddaf
+http://force102.com:8080/abdullahu/uabdullah/20566
+#EXTINF:-1,AR: El Hiwar Tounsi
+http://force102.com:8080/abdullahu/uabdullah/20565
+#EXTINF:-1,AR: EL Sharq
+http://force102.com:8080/abdullahu/uabdullah/20564
+#EXTINF:-1,AR: Ennahar
+http://force102.com:8080/abdullahu/uabdullah/20563
+#EXTINF:-1,AR: Extra news
+http://force102.com:8080/abdullahu/uabdullah/20562
+#EXTINF:-1,AR: FRANCE 24
+http://force102.com:8080/abdullahu/uabdullah/20561
+#EXTINF:-1,AR: Funoon
+http://force102.com:8080/abdullahu/uabdullah/20560
+#EXTINF:-1,AR: GREEN LIFELocal
+http://force102.com:8080/abdullahu/uabdullah/20559
+#EXTINF:-1,AR: HABESHA
+http://force102.com:8080/abdullahu/uabdullah/20558
+#EXTINF:-1,AR: HALABA
+http://force102.com:8080/abdullahu/uabdullah/20557
+#EXTINF:-1,AR: HANNIBAL
+http://force102.com:8080/abdullahu/uabdullah/20556
+#EXTINF:-1,AR: HAREEM ELSULTAN
+http://force102.com:8080/abdullahu/uabdullah/20555
+#EXTINF:-1,AR: HAWAS TV
+http://force102.com:8080/abdullahu/uabdullah/20554
+#EXTINF:-1,AR: HEKAYA TV
+http://force102.com:8080/abdullahu/uabdullah/20553
+#EXTINF:-1,AR: IMAM REDA TV
+http://force102.com:8080/abdullahu/uabdullah/20551
+#EXTINF:-1,AR: Insen TV
+http://force102.com:8080/abdullahu/uabdullah/20550
+#EXTINF:-1,AR: IRAQIA SPORTS
+http://force102.com:8080/abdullahu/uabdullah/20549
+#EXTINF:-1,AR: IUC
+http://force102.com:8080/abdullahu/uabdullah/20548
+#EXTINF:-1,AR: JORDAN ADWAA
+http://force102.com:8080/abdullahu/uabdullah/20547
+#EXTINF:-1,AR: JORDAN LEQAA TV
+http://force102.com:8080/abdullahu/uabdullah/20546
+#EXTINF:-1,AR: JORDAN NOOR
+http://force102.com:8080/abdullahu/uabdullah/20545
+#EXTINF:-1,AR: Karameesh
+http://force102.com:8080/abdullahu/uabdullah/20544
+#EXTINF:-1,AR: KARBALA
+http://force102.com:8080/abdullahu/uabdullah/20543
+#EXTINF:-1,AR: KBS WORLD
+http://force102.com:8080/abdullahu/uabdullah/20542
+#EXTINF:-1,AR: KOKKY TV
+http://force102.com:8080/abdullahu/uabdullah/20541
+#EXTINF:-1,AR: KSA SPORT 1
+http://force102.com:8080/abdullahu/uabdullah/20540
+#EXTINF:-1,AR: KSA SPORT 2  Loal
+http://force102.com:8080/abdullahu/uabdullah/20539
+#EXTINF:-1,AR: KSA Sports 2
+http://force102.com:8080/abdullahu/uabdullah/20538
+#EXTINF:-1,AR: KTO
+http://force102.com:8080/abdullahu/uabdullah/20537
+#EXTINF:-1,AR: KUWAIT AL-ARABI
+http://force102.com:8080/abdullahu/uabdullah/20536
+#EXTINF:-1,AR: LANA TV
+http://force102.com:8080/abdullahu/uabdullah/20535
+#EXTINF:-1,AR: LBC LEBANON
+http://force102.com:8080/abdullahu/uabdullah/20534
+#EXTINF:-1,AR: LCD
+http://force102.com:8080/abdullahu/uabdullah/20533
+#EXTINF:-1,AR: LCD MOVIES
+http://force102.com:8080/abdullahu/uabdullah/20532
+#EXTINF:-1,AR: ldc
+http://force102.com:8080/abdullahu/uabdullah/20531
+#EXTINF:-1,AR: Libya Almarsad
+http://force102.com:8080/abdullahu/uabdullah/20530
+#EXTINF:-1,AR: Libya elwatan
+http://force102.com:8080/abdullahu/uabdullah/20529
+#EXTINF:-1,AR: LIBYA WAAD FM
+http://force102.com:8080/abdullahu/uabdullah/20528
+#EXTINF:-1,AR: M TUNISIA
+http://force102.com:8080/abdullahu/uabdullah/20526
+#EXTINF:-1,AR: MAJID KIDS
+http://force102.com:8080/abdullahu/uabdullah/20525
+#EXTINF:-1,AR: MARJAEYAT 2
+http://force102.com:8080/abdullahu/uabdullah/20524
+#EXTINF:-1,AR: MASDAR TV
+http://force102.com:8080/abdullahu/uabdullah/20523
+#EXTINF:-1,AR: Maspero Zaman
+http://force102.com:8080/abdullahu/uabdullah/20522
+#EXTINF:-1,AR: Mazzika HITS
+http://force102.com:8080/abdullahu/uabdullah/20521
+#EXTINF:-1,AR: Mazzika TV
+http://force102.com:8080/abdullahu/uabdullah/20520
+#EXTINF:-1,AR: MBC 1
+http://force102.com:8080/abdullahu/uabdullah/20519
+#EXTINF:-1,AR: MBC 2
+http://force102.com:8080/abdullahu/uabdullah/20518
+#EXTINF:-1,AR: MBC Masr1
+http://force102.com:8080/abdullahu/uabdullah/20517
+#EXTINF:-1,AR: MBC Masr2
+http://force102.com:8080/abdullahu/uabdullah/20516
+#EXTINF:-1,AR: MBC MAX
+http://force102.com:8080/abdullahu/uabdullah/20515
+#EXTINF:-1,AR: MBCODE TV
+http://force102.com:8080/abdullahu/uabdullah/20514
+#EXTINF:-1,AR: MD
+http://force102.com:8080/abdullahu/uabdullah/20513
+#EXTINF:-1,AR: MEDIA SLIDE
+http://force102.com:8080/abdullahu/uabdullah/20512
+#EXTINF:-1,AR: MESAT HD
+http://force102.com:8080/abdullahu/uabdullah/20511
+#EXTINF:-1,AR: MICKEY TV
+http://force102.com:8080/abdullahu/uabdullah/20510
+#EXTINF:-1,AR: Modern Sport
+http://force102.com:8080/abdullahu/uabdullah/20509
+#EXTINF:-1,AR: MODY KIDS
+http://force102.com:8080/abdullahu/uabdullah/20508
+#EXTINF:-1,AR: MOSALSALAT TUBE
+http://force102.com:8080/abdullahu/uabdullah/20507
+#EXTINF:-1,AR: MTV LEBNON
+http://force102.com:8080/abdullahu/uabdullah/20506
+#EXTINF:-1,AR: MUSTAKILLAH
+http://force102.com:8080/abdullahu/uabdullah/20505
+#EXTINF:-1,AR: Nat Geo Kids
+http://force102.com:8080/abdullahu/uabdullah/20504
+#EXTINF:-1,AR: Nessma
+http://force102.com:8080/abdullahu/uabdullah/20503
+#EXTINF:-1,AR: Nile Comedy
+http://force102.com:8080/abdullahu/uabdullah/20501
+#EXTINF:-1,AR: Nile Culture
+http://force102.com:8080/abdullahu/uabdullah/20500
+#EXTINF:-1,AR: Nile Drama
+http://force102.com:8080/abdullahu/uabdullah/20499
+#EXTINF:-1,AR: Nile Life
+http://force102.com:8080/abdullahu/uabdullah/20498
+#EXTINF:-1,AR: Nile News
+http://force102.com:8080/abdullahu/uabdullah/20497
+#EXTINF:-1,AR: NILE SPORT
+http://force102.com:8080/abdullahu/uabdullah/20496
+#EXTINF:-1,AR: Noor Dudai
+http://force102.com:8080/abdullahu/uabdullah/20495
+#EXTINF:-1,AR: NOUR ELSHAM
+http://force102.com:8080/abdullahu/uabdullah/20494
+#EXTINF:-1,AR: NUMIDIA
+http://force102.com:8080/abdullahu/uabdullah/20493
+#EXTINF:-1,AR: ON Drama
+http://force102.com:8080/abdullahu/uabdullah/20492
+#EXTINF:-1,AR: ON Live
+http://force102.com:8080/abdullahu/uabdullah/20491
+#EXTINF:-1,AR: ON SPORT
+http://force102.com:8080/abdullahu/uabdullah/20490
+#EXTINF:-1,AR: ON-E
+http://force102.com:8080/abdullahu/uabdullah/20489
+#EXTINF:-1,AR: One dream
+http://force102.com:8080/abdullahu/uabdullah/20488
+#EXTINF:-1,AR: ORIENT
+http://force102.com:8080/abdullahu/uabdullah/20487
+#EXTINF:-1,AR: Oscar TV
+http://force102.com:8080/abdullahu/uabdullah/20486
+#EXTINF:-1,AR: Palestine
+http://force102.com:8080/abdullahu/uabdullah/20485
+#EXTINF:-1,AR: PANORAMA DRAMA
+http://force102.com:8080/abdullahu/uabdullah/20484
+#EXTINF:-1,AR: PANORAMA DRAMA 2
+http://force102.com:8080/abdullahu/uabdullah/20483
+#EXTINF:-1,AR: PUBLITOOLS
+http://force102.com:8080/abdullahu/uabdullah/20481
+#EXTINF:-1,AR: QUEST ARABIA (DOC)
+http://force102.com:8080/abdullahu/uabdullah/20480
+#EXTINF:-1,AR: QURAN TV
+http://force102.com:8080/abdullahu/uabdullah/20479
+#EXTINF:-1,AR: RASHEED
+http://force102.com:8080/abdullahu/uabdullah/20478
+#EXTINF:-1,AR: ROTANA
+http://force102.com:8080/abdullahu/uabdullah/20477
+#EXTINF:-1,AR: Rotana Cinema EGY
+http://force102.com:8080/abdullahu/uabdullah/20476
+#EXTINF:-1,AR: Rotana Cinema KSA
+http://force102.com:8080/abdullahu/uabdullah/20475
+#EXTINF:-1,AR: Rotana Clip
+http://force102.com:8080/abdullahu/uabdullah/20474
+#EXTINF:-1,AR: Rotana Drama
+http://force102.com:8080/abdullahu/uabdullah/20473
+#EXTINF:-1,AR: Rotana Khalijiah
+http://force102.com:8080/abdullahu/uabdullah/20472
+#EXTINF:-1,AR: RT ARABIC
+http://force102.com:8080/abdullahu/uabdullah/20471
+#EXTINF:-1,AR: SAHAR TV
+http://force102.com:8080/abdullahu/uabdullah/20470
+#EXTINF:-1,AR: Sama Dubai
+http://force102.com:8080/abdullahu/uabdullah/20469
+#EXTINF:-1,AR: SAMIRA TV
+http://force102.com:8080/abdullahu/uabdullah/20468
+#EXTINF:-1,AR: SAT TV
+http://force102.com:8080/abdullahu/uabdullah/20467
+#EXTINF:-1,AR: Saudi 1
+http://force102.com:8080/abdullahu/uabdullah/20466
+#EXTINF:-1,AR: SAUDI 24
+http://force102.com:8080/abdullahu/uabdullah/20465
+#EXTINF:-1,AR: Saudi Al Haj
+http://force102.com:8080/abdullahu/uabdullah/20464
+#EXTINF:-1,AR: SAUDI ANTI TERRORISM
+http://force102.com:8080/abdullahu/uabdullah/20463
+#EXTINF:-1,AR: SAUDI FAMILY
+http://force102.com:8080/abdullahu/uabdullah/20462
+#EXTINF:-1,AR: Saudi Quran
+http://force102.com:8080/abdullahu/uabdullah/20461
+#EXTINF:-1,AR: Saudi Sunnah
+http://force102.com:8080/abdullahu/uabdullah/20460
+#EXTINF:-1,AR: SBC
+http://force102.com:8080/abdullahu/uabdullah/20459
+#EXTINF:-1,AR: SHAABEYAT
+http://force102.com:8080/abdullahu/uabdullah/20458
+#EXTINF:-1,AR: Shahrazad Alkher
+http://force102.com:8080/abdullahu/uabdullah/20457
+#EXTINF:-1,AR: SKY NEWS ARABIA
+http://force102.com:8080/abdullahu/uabdullah/20456
+#EXTINF:-1,AR: South TV
+http://force102.com:8080/abdullahu/uabdullah/20455
+#EXTINF:-1,AR: SPACETOON
+http://force102.com:8080/abdullahu/uabdullah/20454
+#EXTINF:-1,AR: Star Cinema 1
+http://force102.com:8080/abdullahu/uabdullah/20453
+#EXTINF:-1,AR: Star Cinema 2
+http://force102.com:8080/abdullahu/uabdullah/20452
+#EXTINF:-1,AR: SUHAIL TV
+http://force102.com:8080/abdullahu/uabdullah/20451
+#EXTINF:-1,AR: Sumaria
+http://force102.com:8080/abdullahu/uabdullah/20450
+#EXTINF:-1,AR: Syria
+http://force102.com:8080/abdullahu/uabdullah/20449
+#EXTINF:-1,AR: SYRIA DRAMA
+http://force102.com:8080/abdullahu/uabdullah/20448
+#EXTINF:-1,AR: SYRIA EDUCATION
+http://force102.com:8080/abdullahu/uabdullah/20447
+#EXTINF:-1,AR: SYRIA FM
+http://force102.com:8080/abdullahu/uabdullah/20446
+#EXTINF:-1,AR: SYRIA SATELLITE
+http://force102.com:8080/abdullahu/uabdullah/20445
+#EXTINF:-1,AR: TAHA
+http://force102.com:8080/abdullahu/uabdullah/20444
+#EXTINF:-1,AR: TANASUH TV
+http://force102.com:8080/abdullahu/uabdullah/20443
+#EXTINF:-1,AR: TATT7
+http://force102.com:8080/abdullahu/uabdullah/20442
+#EXTINF:-1,AR: TCHAD
+http://force102.com:8080/abdullahu/uabdullah/20441
+#EXTINF:-1,AR: TELE MAROC
+http://force102.com:8080/abdullahu/uabdullah/20440
+#EXTINF:-1,AR: Telvza
+http://force102.com:8080/abdullahu/uabdullah/20439
+#EXTINF:-1,AR: TOKTOK CIMA
+http://force102.com:8080/abdullahu/uabdullah/20438
+#EXTINF:-1,AR: TOYOR ALJANNAH
+http://force102.com:8080/abdullahu/uabdullah/20437
+#EXTINF:-1,AR: TOYOR-BABY
+http://force102.com:8080/abdullahu/uabdullah/20436
+#EXTINF:-1,AR: TRT Arabia
+http://force102.com:8080/abdullahu/uabdullah/20435
+#EXTINF:-1,AR: Tunisia NAT 1
+http://force102.com:8080/abdullahu/uabdullah/20434
+#EXTINF:-1,AR: TUNISIA NAT 2
+http://force102.com:8080/abdullahu/uabdullah/20433
+#EXTINF:-1,AR: TUNISNA
+http://force102.com:8080/abdullahu/uabdullah/20432
+#EXTINF:-1,AR: Wanasah
+http://force102.com:8080/abdullahu/uabdullah/20431
+#EXTINF:-1,AR: Yas Tv
+http://force102.com:8080/abdullahu/uabdullah/20430
+#EXTINF:-1,AR: ZAYTOONA TV
+http://force102.com:8080/abdullahu/uabdullah/20429
+#EXTINF:-1,AR: ZEE AFLAM
+http://force102.com:8080/abdullahu/uabdullah/20428
+#EXTINF:-1,AR: ZEE ALWAN
+http://force102.com:8080/abdullahu/uabdullah/20427
+#EXTINF:-1,AR:Al Kahera Wal Nas 1
+http://force102.com:8080/abdullahu/uabdullah/20426
+#EXTINF:-1,AR:Al Kahera Wal Nas 2
+http://force102.com:8080/abdullahu/uabdullah/20425
+#EXTINF:-1,AR:MBC 3
+http://force102.com:8080/abdullahu/uabdullah/20424
+#EXTINF:-1,AR:MBC 4
+http://force102.com:8080/abdullahu/uabdullah/20423
+#EXTINF:-1,AR:MBC Action
+http://force102.com:8080/abdullahu/uabdullah/20422
+#EXTINF:-1,AR:MBC Bollywood
+http://force102.com:8080/abdullahu/uabdullah/20421
+#EXTINF:-1,AR:MBC DRAMA
+http://force102.com:8080/abdullahu/uabdullah/20420
 
 
 #EXTINF:-1, group-title="Christian",Sat7 1 Arabic
@@ -94,16 +561,6 @@ http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist
 #EXTINF:0, group-title="Christian",Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 
-#EXTINF:0, group-title="Arabic",AL Rai
-http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
-
-#EXTINF:0, group-title="Turkish",TRT 1
-http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
-#EXTINF:0, group-title="Turkish",TRT HABER HD
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-
-#EXTINF:0, group-title="Christian",Sat 2000
-http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 
 
 
