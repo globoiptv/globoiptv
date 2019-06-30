@@ -564,6 +564,266 @@ http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 
 
 
-#EXTINF:0, group-title="Sports",Eurosports
-http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1,AR.MBC 1
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66066
+#EXTINF:-1,AR.MBC 2
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66065
+#EXTINF:-1,AR.MBC 3
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66064
+#EXTINF:-1,AR.MBC 4
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66063
+#EXTINF:-1,AR.MBC ACTION
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66062
+#EXTINF:-1,AR.MBC BOLLYWOOD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66061
+#EXTINF:-1,AR.MBC DRAMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66060
+#EXTINF:-1,AR.MBC IRAQ HD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66059
+#EXTINF:-1,AR.MBC MASR 1
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66058
+#EXTINF:-1,AR.MBC MASR 2
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66057
+#EXTINF:-1,AR.MBC MAX
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66056
+#EXTINF:-1,AR.ROTANA AFLAM
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66095
+#EXTINF:-1,AR.ROTANA CINEMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66094
+#EXTINF:-1,AR.ROTANA CLASSIC
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66093
+#EXTINF:-1,AR.ROTANA CLIP
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66092
+#EXTINF:-1,AR.ROTANA DRAMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66091
+#EXTINF:-1,AR.ROTANA KHALIJIA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66090
+#EXTINF:-1,AR.ROTANA MUSIC
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66089
+#EXTINF:-1,AR.PANORAMA DRAMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66070
+#EXTINF:-1,AR.PANORAMA DRAMA 2
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66069
+#EXTINF:-1,AR.PANORAMA FILM
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66068
+#EXTINF:-1,AR.PANORAMA FOOD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66067
+#EXTINF:-1,AR:NILAT TV (SAUDI ARABIA)
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63213
+#EXTINF:-1,AR:ROTANA AFLAM
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63172
+#EXTINF:-1,AR:ROTANA CINEMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63169
+#EXTINF:-1,AR:ROTANA CLASSIC
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63173
+#EXTINF:-1,AR:ROTANA CLIP
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63171
+#EXTINF:-1,AR:ROTANA MASRIA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63170
+#EXTINF:-1,AR:ROTANA MUSIC
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63174
+#EXTINF:-1,OSN  E!
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66138
+#EXTINF:-1,OSN  YAHALA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66137
+#EXTINF:-1,OSN ALYUM HD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66136
+#EXTINF:-1,OSN ANIMAL PLANET
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66135
+#EXTINF:-1,OSN BABY
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66134
+#EXTINF:-1,OSN BBC EARTH
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66133
+#EXTINF:-1,OSN BBC FIRST
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66132
+#EXTINF:-1,OSN Bloomberg
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66131
+#EXTINF:-1,OSN Boomerang
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66130
+#EXTINF:-1,OSN COMEDY CENTRAL
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66129
+#EXTINF:-1,OSN DISCOVERY
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66128
+#EXTINF:-1,OSN DISCOVERY IDX
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66127
+#EXTINF:-1,OSN DISCOVERY SCIENCE
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66126
+#EXTINF:-1,OSN DISNEY
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66125
+#EXTINF:-1,OSN DISNEY JUNIOR
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66124
+#EXTINF:-1,OSN FIRST MOVIES
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66123
+#EXTINF:-1,OSN FIRST MOVIES 2
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66122
+#EXTINF:-1,OSN FOOD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66121
+#EXTINF:-1,OSN HISTORY
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66120
+#EXTINF:-1,OSN KIDS ZONE
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66119
+#EXTINF:-1,OSN LIVING
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66118
+#EXTINF:-1,OSN MOVIES
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66117
+#EXTINF:-1,OSN MOVIES ACTION
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66116
+#EXTINF:-1,OSN MOVIES BINGI
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66115
+#EXTINF:-1,OSN MOVIES Disney
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66114
+#EXTINF:-1,OSN MOVIES ENGIMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66113
+#EXTINF:-1,OSN MOVIES KIDS
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66112
+#EXTINF:-1,OSN NAT GEO
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66111
+#EXTINF:-1,Osn Nat Geo Kids
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66110
+#EXTINF:-1,OSN NAT GEO PEOPLE
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66109
+#EXTINF:-1,OSN NAT GEO WILD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66108
+#EXTINF:-1,OSN NICK JR
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66107
+#EXTINF:-1,OSN NICKELODEON
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66106
+#EXTINF:-1,OSN PARAMOUNT
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66105
+#EXTINF:-1,OSN SERIES COMEDY
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66104
+#EXTINF:-1,OSN SERIES FIRST
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66103
+#EXTINF:-1,OSN SPORT CRICKET
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66102
+#EXTINF:-1,OSN STAR MOVIES
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66101
+#EXTINF:-1,OSN STAR WORLD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66100
+#EXTINF:-1,AR.AL EKHBARIYA SYRIA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66071
+#EXTINF:-1,AR.AL JAZEERA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66088
+#EXTINF:-1,AR.AL JAZEERA DOCUMENTARY
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66087
+#EXTINF:-1,AR.AL JAZEERA ENGLISH
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66086
+#EXTINF:-1,AR.AL JAZEERA MUBASHER
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66085
+#EXTINF:-1,AR.ANB IRAQ
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66081
+#EXTINF:-1,AR.IRAQ NEWS
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66084
+#EXTINF:-1,AR.IRAQ SPORT
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66083
+#EXTINF:-1,AR.IRAQ TV
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66082
+#EXTINF:-1,AR.LANA SYRIA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66072
+#EXTINF:-1,AR.SYRIA 1
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66080
+#EXTINF:-1,AR.SYRIA DRAMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66079
+#EXTINF:-1,AR.SYRIA EDUCATION
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66078
+#EXTINF:-1,AR.SYRIA FM
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66077
+#EXTINF:-1,AR.SYRIA MEDICAL
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66076
+#EXTINF:-1,AR.SYRIA NOUR
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66075
+#EXTINF:-1,AR.SYRIA SAMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66074
+#EXTINF:-1,AR.SYRIAA TV HD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66073
+#EXTINF:-1,OSN SYFY
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66099
+#EXTINF:-1,Osn WWE HD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66098
+#EXTINF:-1,OSN YAHALA 1
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66097
+#EXTINF:-1,OSN YAHALA CINEMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/66096
+#EXTINF:-1,AR:SALAM TV
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63199
+#EXTINF:-1,AR:SAMA DUBAI
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63196
+#EXTINF:-1,AR:SAT7 (Egypt)
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63178
+#EXTINF:-1,AR:SAT7 KIDS (Egypt)
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63177
+#EXTINF:-1,AR:TUNISIA 1
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63176
+#EXTINF:-1,AR:TUNISIA 2
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63175
+#EXTINF:-1,AR:ABU DHABI DRAMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63186
+#EXTINF:-1,AR:AL AAN
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63192
+#EXTINF:-1,AR:AL HAYAT 1 (EGYPT)
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63188
+#EXTINF:-1,AR:AL KARMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63184
+#EXTINF:-1,AR:AL YAUM
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63195
+#EXTINF:-1,AR:ALAAN TV
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63183
+#EXTINF:-1,AR:ALHIWAR TUNISIA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63182
+#EXTINF:-1,AR:ALJAZEERA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63190
+#EXTINF:-1,AR:ALJAZEERA DOCU
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63191
+#EXTINF:-1,AR:ALMANAR TV (LUBNAN)
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63181
+#EXTINF:-1,AR:ART CINEMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63201
+#EXTINF:-1,AR:BBC ARABIC
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63193
+#EXTINF:-1,AR:CBC DRAMA (EGYPT)
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63180
+#EXTINF:-1,AR:CBC HD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63179
+#EXTINF:-1,AR:CNBC ARABIA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63198
+#EXTINF:-1,AR:DUBAI DRAMA
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63185
+#EXTINF:-1,AR:DUBAI TV
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63194
+#EXTINF:-1,AR:FRANCE24 ARABIC
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63205
+#EXTINF:-1,AR:HANNIBAL TV
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63202
+#EXTINF:-1,AR:HEKAYAT
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63204
+#EXTINF:-1,AR:HEKAYAT 2
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63203
+#EXTINF:-1,AR:IFILM TV
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63200
+#EXTINF:-1,AR:KTV 1 (KUWAIT)
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63187
+#EXTINF:-1,AR:LIBYA NEWS
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63197
+#EXTINF:-1,AR:LIBYA TV
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63214
+#EXTINF:-1,AR:LIBYAS CHANNEL
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63215
+#EXTINF:-1,AR:MADINAH TV
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63189
+#EXTINF:-1,AR:MBC 1
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63209
+#EXTINF:-1,AR:MBC 2
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63208
+#EXTINF:-1,AR:MBC 3
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63207
+#EXTINF:-1,AR:MBC 4
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63206
+#EXTINF:-1,AR:MBC ACTION
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63210
+#EXTINF:-1,AR:MBC MSR 1
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63212
+#EXTINF:-1,AR:MBC MSR 2
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/63211
+#EXTINF:-1,FR: GOLF HD
+http://tons.news:8080/onurtopdrm/IIllIygyTFrd/57398
 
