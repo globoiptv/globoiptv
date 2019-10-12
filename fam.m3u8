@@ -1,1 +1,49 @@
+#EXTM3U
+#EXTINF:1, group-title="Arabic",Syria SAT
+http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8?DVR
+#EXTINF:2, group-title="Arabic",Sama Syria
+http://sama-tv.net:1935/live/samatv/playlist.m3u8
+#EXTINF:3, group-title="Arabic",Syrian Drama
+http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
+#EXTINF:4, group-title="News",Al Ikhbaria
+http://82.137.248.16:1935/Snews/stream20112018/playlist.m3u8?DVR
+#EXTINF:5, group-title="Arabic",Ogarit
+http://82.137.248.16:1935/Ugarit/stream20112018/playlist.m3u8?DVR
 
+#EXTINF:10, group-title="Turkish",KANAL D HD
+https://blutv-beta.akamaized.net/kanaldhd/kanaldhd.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:11, group-title="Turkish",STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:15, group-title="Turkish",A2 HD
+https://blutv-beta.akamaized.net/a2/a2.smil/chunklist_b1628000_sltur.m3u8
+#EXTINF:16, group-title="Turkish",TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/index_900_av-b.m3u8?sd=10&rebase=on
+
+
+#EXTINF:20, group-title="Arabic",Future
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
+#EXTINF:21, group-title="Arabic",Almanar
+
+http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
+#EXTINF:27, group-title="Arabic",Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:28, group-title="Arabic",Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+
+#EXTINF:30, group-title="Arabic",Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+
+#EXTINF:50, group-title="Christian",Noursat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:51, group-title="Christian",Noursat Mariam TV
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:52, group-title="Christian",Noursat Music
+https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
+#EXTINF:53, group-title="Christian",Noursat Kids
+https://svs.itworkscdn.net/nour7satlive/livestream/playlist.m3u8
+#EXTINF:54, group-title="Christian",Noursat Spirit
+https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
+#EXTINF:55, group-title="Christian",Noursat Kodas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:56, group-title="Christian",Noursat Alkalema
+https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
