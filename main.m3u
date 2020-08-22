@@ -1,77 +1,77 @@
 #EXTM3U
-#EXTINF:-1, group-title="Music", RMC
+#EXTINF:0, group-title="Music", RMC
 rtmp://fms.105.net:1935/live/rmc1
 #EXTINF:0, group-title="Arabic", group-title="Music", NRJ
 http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
 #EXTINF:0, group-title="Arabic", group-title="Music",KroneHit TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 
-#EXTINF:0, group-title="Arabic",Future
+#EXTINF:0, group-title="Arabic", Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
-#EXTINF:-1, group-title="Arabic",Almanar
+#EXTINF:0, group-title="Arabic", Almanar
 http://live.mediaforall.net:1935/liveorigin/livestream_480p/playlist.m3u8
-#EXTINF:-1, group-title="Arabic",MTV
+#EXTINF:0, group-title="Arabic", MTV
 https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/playlist.m3u8?thereislveendtime=1489787347&thereislvewowzastarttime=0&thereislvewowzastcustom=1489780305&thereislvehash=uxD6iV5F4YNB00j_5mPC31eUSJU9N93tzvvv0zOK5IU=
 
-#EXTINF:0, group-title="Arabic",Syria SAT
+#EXTINF:0, group-title="Arabic", Syria SAT
 http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8?DVR
-#EXTINF:0, group-title="Arabic",Sama Syria
+#EXTINF:0, group-title="Arabic", Sama Syria
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
-#EXTINF:0, group-title="Arabic",Syrian Drama
+#EXTINF:0, group-title="Arabic", Syrian Drama
 http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
 #EXTINF:0, group-title="Arabic", group-title="News",Al Ikhbaria
 http://82.137.248.16:1935/Snews/stream20112018/playlist.m3u8?DVR
-#EXTINF:0, group-title="Arabic",Ogarit
+#EXTINF:0, group-title="Arabic", Ogarit
 http://82.137.248.16:1935/Ugarit/stream20112018/playlist.m3u8?DVR
 
-#EXTINF:0, group-title="Arabic",MBC2
+#EXTINF:0, group-title="Arabic", MBC2
 http://63.237.48.28/ios/MBC2/MBC2.m3u8
-#EXTINF:0, group-title="Arabic",MBC Action
+#EXTINF:0, group-title="Arabic", MBC Action
 http://63.237.48.28/ios/MBC_ACTION/MBC_ACTION.m3u8
-#EXTINF:0, group-title="Arabic",MBC Max
+#EXTINF:0, group-title="Arabic", MBC Max
 http://63.237.48.28/ios/MBC_MAX/MBC_MAX.m3u8
-#EXTINF:0, group-title="Arabic",MBC4
+#EXTINF:0, group-title="Arabic", MBC4
 http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 
-#EXTINF:0, group-title="Arabic",sharqyia
+#EXTINF:0, group-title="Arabic", sharqyia
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist_b625000.m3u8
 
-#EXTINF:-1, group-title="News",BBC News
+#EXTINF:0, group-title="News", BBC News
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:-1, group-title="News",Al Arabiya
+#EXTINF:0, group-title="News", Al Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
-#EXTINF:-1, group-title="Arabic",Emarat TV
+#EXTINF:0, group-title="Arabic", Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
-#EXTINF:-1, group-title="Arabic",Dubai TV
+#EXTINF:0, group-title="Arabic", Dubai TV
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
-#EXTINF:-1, group-title="Arabic",Dubai One
+#EXTINF:0, group-title="Arabic", Dubai One
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
-#EXTINF:-1, group-title="Arabic",Dubai Zaman
+#EXTINF:0, group-title="Arabic", Dubai Zaman
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
-#EXTINF:-1, group-title="Arabic",Sama Dubai
+#EXTINF:0, group-title="Arabic", Sama Dubai
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
-#EXTINF:-1, group-title="Arabic",Abu Dhabi TV
+#EXTINF:0, group-title="Arabic", Abu Dhabi TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
-#EXTINF:-1, group-title="Arabic",Abu Dhabi Drama
+#EXTINF:0, group-title="Arabic", Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports
+#EXTINF:0, group-title="Sports",Abu Dhabi Sports
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 2
+#EXTINF:0, group-title="Sports",Abu Dhabi Sports 2
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 3
+#EXTINF:0, group-title="Sports",Abu Dhabi Sports 3
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 4
+#EXTINF:0, group-title="Sports",Abu Dhabi Sports 4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 5
+#EXTINF:0, group-title="Sports",Abu Dhabi Sports 5
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
-#EXTINF:-1, group-title="Sports",Abu Dhabi Sports 6
+#EXTINF:0, group-title="Sports",Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
 
 
-#EXTINF:-1, group-title="Christian",Sat7 1 Arabic
+#EXTINF:0, group-title="Christian",Sat7 1 Arabic
 http://208.93.113.90:1935/sat7arabic/sat7arabic1/index.m3u8
-#EXTINF:-1, group-title="Christian",Sat7 Kids
+#EXTINF:0, group-title="Christian",Sat7 Kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 
 #EXTINF:0, group-title="Arabic", Noursat
@@ -94,7 +94,7 @@ http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist
 #EXTINF:0, group-title="Arabic", Al Hayat 2
 http://media.islamexplained.com:1935/live/ngrp:ahusa.stream_all/BratuMarian.m3u8
 
-#EXTINF:0, group-title="Arabic",AL Rai
+#EXTINF:0, group-title="Arabic", AL Rai
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998
 
 
