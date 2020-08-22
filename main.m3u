@@ -19,7 +19,7 @@ http://82.137.248.16:1935/Sat/stream20112018/playlist.m3u8?DVR
 http://sama-tv.net:1935/live/samatv/playlist.m3u8
 #EXTINF:0, group-title="Arabic", Syrian Drama
 http://82.137.248.16:1935/Drama/stream20112018/playlist.m3u8
-#EXTINF:0, group-title="Arabic", group-title="News",Al Ikhbaria
+#EXTINF:0, group-title="News", Al Ikhbaria
 http://82.137.248.16:1935/Snews/stream20112018/playlist.m3u8?DVR
 #EXTINF:0, group-title="Arabic", Ogarit
 http://82.137.248.16:1935/Ugarit/stream20112018/playlist.m3u8?DVR
@@ -36,10 +36,10 @@ http://63.237.48.28/ios/MBC_4/MBC_4.m3u8
 #EXTINF:0, group-title="Arabic", sharqyia
 https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/chunklist_b625000.m3u8
 
-#EXTINF:0, group-title="News", BBC News
+#EXTINF:0, group-title="News",  BBC News
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/master.m3u8
 
-#EXTINF:0, group-title="News", Al Arabiya
+#EXTINF:0, group-title="News",  Al Arabiya
 http://www.elahmad.com/tv/m3u8/arabiya.m3u8?id=aa
 #EXTINF:0, group-title="Arabic", Emarat TV
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
@@ -374,9 +374,9 @@ http://137.74.205.201/live3/mm-3mbps.m3u8
 http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" tvg-country="TR" tvg-url="" group-title="",Natural TV
 https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" tvg-country="TR" tvg-url="" group-title="News",NTV
+#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" tvg-country="TR" tvg-url="" group-title="News", NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" tvg-country="TR" tvg-url="" group-title="News",NTV
+#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" tvg-country="TR" tvg-url="" group-title="News", NTV
 https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" tvg-country="TR" tvg-url="" group-title="",ON4 TV
 http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
@@ -398,7 +398,7 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" tvg-country="TR" tvg-url="" group-title="",TGRT Belgesel
 http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TGRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hWTdMQ6/K8Vh6HD.png" tvg-country="TR" tvg-url="" group-title="News",TGRT Haber
+#EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TGRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hWTdMQ6/K8Vh6HD.png" tvg-country="TR" tvg-url="" group-title="News", TGRT Haber
 http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" tvg-country="TR" tvg-url="" group-title="",tivi TÜRK
 https://stream.tiviturk.de/live/tiviturk.m3u8
@@ -410,13 +410,13 @@ https://pa9agxjg.rocketcdn.com/tlctv.smil/index.m3u8
 https://tv-trt1.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="" tvg-country="TR" tvg-url="" group-title="",TRT 2
 https://tv-trt2.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-country="TR" tvg-url="" group-title="News",TRT Arabi
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" tvg-country="TR" tvg-url="" group-title="News", TRT Arabi
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" tvg-country="TR" tvg-url="" group-title="",TRT Avaz
 https://tv-trtavaz.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRT Cocuk TR" tvg-name="TRT Cocuk TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" tvg-country="TR" tvg-url="" group-title="Kids",TRT Cocuk
 https://tv-trtcocuk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" tvg-country="TR" tvg-url="" group-title="News",TRT Haber
+#EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" tvg-country="TR" tvg-url="" group-title="News", TRT Haber
 https://tv-trthaber.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bB4yG1Y/cWIvunZ.png" tvg-country="TR" tvg-url="" group-title="",TRT Kurdi
 https://tv-trtkurdi.live.trt.com.tr/master.m3u8
@@ -424,7 +424,7 @@ https://tv-trtkurdi.live.trt.com.tr/master.m3u8
 https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" tvg-country="TR" tvg-url="" group-title="",TRT Türk
 https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" tvg-country="TR" tvg-url="" group-title="News",TRT World
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" tvg-country="TR" tvg-url="" group-title="News", TRT World
 https://tv-trtworld.live.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QXDPwFR/ceYfPXJ.jpg" tvg-country="TR" tvg-url="" group-title="",TV 4
 https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
