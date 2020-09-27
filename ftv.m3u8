@@ -38,9 +38,9 @@ http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
 #EXTINF:0, group-title="Arabic", Abu Dhabi Drama
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
-#EXTINF:0, group-title="Christian" - Sat7 1 Arabic
+#EXTINF:0, group-title="Arabic", Sat7 1 Arabic
 http://208.93.113.90:1935/sat7arabic/sat7arabic1/index.m3u8
-#EXTINF:0, group-title="Christian" - Sat7 Kids
+#EXTINF:0, group-title="Arabic", Sat7 Kids
 http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
 #EXTINF:0, group-title="Arabic", Noursat
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
