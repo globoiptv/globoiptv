@@ -225,7 +225,7 @@ http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 
-#EXTINF:-1, group-title="Armenia", group-title="",H1
+#EXTINF:-1, group-title="Armenia", H1
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1, group-title="Armenia", SONG TV Armenia
 http://songtvam.ru:8060/hd/playlist.m3u8
