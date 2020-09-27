@@ -1,0 +1,223 @@
+#EXTM3U
+#EXTINF:0, group-title="Arabic", Sama TV
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:0, group-title="Arabic", Syria Drama
+http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Syria Drama
+https://mysat-live.ercdn.net/syriadrama/syriadrama.m3u8
+#EXTINF:0, group-title="Arabic", Syria Satellite Channel
+http://82.137.248.16:1935/Sat/stream31122019/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Syria Satellite Channel
+https://mysat-live.ercdn.net/syriatv/syriatv.m3u8
+#EXTINF:0, group-title="Arabic", Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Future
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
+#EXTINF:0, group-title="Arabic", MTV
+https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon.m3u8
+#EXTINF:0, group-title="Arabic", MTV HD
+https://mysat-live.ercdn.net/mtvhd/mtvhd.m3u8
+#EXTINF:0, group-title="Arabic", NBN
+http://localhd.tv:8081/north7/north7/1874
+#EXTINF:0, group-title="Arabic", OTV
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Tele Liban
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+
+#EXTINF:0, group-title="Arabic", Emarat TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat
+#EXTINF:0, group-title="Arabic", Dubai TV
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaitv
+#EXTINF:0, group-title="Arabic", Dubai One
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaione
+#EXTINF:0, group-title="Arabic", Dubai Zaman
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaizaman
+#EXTINF:0, group-title="Arabic", Sama Dubai
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=samadubai
+#EXTINF:0, group-title="Arabic", Abu Dhabi TV
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+#EXTINF:0, group-title="Arabic", Abu Dhabi Drama
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:0, group-title="Christian" - Sat7 1 Arabic
+http://208.93.113.90:1935/sat7arabic/sat7arabic1/index.m3u8
+#EXTINF:0, group-title="Christian" - Sat7 Kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Noursat
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Noursat Mariam TV
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Noursat Music
+https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Noursat Kids
+https://svs.itworkscdn.net/nour7satlive/livestream/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Noursat Spirit
+https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Noursat Kodas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Noursat Alkalema
+https://svs.itworkscdn.net/nour2satlive/livestream/playlist.m3u8
+#EXTINF:0, group-title="Arabic", 3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+#EXTINF:0, group-title="Arabic", ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:0, group-title="Arabic", Al Aan TV
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Al Jadeed
+https://p-mysat-live.ercdn.net/aljadeed/aljadeed.m3u8
+#EXTINF:0, group-title="Arabic", Al Manar
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:0, group-title="Arabic", Al Summaria
+http://iptv--iptv.repl.co/Arabic/Al_summaria
+#EXTINF:0, group-title="Arabic", ART Aflam 1
+https://p-mysat-live.ercdn.net/artaflam1/artaflam1.m3u8
+#EXTINF:0, group-title="Arabic", ART Aflam 2
+https://p-mysat-live.ercdn.net/artaflam2/artaflam2.m3u8
+#EXTINF:0, group-title="Arabic", ART America
+https://p-mysat-live.ercdn.net/artamerica/artamerica.m3u8
+#EXTINF:0, group-title="Arabic", ART Cinema
+https://p-mysat-live.ercdn.net/artcinema/artcinema.m3u8
+#EXTINF:0, group-title="Arabic", ART Hekayat 1
+https://p-mysat-live.ercdn.net/arthekayat/arthekayat.m3u8
+#EXTINF:0, group-title="Arabic", ART Hekayat 2
+https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2.m3u8
+#EXTINF:0, group-title="Arabic", ART Movies
+https://p-mysat-live.ercdn.net/artmovies/artmovies.m3u8
+#EXTINF:0, group-title="Arabic", ART Tarab
+https://p-mysat-live.ercdn.net/tarabtv/tarabtv.m3u8
+#EXTINF:0, group-title="Arabic", ART Variety
+https://p-mysat-live.ercdn.net/artvariety/artvariety.m3u8
+#EXTINF:0, group-title="Arabic", Assyrian ANB
+https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
+#EXTINF:0, group-title="Arabic", BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:0, group-title="Arabic", Canadian Arab TV
+http://142.112.39.133:8080/catv.mp4
+#EXTINF:0, group-title="Arabic", Cartoon Network Arabic
+https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
+#EXTINF:0, group-title="Arabic", Dubai TV
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Emarat TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Future TV
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:0, group-title="Arabic", KTV 1
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", KTV 2
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", KTV Al Majlis
+https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", KTV Arabe
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", KTV Ethraa
+https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", KTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", KTV Sport
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", KTV Sport Plus
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Lana plus
+https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Lana TV
+http://51.81.80.6:25461/live/zeko/zeko/28.m3u8
+#EXTINF:0, group-title="Arabic", Lana TV HD
+http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/26639
+#EXTINF:0, group-title="Arabic", LBC
+https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
+#EXTINF:0, group-title="Arabic", LBC
+https://rotana.hibridmedia.com/rotana/lbc_dabr/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Qatar TV
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
+#EXTINF:0, group-title="Arabic", Qatar TV 2
+http://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
+#EXTINF:0, group-title="Arabic", Sama Dubai
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:0, group-title="Arabic", Syrian Education TV
+http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
+#EXTINF:0, group-title="Arabic", Syrian News Channel
+http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+
+
+#EXTINF:0, group-title="Turkey", A TV
+http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
+#EXTINF:0, group-title="Turkey", A2TV
+https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
+#EXTINF:0, group-title="Turkey", DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+#EXTINF:0, group-title="Turkey", Dream TV
+https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
+#EXTINF:0, group-title="Turkey", EuroStar
+https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
+#EXTINF:0, group-title="Turkey", FOX
+https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
+#EXTINF:0, group-title="Turkey", Kanal 3
+http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
+#EXTINF:0, group-title="Turkey", Kanal D
+https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
+#EXTINF:0, group-title="Turkey",  NTV
+https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
+#EXTINF:0, group-title="Turkey", Show
+https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
+#EXTINF:0, group-title="Turkey", Star TV
+https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:0, group-title="Turkey", Star TV
+https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
+#EXTINF:0, group-title="Turkey", Teve2
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
+#EXTINF:0, group-title="Turkey", TRT 1
+https://tv-trt1.live.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="Turkey", TRT 2
+https://tv-trt2.live.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="Turkey",  TRT Arabi
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="Turkey",  TRT Haber
+https://tv-trthaber.live.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="Turkey", TRT Türk
+https://tv-trtturk.live.trt.com.tr/master.m3u8
+#EXTINF:0, group-title="Turkey", TRT World
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+
+
+#EXTINF:0, group-title="Italy", Rai 3
+http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
+#EXTINF:0, group-title="Italy", Rai 4
+https://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+#EXTINF:0, group-title="Italy", Rai 5
+https://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/master.m3u8
+#EXTINF:0, group-title="Italy", TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+
+
+#EXTINF:0, group-title="Music", VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+
+#EXTINF:0, group-title="News", RT Arabic
+https://rt-arab.secure.footprint.net/1104.m3u8
+#EXTINF:0, group-title="News", CNBC Arabiya
+https://vod.hibridcdn.net/cnbc/liveabr/playlist.m3u8
+#EXTINF:0, group-title="News", Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:0, group-title="News", Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:0, group-title="News", Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:0, group-title="News", Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:0, group-title="News", Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:0, group-title="News", Al Hurra
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:0, group-title="News", Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:0, group-title="News", France 24 Arabic
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:0, group-title="News", BBC Arabic
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/index.m3u8
+#EXTINF:0, group-title="News", BBC News
+http://51.52.156.22:8888/http/004
+#EXTINF:0, group-title="News", BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
