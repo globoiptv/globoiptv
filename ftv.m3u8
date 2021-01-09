@@ -97,24 +97,6 @@ https://p-mysat-live.ercdn.net/aljadeed/aljadeed.m3u8
 https://manar.live/x.smil/tracks-v1a1/mono.m3u8
 #EXTINF:0, group-title="Arabic", Al Summaria
 http://iptv--iptv.repl.co/Arabic/Al_summaria
-#EXTINF:0, group-title="Arabic", ART Aflam 1
-https://p-mysat-live.ercdn.net/artaflam1/artaflam1.m3u8
-#EXTINF:0, group-title="Arabic", ART Aflam 2
-https://p-mysat-live.ercdn.net/artaflam2/artaflam2.m3u8
-#EXTINF:0, group-title="Arabic", ART America
-https://p-mysat-live.ercdn.net/artamerica/artamerica.m3u8
-#EXTINF:0, group-title="Arabic", ART Cinema
-https://p-mysat-live.ercdn.net/artcinema/artcinema.m3u8
-#EXTINF:0, group-title="Arabic", ART Hekayat 1
-https://p-mysat-live.ercdn.net/arthekayat/arthekayat.m3u8
-#EXTINF:0, group-title="Arabic", ART Hekayat 2
-https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2.m3u8
-#EXTINF:0, group-title="Arabic", ART Movies
-https://p-mysat-live.ercdn.net/artmovies/artmovies.m3u8
-#EXTINF:0, group-title="Arabic", ART Tarab
-https://p-mysat-live.ercdn.net/tarabtv/tarabtv.m3u8
-#EXTINF:0, group-title="Arabic", ART Variety
-https://p-mysat-live.ercdn.net/artvariety/artvariety.m3u8
 #EXTINF:0, group-title="Arabic", Assyrian ANB
 https://597f64b67707a.streamlock.net/anbsat.com/anb2/playlist.m3u8
 #EXTINF:0, group-title="Arabic", BBC Arabic
