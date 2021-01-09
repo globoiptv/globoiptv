@@ -15,18 +15,16 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 https://mysat-live.ercdn.net/lbcinternational/lbcinternational.m3u8
 #EXTINF:0, group-title="Arabic", Future
 http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_w354000540_b650000.m3u8
-#EXTINF:0, group-title="Arabic", MTV
-https://mysat-live.ercdn.net/mtvlebanon/mtvlebanon.m3u8
 #EXTINF:0, group-title="Arabic", MTV HD
-https://mysat-live.ercdn.net/mtvhd/mtvhd.m3u8
+http://178.132.3.162:88/MTV_Lebanon/video.m3u8?token=test&checkedby:hlscat.com
 #EXTINF:0, group-title="Arabic", NBN
 http://localhd.tv:8081/north7/north7/1874
 #EXTINF:0, group-title="Arabic", OTV
-https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+http://178.132.3.162:88/OTV/video.m3u8?token=test&checkedby:hlscat.com
 #EXTINF:0, group-title="Arabic", Tele Liban
 https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
 #EXTINF:-1, group-title="Arabic", LBC
-https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8?checkedby:hlscat.com
 #EXTINF:-1, group-title="Arabic", MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
@@ -150,11 +148,9 @@ https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/playlist.m3u8
 #EXTINF:0, group-title="Arabic", KTV Sport Plus
 https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/playlist.m3u8
 #EXTINF:0, group-title="Arabic", Lana plus
-https://svs.itworkscdn.net/alminbartvlive/alminbar/playlist.m3u8
-#EXTINF:0, group-title="Arabic", Lana TV
-http://51.81.80.6:25461/live/zeko/zeko/28.m3u8
+https://stream.lanacanal.tv:5443/LiveApp/streams/201553893335555441819965.m3u8
 #EXTINF:0, group-title="Arabic", Lana TV HD
-http://iptv-line.com:7899/caribbeanroots25-restream/DCPMNO4o/26639
+https://stream.lanacanal.tv:5443/LiveApp/streams/369789291335520284765911.m3u8
 #EXTINF:0, group-title="Arabic", LBC
 https://mysat-live.ercdn.net/lbchd/lbchd.m3u8
 #EXTINF:0, group-title="Arabic", LBC
@@ -169,6 +165,10 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 http://82.137.248.16:1935/SEdu/stream31122019/playlist.m3u8
 #EXTINF:0, group-title="Arabic", Syrian News Channel
 http://82.137.248.16:1935/Snews/stream31122019/playlist.m3u8
+#EXTINF:0 tvg-country="KW" tvg-logo="http://imageswoapi.whatsonindia.com/WhatsOnTV/images/Applicationchannellogo/medium/10000000008040000.png" group-title="Arabic",Alrai TV
+http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998&checkedby:hlscat.com
+#EXTINF:0 tvg-country="SY" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="Arabic",Spacetoon
+https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
 
 
 #EXTINF:0, group-title="Turkey", A TV
