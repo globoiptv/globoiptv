@@ -153,44 +153,116 @@ http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8?v=1053886998&checkedby
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8?checkedby:hlscat.com
 
 
-#EXTINF:0, group-title="Turkey", A TV
-http://streams.livetv.az/turk/atv_turk_sd/playlist.m3u8
-#EXTINF:0, group-title="Turkey", A2TV
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
-#EXTINF:0, group-title="Turkey", DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF:0, group-title="Turkey", Dream TV
-https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
-#EXTINF:0, group-title="Turkey", EuroStar
-https://xrklj56s.rocketcdn.com/eurostar.stream_720p/chunklist.m3u8
-#EXTINF:0, group-title="Turkey", FOX
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
-#EXTINF:0, group-title="Turkey", Kanal 3
-http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8
-#EXTINF:0, group-title="Turkey", Kanal D
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
-#EXTINF:0, group-title="Turkey",  NTV
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:0, group-title="Turkey", Show
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
-#EXTINF:0, group-title="Turkey", Star TV
-https://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:0, group-title="Turkey", Star TV
-https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
-#EXTINF:0, group-title="Turkey", Teve2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:0, group-title="Turkey", TRT 1
-https://tv-trt1.live.trt.com.tr/master.m3u8
-#EXTINF:0, group-title="Turkey", TRT 2
-https://tv-trt2.live.trt.com.tr/master.m3u8
-#EXTINF:0, group-title="Turkey",  TRT Arabi
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:0, group-title="Turkey",  TRT Haber
-https://tv-trthaber.live.trt.com.tr/master.m3u8
-#EXTINF:0, group-title="Turkey", TRT Türk
-https://tv-trtturk.live.trt.com.tr/master.m3u8
-#EXTINF:0, group-title="Turkey", TRT World
-https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1, group-title="Turkish", Tivibu Spor 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/e5989f17a0202e0.m3u8
+#EXTINF:-1, group-title="Turkish", Tivibu Spor 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/6cba4c953cc5109.m3u8
+#EXTINF:-1, group-title="Turkish", Tivibu Spor 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/014818d4a9e3bab.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN 1 TURKISH 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/34d756fd89e735c.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN 2 TURKISH 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/11afe2d943098df.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN 3 TURKISH 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/334261d8ed50e1a.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN IZ
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/22c11520e0f9ce6.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN GURME
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/ee3a121a2673273.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN TURK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b21ae52fbde03ba.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN PREMIERE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/df860ccfd043479.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN STAR
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/e42735ec70cfade.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN ACTION
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/75f786d09364fe6.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN SERIES DRAMA 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/db3bebf0bd1a3d8.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN SERIES SCI-FI
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/108e3ba87e8c95e.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN SERIES VICE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/ec493e1e1259b3e.m3u8
+#EXTINF:-1, group-title="Turkish", A SPOR
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/2d2d399874f79b3.m3u8
+#EXTINF:-1, group-title="Turkish", A2 TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/234f6a09c0e9239.m3u8
+#EXTINF:-1, group-title="Turkish", 360 TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b9e2fb245691464.m3u8
+#EXTINF:-1, group-title="Turkish", KANAL 7
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/2a7eaa42b9ff5ab.m3u8
+#EXTINF:-1, group-title="Turkish", KANAL D
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/13ee600dd9c9fd7.m3u8
+#EXTINF:-1, group-title="Turkish", BEYAZ TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/5b18760c16f2478.m3u8
+#EXTINF:-1, group-title="Turkish", TV 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/1c7c26bbbbda585.m3u8
+#EXTINF:-1, group-title="Turkish", TV 8
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/f00b99b30a8722e.m3u8
+#EXTINF:-1, group-title="Turkish", ATV TURKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/12bfb6c65d32778.m3u8
+#EXTINF:-1, group-title="Turkish", TRT 1 HD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/7b1379f9eb5c261.m3u8
+#EXTINF:-1, group-title="Turkish", TRT MUZIK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b9703e36bd3b2fb.m3u8
+#EXTINF:-1, group-title="Turkish", TRT TURK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/166e1ef21859f00.m3u8
+#EXTINF:-1, group-title="Turkish", TRT WORLD
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/27d576ea2776bcb.m3u8
+#EXTINF:-1, group-title="Turkish", SMART SPOR 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/120ef7043324873.m3u8
+#EXTINF:-1, group-title="Turkish", ANIMAL PLANET TURKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/b5601673ed64f2d.m3u8
+#EXTINF:-1, group-title="Turkish", DISCOVERY TRUKSIH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/65e3ec94b215288.m3u8
+#EXTINF:-1, group-title="Turkish", DISCOVERY SCI TURKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/53777990c99d947.m3u8
+#EXTINF:-1, group-title="Turkish", DISCOVERY SHOWCASE TURKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/54c34a1d8f66450.m3u8
+#EXTINF:-1, group-title="Turkish", NAT GEO TRUKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/3c331c48c92630f.m3u8
+#EXTINF:-1, group-title="Turkish", NAT GEO PEOPLE TRUKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/128cf27260aceee.m3u8
+#EXTINF:-1, group-title="Turkish", CNN TURK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/c05052033a0cb64.m3u8
+#EXTINF:-1, group-title="Turkish", DIZI TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/9b4f964585c97fa.m3u8
+#EXTINF:-1, group-title="Turkish", SINEMA TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/07e41e5bb96005e.m3u8
+#EXTINF:-1, group-title="Turkish", SINEMA TV 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/433da1b0a3b8026.m3u8
+#EXTINF:-1, group-title="Turkish", SINEMA TV AILE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/57a1eecdf23babd.m3u8
+#EXTINF:-1, group-title="Turkish", SINEMA TV AKSIYON
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/90375ceddc33b68.m3u8
+#EXTINF:-1, group-title="Turkish", SINEMA TV 1001
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/8b8823ce5525d9b.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN BOXOFFICE 1
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/f09eb383b1f0023.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN BOXOFFICE 2
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/a545413551837dc.m3u8
+#EXTINF:-1, group-title="Turkish", BEIN BOXOFFICE 3
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/d01dc3d0ded6a6b.m3u8
+#EXTINF:-1, group-title="Turkish", BBC EARTH TURKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/1016a663a2612ed.m3u8
+#EXTINF:-1, group-title="Turkish", HISTORY TV TURKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/f1c045c524ac563.m3u8
+#EXTINF:-1, group-title="Turkish", S Sports
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/970003ab8c41f1a.m3u8
+#EXTINF:-1, group-title="Turkish", Show Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/d89f4f37aad936b.m3u8
+#EXTINF:-1, group-title="Turkish", Star Tv
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/4b22d65e0644e76.m3u8
+#EXTINF:-1, group-title="Turkish", A HABER
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/cb0ec3ba96ae789.m3u8
+#EXTINF:-1, group-title="Turkish", HABER TURK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/9920302d5471cd5.m3u8
+#EXTINF:-1, group-title="Turkish", NTV TURK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/1f84a8376f821bd.m3u8
+#EXTINF:-1, group-title="Turkish", BLOOMBERG TURKISH
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/a3040a2959c7188.m3u8
+#EXTINF:-1, group-title="Turkish", FOX HD 
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Turkish/7cc6ffb013cacc9.m3u8
 
 
 #EXTINF:0, group-title="Italy", Rai 3
@@ -244,520 +316,31 @@ http://51.52.156.22:8888/http/004
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
 
-#EXTINF:-1, group-title="USA", USA NETWORK 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6cdb3402d11f58d.m3u8
-#EXTINF:-1, group-title="USA", SYFY
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8
-#EXTINF:-1, group-title="USA", ABC 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0e6c4d14b1f65b1.m3u8
-#EXTINF:-1, group-title="USA", AMC USA
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/66b474a9a9f378f.m3u8
-#EXTINF:-1, group-title="USA", HBO ZONE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c6742879f48d851.m3u8
-#EXTINF:-1, group-title="USA", HBO SINGNATURE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.m3u8
-#EXTINF:-1, group-title="USA", HBO COMEDY
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/703a7ca1b55dd42.m3u8
-#EXTINF:-1, group-title="USA", Discovery USA
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ef7e8c7bc86110e.m3u8
-#EXTINF:-1, group-title="USA", FOX NEWS
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bdccd1583f23b76.m3u8
-#EXTINF:-1, group-title="USA", HBO HD
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f7572ae43c4e6c9.m3u8
-#EXTINF:-1, group-title="USA", ROMEDY NOW
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/71cbae270b70d42.m3u8
-#EXTINF:-1, group-title="USA", FX
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8
-#EXTINF:-1, group-title="USA", HGTV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/49574eb6f420f42.m3u8
-#EXTINF:-1, group-title="USA", SPIKE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f031091391cd4bc.m3u8
-#EXTINF:-1, group-title="USA", LIFETIME
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/dc7b922d466aff1.m3u8
-#EXTINF:-1, group-title="USA", TNT TV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/34ce89ee7805b57.m3u8
-#EXTINF:-1, group-title="USA", CBS
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/60df592cb434e69.m3u8
-#EXTINF:-1, group-title="USA", STARZ HD
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d5e1cf3fe6ec7a1.m3u8
-#EXTINF:-1, group-title="USA", STARZ WEST
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0195e4ebd24a621.m3u8
-#EXTINF:-1, group-title="USA", STARZ COMEDY
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0410ef59b25fa10.m3u8
-#EXTINF:-1, group-title="USA", STARZ EDGE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5a0cbe78eaa3e8d.m3u8
-#EXTINF:-1, group-title="USA", BRAVO
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0d3dbf8c78f1fb7.m3u8
-#EXTINF:-1, group-title="USA", CW TV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ca29df416404eb0.m3u8
-#EXTINF:-1, group-title="USA", E ENTERTAINMENT
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/745d08bd8add130.m3u8
-#EXTINF:-1, group-title="USA", SHOWTIME
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/01dc6c36aaa44ca.m3u8
-#EXTINF:-1, group-title="USA", FOOD NETWORK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5a6d71f43306a8a.m3u8
-#EXTINF:-1, group-title="USA", HISTORY US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bd2d62fd0dc1671.m3u8
-#EXTINF:-1, group-title="USA", TBS
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.m3u8
-#EXTINF:-1, group-title="USA", COMEDY CENTRAL
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/1decf72573aba25.m3u8
-#EXTINF:-1, group-title="USA", MOVIETIME
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6a85d8af1dba51b.m3u8
-#EXTINF:-1, group-title="USA", NAT GEO USA 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/9aec1251f2f1722.m3u8
-#EXTINF:-1, group-title="USA", FOX US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f653089b2488843.m3u8
-#EXTINF:-1, group-title="USA", CNN US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bc30096cf71a404.m3u8
-#EXTINF:-1, group-title="USA", CINEMAX
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a372ed6cf65b6f5.m3u8
-#EXTINF:-1, group-title="USA", NICK AT NITE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b222b06906f7b01.m3u8
-#EXTINF:-1, group-title="USA", OWN
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ff33126656267e6.m3u8
-#EXTINF:-1, group-title="USA", HALLMARK 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ebdb2e695fb8225.m3u8
-#EXTINF:-1, group-title="USA", HALLMARK  DRAMA
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a05fa9feb340d57.m3u8
-#EXTINF:-1, group-title="USA", HALLMARK  MOVIES & MYSTERIES
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ea42cd8adbacbf5.m3u8
-#EXTINF:-1, group-title="USA", TLC USA
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ae6fb6b1324062f.m3u8
-#EXTINF:-1, group-title="USA", BET
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a12bdf862525aa3.m3u8
-#EXTINF:-1, group-title="USA", LMN US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/85b69598048162d.m3u8
-#EXTINF:-1, group-title="USA", SUNDANCE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5fb14664cf33f02.m3u8
-#EXTINF:-1, group-title="USA", FXX
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/91aa6e119268a4a.m3u8
-#EXTINF:-1, group-title="USA", VH1 US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/916e78353aae72e.m3u8
-#EXTINF:-1, group-title="USA", SEC NETWORK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/96fe5b675f4cd6f.m3u8
-#EXTINF:-1, group-title="USA", MLB NETWORK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/99ef9719dbc08ac.m3u8
-#EXTINF:-1, group-title="USA", FREEFROM
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c23a6e4dd0d025.m3u8
-#EXTINF:-1, group-title="USA", DISNEY CH US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c3aec54924de8fa.m3u8
-#EXTINF:-1, group-title="USA", DISCOVERY SCI
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/109c2fc33faa673.m3u8
-#EXTINF:-1, group-title="USA", DISCOVERY VELOCITY
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67995090b823efb.m3u8
-#EXTINF:-1, group-title="USA", EL REY NETWORK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/4b8d32b1e7dfcd2.m3u8
-#EXTINF:-1, group-title="USA", TV LAND
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8a8b8e9dcaced2e.m3u8
-#EXTINF:-1, group-title="USA", TRAVEL CHANNEL
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/1c507d6a658a8d7.m3u8
-#EXTINF:-1, group-title="USA", TENNIS CHANNEL
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8c570323c46977a.m3u8
-#EXTINF:-1, group-title="USA", BBC AMERICA
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/3f81dd244090bac.m3u8
-#EXTINF:-1, group-title="USA", MSNBC
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8de3156f7d974da.m3u8
-#EXTINF:-1, group-title="USA", BIG TEN NETWORK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0a8c23a12b66e1b.m3u8
-#EXTINF:-1, group-title="USA", GSN
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ad14cbfdae92119.m3u8
-#EXTINF:-1, group-title="USA", IFC
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/cfe184c83cd7ef3.m3u8
-#EXTINF:-1, group-title="USA", ANIMAL PLANET US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2008f2290a3e70b.m3u8
-#EXTINF:-1, group-title="USA", CARTOON NET US
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/37c45aa761c20c2.m3u8
-#EXTINF:-1, group-title="USA", DISCOVERY ID 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d01c3cfe0f2380e.m3u8
-#EXTINF:-1, group-title="USA", DISCOVERY FAMILY 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6b78de5e46919bf.m3u8
-#EXTINF:-1, group-title="USA", A & E USA 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/efa97988d6e8641.m3u8
-#EXTINF:-1, group-title="USA", WE TV 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5b71d35616b119d.m3u8
-#EXTINF:-1, group-title="USA", Paramount Network 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/80944d9a539e072.m3u8
-#EXTINF:-1, group-title="USA", DISCOVERY LIFE 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/50b5663f5c2770a.m3u8
-#EXTINF:-1, group-title="USA", BOUNCE TV 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/7fa33eb99a317cb.m3u8
-#EXTINF:-1, group-title="USA", NICKTOONS 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d75391cc2d2543c.m3u8
-#EXTINF:-1, group-title="USA", TEENNICK 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b02b9f2c6e42794.m3u8
-#EXTINF:-1, group-title="USA", ABC NEWS 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/297dc21e6da8c54.m3u8
 
-#EXTINF:-1, group-title="UK", ITV 1
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/71b5c8483161297.m3u8
-#EXTINF:-1, group-title="UK", ITV 2
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/243606f6f71df8e.m3u8
-#EXTINF:-1, group-title="UK", ITV 3
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/bf02f0afba61c0d.m3u8
-#EXTINF:-1, group-title="UK", ITV 4
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/31f84386f6ed012.m3u8
-#EXTINF:-1, group-title="UK", BBC 1
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a9c9d6191744b75.m3u8
-#EXTINF:-1, group-title="UK", BBC 2
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/95156cdeb0bc708.m3u8
-#EXTINF:-1, group-title="UK", BBC 3
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0d144395561d4a3.m3u8
-#EXTINF:-1, group-title="UK", BBC 4
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/2116d7822ae621d.m3u8
-#EXTINF:-1, group-title="UK", BBC NEWS
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ee612f7b8236fe4.m3u8
-#EXTINF:-1, group-title="UK", True Movies
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/87137967bda4523.m3u8
-#EXTINF:-1, group-title="UK", True Movies 2
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/3e5f78efd0da346.m3u8
-#EXTINF:-1, group-title="UK", 4e
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1890050c4626342.m3u8
-#EXTINF:-1, group-title="UK", Channel 4
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/2ea618de5f502bf.m3u8
-#EXTINF:-1, group-title="UK", Channel 5
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/4f97feb9b8280f4.m3u8
-#EXTINF:-1, group-title="UK", Gold
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0342607cc601d87.m3u8
-#EXTINF:-1, group-title="UK", MORE 4
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/189064d1582f0cf.m3u8
-#EXTINF:-1, group-title="UK", Dave
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0be47bfc0236990.m3u8
-#EXTINF:-1, group-title="UK", Comedy Central
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/863497d7565b826.m3u8
-#EXTINF:-1, group-title="UK", Fox UK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/6e95c53d080eb68.m3u8
-#EXTINF:-1, group-title="UK", Universal
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ab2e5a03cc9c326.m3u8
-#EXTINF:-1, group-title="UK", Watch
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a715b94c20f3d80.m3u8
-#EXTINF:-1, group-title="UK", Pick TV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/fd32f8a1600ae49.m3u8
-#EXTINF:-1, group-title="UK", FILM 4
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ec567c068e1dd78.m3u8
-#EXTINF:-1, group-title="UK", TRAVEL
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/c0e59ba349277a2.m3u8
-#EXTINF:-1, group-title="UK", DISCOVERY HISTORY
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/dd7112fdb7a1a36.m3u8
-#EXTINF:-1, group-title="UK", Discovery Science
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/52a5a986362e674.m3u8
-#EXTINF:-1, group-title="UK", Discovery Turbo
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/4c4eac0aa8f0ecb.m3u8
-#EXTINF:-1, group-title="UK", CNBC Europ
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/331a8a1a91882a8.m3u8
-#EXTINF:-1, group-title="UK", BLOOMBERG
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/41f2f50772ccd02.m3u8
-#EXTINF:-1, group-title="UK", CBS ACTION
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/c3a597dd09effb3.m3u8
-#EXTINF:-1, group-title="UK", CBS DRAMA
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/211b418e801abe6.m3u8
-#EXTINF:-1, group-title="UK", ALIBI
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/3cd0e85e999f335.m3u8
-#EXTINF:-1, group-title="UK", TG 4
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ec0b5488caf47fd.m3u8
-#EXTINF:-1, group-title="UK", TCM
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a245487e9d1c305.m3u8
-#EXTINF:-1, group-title="UK", 5 Star
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/7be123657d17d40.m3u8
-#EXTINF:-1, group-title="UK", FOX MOVIES
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/12f147d13bd5716.m3u8
-#EXTINF:-1, group-title="UK", MTV UK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/05b0f446492a0ab.m3u8
-#EXTINF:-1, group-title="UK", MTV CLASSICS
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/42bd8e0f644431d.m3u8
-#EXTINF:-1, group-title="UK", MTV Base
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/be8c2c558ebc74e.m3u8
-#EXTINF:-1, group-title="UK", MTV Dance
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/185821d45e1de47.m3u8
-#EXTINF:-1, group-title="UK", MTV Hits
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/338e44dddae39e7.m3u8
-#EXTINF:-1, group-title="UK", Nat Geo Wild 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/7cc82784208dd58.m3u8
-#EXTINF:-1, group-title="UK", SkyMovies Disney
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/ec64040b3ed5065.m3u8
-#EXTINF:-1, group-title="UK", 3E
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/b03ff5b6e167764.m3u8
-#EXTINF:-1, group-title="UK", TLC
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f79749a4711e350.m3u8
-#EXTINF:-1, group-title="UK", CNN EUROPE
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/9225137b0a1fe3c.m3u8
-#EXTINF:-1, group-title="UK", Sky Living
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/5ccdee95d1f48d7.m3u8
-#EXTINF:-1, group-title="UK", Sky Atlantic
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/81629bef1f471cc.m3u8
-#EXTINF:-1, group-title="UK", SkyMovies Premiere
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cb427768cc6dc41.m3u8
-#EXTINF:-1, group-title="UK", SkyMoves Action
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/1d2287925a66f4d.m3u8
-#EXTINF:-1, group-title="UK", SkyMovies Comedy
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/b6950ee4033e498.m3u8
-#EXTINF:-1, group-title="UK", SkyMovies Family
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/a44bb0fe3c88b35.m3u8
-#EXTINF:-1, group-title="UK", SkyMovies SciFi-Horror
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/97b221d8b3d07ad.m3u8
-#EXTINF:-1, group-title="UK", SkyMovies Crime
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0cf118c2fbee2b2.m3u8
-#EXTINF:-1, group-title="UK", SkyMovies Greats
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cde9d8d679437ac.m3u8
-#EXTINF:-1, group-title="UK", sky One
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/b7b03db9fa48c84.m3u8
-#EXTINF:-1, group-title="UK", sky two
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/34b303a0cd3e004.m3u8
-#EXTINF:-1, group-title="UK", RTE 1
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0b1c2ea05cf6262.m3u8
-#EXTINF:-1, group-title="UK", RTE 2
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/20181a54fa1193c.m3u8
-#EXTINF:-1, group-title="UK", AXN
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/0f117055295b31b.m3u8
-#EXTINF:-1, group-title="UK", HBO
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/2ad60dd1ff25f67.m3u8
-#EXTINF:-1, group-title="UK", Warner Bros
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f59089a497193eb.m3u8
-#EXTINF:-1, group-title="UK", DRAMA UK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/67bafc25774eec3.m3u8
-#EXTINF:-1, group-title="UK", MNX HD
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/049de21320ebf83.m3u8
-#EXTINF:-1, group-title="UK", MOVIES NOW 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cd8e768b1b89661.m3u8
-#EXTINF:-1, group-title="UK", FOOD NETWORK
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/318c162a68f95ef.m3u8
-#EXTINF:-1, group-title="UK", CBS REALITY
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/59a17c05ea6abc2.m3u8
-#EXTINF:-1, group-title="UK", TRU TV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/6deb134d3785a11.m3u8
-#EXTINF:-1, group-title="UK", YESTARDAY
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/87277572eb43441.m3u8
-#EXTINF:-1, group-title="UK", VH1 CLASSIC
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/3788d00efaebe94.m3u8
-#EXTINF:-1, group-title="UK", 5 USA
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/effee81d66c058e.m3u8
-#EXTINF:-1, group-title="UK", VH1
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/b357b0e494a93d8.m3u8
-#EXTINF:-1, group-title="UK", QUEST TV
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/e8c5b54b86b2bc9.m3u8
-#EXTINF:-1, group-title="UK", Channel 4 Seven
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/bd56e8564bc160e.m3u8
-#EXTINF:-1, group-title="UK", GOOD FOOD
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/6d23576991102e9.m3u8
-#EXTINF:-1, group-title="UK", SONY BBC EARTH EN 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/d8e5ea5571d7a2e.m3u8
-#EXTINF:-1, group-title="UK", DMAX
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/d480329bd1d2d8f.m3u8
-#EXTINF:-1, group-title="UK", SYFY UK 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/dce1d9f1827ecaf.m3u8
-#EXTINF:-1, group-title="UK", RT NEWS 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/c909479e7f7e899.m3u8
-#EXTINF:-1, group-title="UK", RTE NEWS 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/d9e2c86f5f05e2d.m3u8
-#EXTINF:-1, group-title="UK", RTE JUNIOR 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/28af8ba4bcb875d.m3u8
-#EXTINF:-1, group-title="UK", UTV IRELAND 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/3a74cff24b6d3ae.m3u8
-#EXTINF:-1, group-title="UK", REALLY TV 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/f66191bc30bfbf8.m3u8
-#EXTINF:-1, group-title="UK", EDEN TV 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/9e6fc04fae476b4.m3u8
-#EXTINF:-1, group-title="UK", BLAZE TV 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/801a98b42276bae.m3u8
-#EXTINF:-1, group-title="UK", ITV BE 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/364bfe25097b976.m3u8
-#EXTINF:-1, group-title="UK", ITV ENCORE 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/d302841ce1f66be.m3u8
-#EXTINF:-1, group-title="UK", DISCOVERY H & H 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/adb3ea162365d59.m3u8
-#EXTINF:-1, group-title="UK", BBC PARLIAMENT 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/cdfb657ff880124.m3u8
-#EXTINF:-1, group-title="UK", BBC ALBA 
-#EXTVLCOPT:http-user-agent=stream
-http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Uk/7f73ce1d07e8b00.m3u8
 
-#EXTINF:-1, group-title="Arabian", MBC 1 
-#EXTVLCOPT:http-user-agent=stream
+
+
+#EXTINF:-1, group-title="Arabian", MBC 1
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/94fbb6407ca6a41.m3u8
 #EXTINF:-1, group-title="Arabian", MBC 1  HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/226fe77699e03c6.m3u8
-#EXTINF:-1, group-title="Arabian", MBC 2 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC 2
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/7bc1d0cf2b96f95.m3u8
 #EXTINF:-1, group-title="Arabian", MBC 2  HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/b0842f24e6d1603.m3u8
-#EXTINF:-1, group-title="Arabian", MBC 3 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC 3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5b7dfbfa4352074.m3u8
 #EXTINF:-1, group-title="Arabian", MBC 3  HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/926cce7b57d9d07.m3u8
-#EXTINF:-1, group-title="Arabian", MBC 4 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC 4
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/6a5bded361bc7e6.m3u8
 #EXTINF:-1, group-title="Arabian", MBC 4  HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/17c2f7d566484ef.m3u8
-#EXTINF:-1, group-title="Arabian", MBC DRAMA 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC DRAMA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/beb6438a3fe6498.m3u8
 #EXTINF:-1, group-title="Arabian", MBC DRAMA  HD
 #EXTVLCOPT:http-user-agent=stream
@@ -765,20 +348,17 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/908893313a310
 #EXTINF:-1, group-title="Arabian", MBC DRAMA PLUS
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/b05faea23555c5f.m3u8
-#EXTINF:-1, group-title="Arabian", MBC ACTION 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC ACTION
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/b6acc781d1e9b98.m3u8
 #EXTINF:-1, group-title="Arabian", MBC ACTION  HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/46d096a0698cd1f.m3u8
-#EXTINF:-1, group-title="Arabian", MBC BOLLYWOOD 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC BOLLYWOOD
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/3c1c7e8c3d29dc8.m3u8
 #EXTINF:-1, group-title="Arabian", MBC BOLLYWOOD HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/c08ca33fef88ba9.m3u8
-#EXTINF:-1, group-title="Arabian", MBC MAX 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC MAX
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/aed29725d6ff298.m3u8
 #EXTINF:-1, group-title="Arabian", MBC MAX  HD
 #EXTVLCOPT:http-user-agent=stream
@@ -786,11 +366,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/dfc38803f6a88
 #EXTINF:-1, group-title="Arabian", MBC VARIETY HD
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/f5d336674f5264f.m3u8
-#EXTINF:-1, group-title="Arabian", ZEE AFLAM 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", ZEE AFLAM
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/5e6c7e50d780ab8.m3u8
-#EXTINF:-1, group-title="Arabian", ZEE ALWAN 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", ZEE ALWAN
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/2e64a7c403a5e6a.m3u8
 #EXTINF:-1, group-title="Arabian", MBC MASR
 #EXTVLCOPT:http-user-agent=stream
@@ -798,11 +376,9 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/f5ddb5355d759
 #EXTINF:-1, group-title="Arabian", MBC MASR 2
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/bfb51d454bac411.m3u8
-#EXTINF:-1, group-title="Arabian", MBC IRAQ 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC IRAQ
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64ac02a4d811644.m3u8
-#EXTINF:-1, group-title="Arabian", MBC 5 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MBC 5
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/2ab052b02d7c343.m3u8
 #EXTINF:-1, group-title="Arabian", 2m Moroco
 #EXTVLCOPT:http-user-agent=stream
@@ -849,8 +425,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/2082e05125ad3
 #EXTINF:-1, group-title="Arabian", Saudi 1
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/28a275923147f2d.m3u8
-#EXTINF:-1, group-title="Arabian", SBC 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", SBC
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/22134a73fdc3c41.m3u8
 #EXTINF:-1, group-title="Arabian", Sama Dubai
 #EXTVLCOPT:http-user-agent=stream
@@ -1056,8 +631,7 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/6463f936b628a
 #EXTINF:-1, group-title="Arabian", LBC TV
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/3498da87b6dc843.m3u8
-#EXTINF:-1, group-title="Arabian", MTV LEBANON 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", MTV LEBANON
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/d74a1c031469e58.m3u8
 #EXTINF:-1, group-title="Arabian", NBN TV
 #EXTVLCOPT:http-user-agent=stream
@@ -1098,42 +672,238 @@ http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/2e3d32cf0aba4
 #EXTINF:-1, group-title="Arabian", BEIN DRAMA
 #EXTVLCOPT:http-user-agent=stream
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/b6ac915af210dd3.m3u8
-#EXTINF:-1, group-title="Arabian", QATAR TV 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", QATAR TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/c78eaa53e6a0c05.m3u8
-#EXTINF:-1, group-title="Arabian", KTV Ethraa 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", KTV Ethraa
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/7c767fb82af02b4.m3u8
-#EXTINF:-1, group-title="Arabian", BBC ARABIA 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", BBC ARABIA
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/64c03d4e8d7261f.m3u8
-#EXTINF:-1, group-title="Arabian", TELE LIBAN TV 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", TELE LIBAN TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/9ea7117ca38420c.m3u8
-#EXTINF:-1, group-title="Arabian", OMAN TV 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", OMAN TV
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/d5cecc331c0590e.m3u8
-#EXTINF:-1, group-title="Arabian", OMAN LIVE 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", OMAN LIVE
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/1f6825696045cd5.m3u8
-#EXTINF:-1, group-title="Arabian", OMAN CULTURAL 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", OMAN CULTURAL
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/e3c5871cb3bf0c4.m3u8
-#EXTINF:-1, group-title="Arabian", OMAN SPORTS 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", OMAN SPORTS
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/e11b06704e96f40.m3u8
-#EXTINF:-1, group-title="Arabian", Tunisie Attessia 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", Tunisie Attessia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/941e63f3f5bb2bc.m3u8
-#EXTINF:-1, group-title="Arabian", Tunisie Almustakillah 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", Tunisie Almustakillah
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/03ecf45cb41ce7f.m3u8
-#EXTINF:-1, group-title="Arabian", Tunisie Aljanoubia 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", Tunisie Aljanoubia
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/7b3a8ff142b1f2c.m3u8
-#EXTINF:-1, group-title="Arabian", Tunisie Al Insan 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", Tunisie Al Insan
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/bd83ea668cdfc85.m3u8
-#EXTINF:-1, group-title="Arabian", Algeria 3 
-#EXTVLCOPT:http-user-agent=stream
+#EXTINF:-1, group-title="Arabian", Algeria 3
 http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Arabian/8c646e10e0f1755.m3u8
+
+
+
+#EXTINF:-1, group-title="USA", USA NETWORK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6cdb3402d11f58d.m3u8
+#EXTINF:-1, group-title="USA", SYFY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67038808a84c8bf.m3u8
+#EXTINF:-1, group-title="USA", ABC
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0e6c4d14b1f65b1.m3u8
+#EXTINF:-1, group-title="USA", AMC USA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/66b474a9a9f378f.m3u8
+#EXTINF:-1, group-title="USA", HBO ZONE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c6742879f48d851.m3u8
+#EXTINF:-1, group-title="USA", HBO SINGNATURE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c7ef9dc7c56bcc.m3u8
+#EXTINF:-1, group-title="USA", HBO COMEDY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/703a7ca1b55dd42.m3u8
+#EXTINF:-1, group-title="USA", Discovery USA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ef7e8c7bc86110e.m3u8
+#EXTINF:-1, group-title="USA", FOX NEWS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bdccd1583f23b76.m3u8
+#EXTINF:-1, group-title="USA", HBO HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f7572ae43c4e6c9.m3u8
+#EXTINF:-1, group-title="USA", ROMEDY NOW
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/71cbae270b70d42.m3u8
+#EXTINF:-1, group-title="USA", FX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/72f775298861002.m3u8
+#EXTINF:-1, group-title="USA", HGTV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/49574eb6f420f42.m3u8
+#EXTINF:-1, group-title="USA", SPIKE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f031091391cd4bc.m3u8
+#EXTINF:-1, group-title="USA", LIFETIME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/dc7b922d466aff1.m3u8
+#EXTINF:-1, group-title="USA", TNT TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/34ce89ee7805b57.m3u8
+#EXTINF:-1, group-title="USA", CBS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/60df592cb434e69.m3u8
+#EXTINF:-1, group-title="USA", STARZ HD
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d5e1cf3fe6ec7a1.m3u8
+#EXTINF:-1, group-title="USA", STARZ WEST
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0195e4ebd24a621.m3u8
+#EXTINF:-1, group-title="USA", STARZ COMEDY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0410ef59b25fa10.m3u8
+#EXTINF:-1, group-title="USA", STARZ EDGE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5a0cbe78eaa3e8d.m3u8
+#EXTINF:-1, group-title="USA", BRAVO
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0d3dbf8c78f1fb7.m3u8
+#EXTINF:-1, group-title="USA", CW TV
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ca29df416404eb0.m3u8
+#EXTINF:-1, group-title="USA", E ENTERTAINMENT
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/745d08bd8add130.m3u8
+#EXTINF:-1, group-title="USA", SHOWTIME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/01dc6c36aaa44ca.m3u8
+#EXTINF:-1, group-title="USA", FOOD NETWORK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5a6d71f43306a8a.m3u8
+#EXTINF:-1, group-title="USA", HISTORY US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bd2d62fd0dc1671.m3u8
+#EXTINF:-1, group-title="USA", TBS
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2d41bb876ce7c58.m3u8
+#EXTINF:-1, group-title="USA", COMEDY CENTRAL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/1decf72573aba25.m3u8
+#EXTINF:-1, group-title="USA", MOVIETIME
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6a85d8af1dba51b.m3u8
+#EXTINF:-1, group-title="USA", NAT GEO USA
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/9aec1251f2f1722.m3u8
+#EXTINF:-1, group-title="USA", FOX US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/f653089b2488843.m3u8
+#EXTINF:-1, group-title="USA", CNN US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/bc30096cf71a404.m3u8
+#EXTINF:-1, group-title="USA", CINEMAX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a372ed6cf65b6f5.m3u8
+#EXTINF:-1, group-title="USA", NICK AT NITE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b222b06906f7b01.m3u8
+#EXTINF:-1, group-title="USA", OWN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ff33126656267e6.m3u8
+#EXTINF:-1, group-title="USA", HALLMARK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ebdb2e695fb8225.m3u8
+#EXTINF:-1, group-title="USA", HALLMARK  DRAMA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a05fa9feb340d57.m3u8
+#EXTINF:-1, group-title="USA", HALLMARK  MOVIES & MYSTERIES
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ea42cd8adbacbf5.m3u8
+#EXTINF:-1, group-title="USA", TLC USA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ae6fb6b1324062f.m3u8
+#EXTINF:-1, group-title="USA", BET
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/a12bdf862525aa3.m3u8
+#EXTINF:-1, group-title="USA", LMN US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/85b69598048162d.m3u8
+#EXTINF:-1, group-title="USA", SUNDANCE
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5fb14664cf33f02.m3u8
+#EXTINF:-1, group-title="USA", FXX
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/91aa6e119268a4a.m3u8
+#EXTINF:-1, group-title="USA", VH1 US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/916e78353aae72e.m3u8
+#EXTINF:-1, group-title="USA", SEC NETWORK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/96fe5b675f4cd6f.m3u8
+#EXTINF:-1, group-title="USA", MLB NETWORK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/99ef9719dbc08ac.m3u8
+#EXTINF:-1, group-title="USA", FREEFROM
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5c23a6e4dd0d025.m3u8
+#EXTINF:-1, group-title="USA", DISNEY CH US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/c3aec54924de8fa.m3u8
+#EXTINF:-1, group-title="USA", DISCOVERY SCI
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/109c2fc33faa673.m3u8
+#EXTINF:-1, group-title="USA", DISCOVERY VELOCITY
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/67995090b823efb.m3u8
+#EXTINF:-1, group-title="USA", EL REY NETWORK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/4b8d32b1e7dfcd2.m3u8
+#EXTINF:-1, group-title="USA", TV LAND
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8a8b8e9dcaced2e.m3u8
+#EXTINF:-1, group-title="USA", TRAVEL CHANNEL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/1c507d6a658a8d7.m3u8
+#EXTINF:-1, group-title="USA", TENNIS CHANNEL
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8c570323c46977a.m3u8
+#EXTINF:-1, group-title="USA", BBC AMERICA
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/3f81dd244090bac.m3u8
+#EXTINF:-1, group-title="USA", MSNBC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/8de3156f7d974da.m3u8
+#EXTINF:-1, group-title="USA", BIG TEN NETWORK
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/0a8c23a12b66e1b.m3u8
+#EXTINF:-1, group-title="USA", GSN
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/ad14cbfdae92119.m3u8
+#EXTINF:-1, group-title="USA", IFC
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/cfe184c83cd7ef3.m3u8
+#EXTINF:-1, group-title="USA", ANIMAL PLANET US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/2008f2290a3e70b.m3u8
+#EXTINF:-1, group-title="USA", CARTOON NET US
+#EXTVLCOPT:http-user-agent=stream
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/37c45aa761c20c2.m3u8
+#EXTINF:-1, group-title="USA", DISCOVERY ID
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d01c3cfe0f2380e.m3u8
+#EXTINF:-1, group-title="USA", DISCOVERY FAMILY
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/6b78de5e46919bf.m3u8
+#EXTINF:-1, group-title="USA", A & E USA
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/efa97988d6e8641.m3u8
+#EXTINF:-1, group-title="USA", WE TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/5b71d35616b119d.m3u8
+#EXTINF:-1, group-title="USA", Paramount Network
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/80944d9a539e072.m3u8
+#EXTINF:-1, group-title="USA", DISCOVERY LIFE
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/50b5663f5c2770a.m3u8
+#EXTINF:-1, group-title="USA", BOUNCE TV
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/7fa33eb99a317cb.m3u8
+#EXTINF:-1, group-title="USA", NICKTOONS
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/d75391cc2d2543c.m3u8
+#EXTINF:-1, group-title="USA", TEENNICK
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/b02b9f2c6e42794.m3u8
+#EXTINF:-1, group-title="USA", ABC NEWS
+http://4ce5e2d62ee2c10e43c709f9b87c44d5.streamhost.cc/m3u8/Usa/297dc21e6da8c54.m3u8
+
+
+
+
