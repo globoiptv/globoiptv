@@ -1,8 +1,7 @@
 #EXTM3U
 
 #EXTINF:0, group-title="Home", HGTV
-http://tbsrv.me:8880/cicero/cicero/92780
-
+http://104.218.60.68:83/a0w10NwSwz/35222020350823A324475658352020/13
 
 #EXTINF:0, group-title="Italy", Rai 3
 http://wzstreaming.rai.it/TVlive/liveStream/playlist.m3u8
