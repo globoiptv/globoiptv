@@ -50,3 +50,55 @@ http://dprtv.phoenix-dnr.ru/novorossia-tv?checkedby:dailyfreeiptvlist.com
 http://ott.inmart.tv:8081/19/index.m3u8?checkedby:dailyfreeiptvlist.com
 #EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Новый век
 http://rt-ct-tamb-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_TAMB_NOVIY_VEK/variant.m3u8?version=2&checkedby:dailyfreeiptvlist.com
+
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/kz.png" group-title="undefined",Almaty TV, Almaty TV (KZ)
+http://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/kz.png" group-title="undefined",Astana TV, Astana TV (KZ)
+https://sc.id-tv.kz/Astana_38_39.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/at.png" group-title="undefined",Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/by.png" group-title="undefined",Беларусь 4 (Витебск)
+http://95.46.208.8:26258/belarus4?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",12 канал (Омск)
+http://rt-sib-omsk-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_SIB_OMSK_12CHANNEL/variant.m3u8?version=2&checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",31 канал (Челябинск)
+http://rt-ural-chel-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_31TVK_CHEL/variant.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",360°
+http://video1.in-news.ru/360/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",365 Dnei TV
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/23699?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",47 Канал
+http://194.190.88.34:1935/videowhisper/47channel_live_broadcast.stream/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",8 Канал
+http://176.99.110.252/stream8/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",86 канал (Сургут), Телеканал 86 (Сургут)
+https://sitv.ru/hls/s861024.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",ACB TV
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Amedia 1
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11700?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Amedia 2
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11701?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Amedia Home of HBO
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11711?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Animal Planet HD+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11729?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Astrakhan 24 HD
+http://iiiptv.live:8080/ODrHCu5i0i/qDrh1T7QLz/30484?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",BST TV Bashkirskoe Sputnikovoe TV, RU | BST TV Bashkirskoe Sputnikovoe TV
+https://bsttv.bonus-tv.ru/cdn/bst/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Bmecte PO HD
+http://vmesterf.bonus-tv.ru:80/cdn/vmesterf/tracks-v1a1/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Bmecte Po HD
+http://cdn-01.bonus-tv.ru:8080/vmesterf/tracks-v1a1/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Brics TV HD
+http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Brodilo TV, Brodilo.TV, RU | Brodilo TV
+http://brodilo.tv/channel.php?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Discovery Channel HD+
+http://exchange.jinbox.nl:1339/sbtvip/jBRR5bmk/11730?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="undefined" tvg-logo="https://dailyfreeiptvlist.com/uploads/flags/ru.png" group-title="undefined",Djing Hedonist HD
+https://www.djing.com/tv/s-28634-05-hedonist.m3u8?checkedby:dailyfreeiptvlist.com
+
